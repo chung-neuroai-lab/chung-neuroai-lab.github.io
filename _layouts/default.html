@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="blog, accent, {{ site.author }}, {{ site.title }}, jekyll">
+        <meta name="author" content="{{ site.author }}">
+        {% if page.url == "/404.html" %}
+            <meta http-equiv="refresh" content="5; url=/">
+        {% endif %}
+        {% if page.description %}
+            {% assign desc = page.description %}
+        {% else %}
+            {% assign desc = site.description %}
+        {% endif %}
+        {% if page.url %}
+            {% assign url = site.url | append: site.baseurl | append: page.url %}
+        {% else %}
+            {% assign url = site.url | append: site.baseurl | append: page.url %}
+        {% endif %}
+        <meta name="description" content="{{ desc }}">
+        <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+        <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+        <!-- Navigation-->
+        <div class="header">
+            <div class="navbar">
+                <a id ="site-title" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">NAIG</a>
+                <ul id="navlist" class="alignable pull-right navbar-ul">
+                    {% for x in site.nav %}
+                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                        {% if forloop.last == false %}
+                            |
+                        {% endif %}
+                            </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <!-- Main Content-->
+        <hr>
+        <div class="container">
+            {{ content }}
+        </div>
+        <hr>
+        <footer class="footer">
+            <div class="footer-wrapper">
+                <div class="footer-col ta-l flt">
+                    <h3>NYU</h3>
+                    <blockquote>
+                        Center for Neural Science, New York University. 4 Washington Place Meyer 621, New York, NY 10003
+                    </blockquote>
+                </div>
+                <div class="footer-col ta-l flt">            
+                    <h3>Flatiron Institute</h3>
+                    <blockquote>
+                        Center for Computational Neuroscience, Flatiron Institute. 160 5th Avenue, New York, NY 10010    
+                    </blockquote>
+                </div>
+                <div class="footer-col ta-l flt">
+                    <h3>Email</h3>
+                    <blockquote>
+                        schung@flatironinstitute.org
+                    </blockquote>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </footer>
+    </body>
+</html>

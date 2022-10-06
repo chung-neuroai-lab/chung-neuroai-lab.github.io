@@ -1,0 +1,295 @@
+/*
+ * Basic
+ */
+
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0%;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.footer {
+  left:0;
+  bottom:0;
+  width: 100%;
+  background-color: white;
+  font-size: 16px;
+}
+
+.footer-col a {
+  color: black;
+}
+
+.footer-wrapper {
+  width: 80%;
+  display: grid;
+  margin: auto;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));;
+  padding-bottom: 200px;
+}
+
+.footer-col {
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+}
+
+.ta-l {
+  text-align: left;
+}
+.flt {
+  float: left;
+}
+
+.footer-col a {
+  display: block;
+  margin: 0.3em 0;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: gray;
+}
+#external-link {
+    color: blue;
+    text-decoration: none;
+}
+#external-link:hover {
+  color: rgb(124, 124, 255);
+  text-decoration: none;
+}
+
+/*
+ * Navbar
+ */
+
+#site-title {
+    font-weight: 1000;
+    font-size: 80px;
+    display: inline-block;
+}
+
+.header {
+    padding: 10px 0 60px 0;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+  }
+  
+.navbar {
+    padding: 50px 10% 50px 10%;
+}
+.navbar-ul {
+    display: inline-block;
+    margin: 0;
+    padding: 5px 0 5px 0;
+    margin-left: 20px;
+}
+.nav-list {
+    list-style-type: none;
+    margin: 0 5px 0 10px;
+}
+.alignable {
+    display: inline-block;
+}
+.pull-left {
+    float: left;
+}
+.pull-right {
+    float: right;
+}
+
+/* Divs */
+
+.container {
+    margin-top:0; 
+    margin-bottom:10%; 
+    margin-left:10%;
+    margin-right:10%;
+}
+
+/* Institute Image */
+
+#ins-logo {
+	margin: auto;
+	display: block;
+	max-height: 100px;
+	text-align: center;
+}
+
+.cards {
+  margin: auto;
+  display: grid;
+  column-gap: 30px;
+  row-gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+}
+.card > hr {
+  margin-right: 0;
+  margin-left: 0;
+}
+.card > .list-group {
+  border-top: inherit;
+  border-bottom: inherit;
+}
+.card > .list-group:first-child {
+  border-top-width: 0;
+}
+.card > .list-group:last-child {
+  border-bottom-width: 0;
+}
+.card > .card-header + .list-group,
+.card > .list-group + .card-footer {
+  border-top: 0;
+}
+
+.card-body {
+    margin-bottom: 0.25rem;
+    font-size: medium;
+}
+
+.card-title {
+    margin-top:0.25rem;
+    margin-bottom: 0.5rem;
+    font-size: larger;
+}
+
+.card-subtitle {
+    margin-bottom: 0.25rem;
+    font-size: medium;
+}
+
+.card-text:last-child {
+  margin-bottom: 0;
+}
+
+.card-link + .card-link {
+  margin-left: 1rem;
+}
+
+.card-header {
+  padding: 0.5rem 1rem;
+  margin-bottom: 0;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+.card-footer {
+  padding: 0.5rem 1rem;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+}
+.card-header-tabs {
+  margin-right: -0.5rem;
+  margin-bottom: -0.5rem;
+  margin-left: -0.5rem;
+  border-bottom: 0;
+}
+
+.card-header-pills {
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+}
+
+.card-img-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+}
+
+.card-img,
+.card-img-top,
+.card-img-bottom {
+  width: 100%;
+}
+
+.card-group > .card {
+  margin-bottom: 0.75rem;
+}
+
+/* Mobile */
+
+@media (max-width: 650px) {
+  .container {
+      max-width: 83%;
+  }
+  .navbar-ul {
+      margin-top: 5px;
+  }
+} 
+
+@media screen and (max-width: 500px) {
+	.navbar {
+		text-align: center;
+		padding: 50px 0px 0px 0px;
+	}
+	#site-title {
+		width: 100%;
+		float: none;
+	}
+	#navlist {
+		padding: 10px 0 10px 0;
+		margin: 0;
+		display: block;
+		float: none;
+		text-align: center;
+		width: 100%;
+	}
+	#navlist li.alignable {
+		display: inline-block;
+	}
+	#navlist li.pull-left {
+		float: none;
+	}
+	#navlist li.nav-list {
+		margin: 0;
+	}
+  
+  .small-50 {
+    width: 50%;  
+  }
+  .footer-col {
+    border: none;
+  }
+}
+
+#profile-img {
+    border-radius: 50%; 
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#person {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#profile {
+    border: none;
+}
