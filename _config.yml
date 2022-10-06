@@ -1,11 +1,6 @@
 title: NeuroAI and Geometry
 url: "https://chung-neuroai-org.github.io/"
-baseurl: 
 markdown: kramdown
-
-sass:
-    style: compressed
-    sass_dir: _sass
 
 nav:
   - name: "Highlights"
