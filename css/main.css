@@ -131,7 +131,7 @@ a:hover {
   display: grid;
   column-gap: 30px;
   row-gap: 30px;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));;
 }
 
 .card {
@@ -227,6 +227,34 @@ a:hover {
 
 .card-group > .card {
   margin-bottom: 0.75rem;
+}
+
+.pub-card {
+  margin: auto;
+  display: grid;
+  grid-template-columns: 80% 20%;
+}
+
+.pub-card-body {
+  margin-bottom: 0.25rem;
+  font-size: medium;
+}
+
+.pub-card-title {
+  margin-top:0.25rem;
+  margin-bottom: 0.5rem;
+  font-size: larger;
+}
+
+.pub-card-subtitle {
+  margin-bottom: 0.25rem;
+  font-size: medium;
+}
+
+.pub-card-img{
+  position: relative;
+  float: right;
+  width: 100%;
 }
 
 /* Mobile */
