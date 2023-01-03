@@ -14,17 +14,17 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/about-bg.jpg"/>
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/monkey.jpg"/>
     <div id="person" class="card-title"> <!----Title---> Jenelle Feather</div>
     <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
-    <div id="person" class="card-body"> <!--Description--> </div>
+    <div id="person" class="card-body"> <!--Description--> Jenelle received her PhD from MIT and is currently a research fellow at Flatiron Institute.</div>
 </div>
 
 <div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/about-bg.jpg"/>
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/monkey.jpg"/>
     <div id="person" class="card-title"> <!----Title---> Abdul Canatar</div>
     <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
-    <div id="person" class="card-body"> <!--Description--> </div>
+    <div id="person" class="card-body"> <!--Description--> Abdul received her PhD from Harvard University and is currently a research fellow at Flatiron Institute. </div>
 </div>
 
 <div id="profile" class="card">
@@ -65,6 +65,13 @@ is_grid: true
     <div id="person" class="card-title"> <!----Title---> Isabella Rischall</div>
     <div id="person" class="card-subtitle"> <!----Title---> Rotational Student </div> 
     <div id="person" class="card-body"> <!--Description--> Isabella is from Minnesota, and did undergrad at Northwestern University in Chicago. She studied biomedical engineering and integrated sciences, with a minor in philosophy. After graduating, she worked in the Gottlieb group at Columbia University and studied human information seeking behaviors. She is now a first year graduate student in NYU's Center for Neural Science. Outside of science, she has participated in drug policy and harm reduction activism, and loves to hang out with her dog!</div>
+</div>
+
+<div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/monkey.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> Jose Hurtado </div>
+    <div id="person" class="card-subtitle"> <!----Title---> Rotational Student </div> 
+    <div id="person" class="card-body"> <!--Description--> Jose is a first year graduate student in NYU's Center for Neural Science. </div>
 </div>
 
 </div>
