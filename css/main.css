@@ -30,7 +30,7 @@ body {
   width: 80%;
   display: grid;
   margin: auto;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));;
+  grid-template-columns: 33% 33% 33%;
   padding-bottom: 200px;
 }
 
