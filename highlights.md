@@ -6,6 +6,7 @@ is_grid: true
 # Research Highlights
 
 <br>
+<h3> Theory of Neural Manifolds</h3>
 <div class="cards">
 <div class="card">
     <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/cohen-et-al.png" height="300px" width="200px"/>
@@ -27,7 +28,12 @@ is_grid: true
     <div class="card-subtitle"> <!----Title---> <i>Author 3</i></div> 
     <div class="card-body"> <!----Description---> Description 3</div> 
 </div>
+</div>
 
+<br>
+<hr>
+<h3> Neuro-inspired ANN models</h3>
+<div class="cards">
 <div class="card">
     <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/about-bg.jpg" height="300px" width="200px"/>
     <a href=""> <div class="card-title"> <!----Title---> Title 1</div> </a>
@@ -48,5 +54,30 @@ is_grid: true
     <div class="card-subtitle"> <!----Title---> Author 3</div> 
     <div class="card-body"> <!----Description---> Description 3</div> 
 </div>
+</div>
 
+<br>
+<hr>
+<h3> Neural Data</h3>
+<div class="cards">
+<div class="card">
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/about-bg.jpg" height="300px" width="200px"/>
+    <a href=""> <div class="card-title"> <!----Title---> Title 1</div> </a>
+    <div class="card-subtitle"> <!----Title---> Author 1</div> 
+    <div class="card-body"> <!----Description---> Description 1</div> 
+</div>
+
+<div class="card">
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/about-bg.jpg" height="300px" width="200px"/>
+    <a href=""> <div class="card-title"> <!----Title---> Title 2</div> </a>
+    <div class="card-subtitle"> <!----Title---> Author 2</div> 
+    <div class="card-body"> <!----Description---> Description 2</div> 
+</div>
+
+<div class="card">
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/about-bg.jpg" height="300px" width="200px"/>
+    <a href=""> <div class="card-title"> <!----Title---> Title 3</div> </a>
+    <div class="card-subtitle"> <!----Title---> Author 3</div> 
+    <div class="card-body"> <!----Description---> Description 3</div> 
+</div>
 </div>
