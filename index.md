@@ -8,7 +8,3 @@ The NeuroAI and Geometry lab is located at the Center of Neuroscience at NYU and
 
 > 1. developing mathematical theories for characterizing the structure of representations in artificial neural networks and the brain, and 
 > 2. building ANN models of the brain with neurally plausible architecture and learning rules 
-
-## News 
-- Presentation at NEURIPS 
-- Abdul joins the lab 
