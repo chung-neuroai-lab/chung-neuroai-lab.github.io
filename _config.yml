@@ -3,6 +3,8 @@ url: "https://chung-neuroai-org.github.io/"
 markdown: kramdown
 
 nav:
+  - name: "Research"
+    link: "research" 
   - name: "Highlights"
     link: "highlights"
   - name: "News"
