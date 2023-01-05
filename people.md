@@ -75,3 +75,16 @@ is_grid: true
 </div>
 
 </div>
+
+<br>
+<hr>
+<h3>Guest Researchers</h3>
+<div class="cards"> 
+<div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/albert-wakhloo.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> Albert Wakhloo</div>
+    <div id="person" class="card-subtitle"> <!----Title---> Guest Researcher</div> 
+    <div id="person" class="card-body"> <!--Description--> Albert Wakhloo is a post baccalaureate volunteer in the NeuroAI and Geometric Data Analysis Group and a research assistant at the New York State Psychiatric Institute. He is interested in theoretical neuroscience and computational cognitive science and is planning to pursue a Ph.D. in neuroscience. </div>
+</div>
+
+</div>
