@@ -58,7 +58,7 @@ is_grid: true
 </div>
 
 <div class="card">
-    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/cohen-et-al.png" height="300px" width="200px"/>
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/dapello.png" height="300px" width="200px"/>
    <div class="card-title"> <!----Title---> Neural Population Geometry Reveals the Role of Stochasticity in Robust Perception </div> 
     <div class="card-subtitle"> <!----Title---> <i>Joel Dapello, Jenelle Feather, Hang Le, Tiago Marques, David D. Cox, Josh H. McDermott, James J. DiCarlo, SueYeon Chung </i> </div> 
     <div class="card-body"> <!----Description---> using recently developed geometrical techniques from computational neuroscience, we investigate how adversarial perturbations influence the internal representations of standard, adversarially trained, and biologically-inspired stochastic networks. We find distinct geometric signatures for each type of network, revealing different mechanisms for achieving robust representations. [<a id="external-link" href="https://proceedings.neurips.cc/paper/2021/file/8383f931b0cefcc631f070480ef340e1-Paper.pdf">pdf</a>] [<a id="external-link" href="https://github.com/chung-neuroai-lab/adversarial-manifolds">code</a>] [<a id="external-link" href="assets/bib/dapello.html">bib</a>]</div>

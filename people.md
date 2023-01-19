@@ -21,7 +21,7 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/adbul-headshot.png"/>
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/abdul-headshot.png"/>
     <div id="person" class="card-title"> <!----Title---> Abdul Canatar</div>
     <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
     <div id="person" class="card-body"> <!--Description--> Abdul received his PhD from Harvard University in Physics, B.Sc. from Sabanci University in Electronics Engineering and Physics. He is currently a research fellow at Flatiron Institute Center for Computational Neuroscience, interested in the intersection of machine learning and neuroscience. </div>
