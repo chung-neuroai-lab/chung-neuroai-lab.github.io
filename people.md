@@ -7,7 +7,7 @@ is_grid: true
 
 <div class="cards">
 <div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/about-bg.jpg"/>
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/sueyeon-chung.jpg"/>
     <div id="person" class="card-title"> <!----Title---> SueYeon Chung PhD</div> 
     <div id="person" class="card-subtitle"> <!----Title---> Principle Investigator </div> 
     <div id="person" class="card-body">SueYeon received her PhD in Physics at Harvard University and B.A. in Mathematics and Physics at Cornell University. She is currently an assistant professor at NYU Center for Neural Science and a group leader at Flatiron Institute Center for Computational Neuroscience.</div>
@@ -21,10 +21,10 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/monkey.jpg"/>
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/adbul-canatar.jpg"/>
     <div id="person" class="card-title"> <!----Title---> Abdul Canatar</div>
     <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
-    <div id="person" class="card-body"> <!--Description--> Abdul received her PhD from Harvard University and is currently a research fellow at Flatiron Institute. </div>
+    <div id="person" class="card-body"> <!--Description--> Abdul received his PhD from Harvard University and is currently a research fellow at Flatiron Institute. </div>
 </div>
 
 <div id="profile" class="card">
