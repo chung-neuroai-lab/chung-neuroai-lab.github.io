@@ -1,0 +1,80 @@
+I"<h1 id="publications">Publications</h1>
+
+<hr />
+
+<div class="pub-card">
+<div class="pub-card-text">
+<div class="pub-card-title"> The Implicit Bias of Gradient Descent on
+Generalized Gated Linear Networks </div> 
+<div class="pub-card-subtitle"> Samuel Lippl, L.F. Abbott, and SueYeon Chung, </div> 
+<div class="pub-card-body"> Understanding the asymptotic behavior of gradient-descent training of deep neural networks is essential for revealing inductive biases and improving network performance. We derive the infinite-time training limit of a mathematically tractable class of deep nonlinear neural networks, gated linear networks (GLNs), and generalize these results to gated networks described by general homogeneous polynomials.  [<a id="external-link" href="https://arxiv.org/pdf/2202.02649.pdf">pdf</a>] [<a id="external-link" href="assets/bib/lippl2022.html">bib</a>]</div>
+</div>
+<img class="pub-card-img" src="http://localhost:4000assets/img/lippl-et-al.png" />
+</div>
+
+<hr />
+
+<div class="pub-card">
+<div class="pub-card-text">
+<div class="pub-card-title"> Divisive Feature Normalization Improves Image Recognition Performance in AlexNet</div> 
+<div class="pub-card-subtitle"> Michelle Miller, SueYeon Chung, Kenneth D. Miller </div> 
+<div class="pub-card-body"> Local divisive normalization provides a phenomenological description of many nonlinear response properties of neurons across visual cortical areas. To gain insight into the utility of this operation, we studied the effects on AlexNet of a local divisive normalization between features, with learned parameters.   [<a id="external-link" href="https://openreview.net/pdf?id=aOX3a9q3RVV">pdf</a>] [<a id="external-link" href="assets/bib/miller2022.html">bib</a>]</div>
+</div>
+<img class="pub-card-img" src="http://localhost:4000assets/img/miller-et-al.png" />
+</div>
+
+<hr />
+
+<div class="pub-card">
+<div class="pub-card-text">
+<div class="pub-card-title"> Syntactic Perturbations Reveal Representational Correlates of Hierarchical Phrase Structure in Pretrained Language Models </div> 
+<div class="pub-card-subtitle"> Matteo Alleman, Jonathan Mamou, Miguel A Del Rio, Hanlin Tang, Yoon Kim+, SueYeon Chung+ </div> 
+<div class="pub-card-body"> It is not entirely clear what aspects of sentence-level syntax are captured by  vector-based language representations, nor how (if at all) they are built along the stacked layers of the network. In this paper, we aim to address such questions with a general class of interventional, input perturbation-based analyses of representations from pretrained language models. Importing from computational and cognitive neuroscience the notion of representational invariance, we perform a series of probes designed to test the sensitivity of these representations to several kinds of structure in sentences.  [<a id="external-link" href="https://aclanthology.org/2021.repl4nlp-1.27.pdf">pdf</a>] [<a id="external-link" href="assets/bib/alleman-et-al.html">bib</a>]</div>
+</div>
+<img class="pub-card-img" src="http://localhost:4000assets/img/alleman-et-al.png" />
+</div>
+
+<hr />
+
+<div class="pub-card">
+<div class="pub-card-text">
+<div class="pub-card-title"> Understanding the Logit Distributions of Adversarially-Trained Deep Neural Networks</div> 
+<div class="pub-card-subtitle"> Landan Seguin, Anthony Ndirango, Neeli Mishra, SueYeon Chung, Tyler Lee </div> 
+<div class="pub-card-body"> Although adversarial training is successful at mitigating adversarial attacks, the behavioral differences between adversarially-trained (AT) models and standard models are still poorly understood. Motivated by a recent study on learning robustness without input perturbations by distilling an AT model, we explore what is learned during adversarial training by analyzing the distribution of logits in AT models.   [<a id="external-link" href="https://arxiv.org/pdf/2108.12001.pdf">pdf</a>] [<a id="external-link" href="assets/bib/seguin-et-al.html">bib</a>]</div>
+</div>
+<img class="pub-card-img" src="http://localhost:4000assets/img/seguin-et-al.png" />
+</div>
+
+<hr />
+
+<div class="pub-card">
+<div class="pub-card-text">
+<div class="pub-card-title"> On the geometry of generalization and memorization in deep neural networks</div> 
+<div class="pub-card-subtitle"> Cory Stephenson, Suchismita Padhy, Abhinav Ganesh, Yue Hui, Hanlin Tang, and SueYeon Chung </div> 
+<div class="pub-card-body"> To examine the structure of when and where memorization occurs in a deep network, we use a recently developed replica-based mean field theoretic geometric analysis method. We find that all layers preferentially learn from examples which share features, and link this behavior to generalization performance.[<a id="external-link" href="https://openreview.net/pdf?id=V8jrrnwGbuc">pdf</a>] [<a id="external-link" href="assets/bib/stephensen-memorization-2020.html">bib</a>]</div>
+</div>
+<img class="pub-card-img" src="http://localhost:4000assets/img/stephensen-memorization-2020.png" />
+</div>
+
+<hr />
+
+<div class="pub-card">
+<div class="pub-card-text">
+<div class="pub-card-title"> Emergence of Separable Manifolds in Deep Language Representations</div> 
+<div class="pub-card-subtitle"> Jonathan Mamou, Hang Le, Miguel A Del Rio, Cory Stephenson, Hanlin Tang, Yoon Kim, SueYeon Chung </div> 
+<div class="pub-card-body"> We utilize mean-field theoretic manifold analysis, a recent technique from computational neuroscience that connects geometry of feature representations with linear separability of classes, to analyze language representations from large-scale contextual embedding models. We explore representations from different model families (BERT, RoBERTa, GPT, etc.) and find evidence for emergence of linguistic manifolds across layer depth (e.g., manifolds for part-of-speech tags), especially in ambiguous data (i.e, words with multiple part-of-speech tags, or part-of-speech classes including many words). [<a id="external-link" href="http://proceedings.mlr.press/v119/mamou20a/mamou20a.pdf">pdf</a>] [<a id="external-link" href="https://github.com/schung039/contextual-repr-manifolds">code</a>] [<a id="external-link" href="assets/bib/mamou.html">bib</a>]</div>
+</div>
+<img class="pub-card-img" src="http://localhost:4000assets/img/mamou.png" />
+</div>
+
+<hr />
+
+<div class="pub-card">
+<div class="pub-card-text">
+<div class="pub-card-title"> On 1/n neural representation and robustness</div> 
+<div class="pub-card-subtitle"> Josue Nassar, Piotr Aleksander Sokol, SueYeon Chung, Kenneth D. Harris, Il Memming Park</div> 
+<div class="pub-card-body">  In this work, we investigate the robustness to perturbations in neural networks by juxtaposing experimental results regarding the covariance spectrum of neural representations in the mouse V1 (Stringer et al) with artificial neural networks. We use adversarial robustness to probe Stringer et al's theory regarding the causal role of a 1/n covariance spectrum. [<a id="external-link" href="https://proceedings.neurips.cc/paper/2020/file/44bf89b63173d40fb39f9842e308b3f9-Paper.pdf">pdf</a>] [<a id="external-link" href="assets/bib/nassar.html">bib</a>]</div>
+</div>
+<img class="pub-card-img" src="http://localhost:4000assets/img/nassar.png" />
+</div>
+:ET
