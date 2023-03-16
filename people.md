@@ -15,14 +15,14 @@ is_grid: true
 
 <div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/jenelle-feather.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> <a id="https://www.jenellefeather.com/">Jenelle Feather</a></div>
+    <div id="person" class="card-title"> <!----Title---> <a id="external-link" href="https://www.jenellefeather.com/">Jenelle Feather</a></div>
     <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
     <div id="person" class="card-body"> <!--Description--> Jenelle received her PhD from MIT in Brain and Cognitive Sciences, and S.B. from MIT in Physics and Brain and Cognitive Sciences. She is currently a research fellow at Flatiron Institute Center for Computational Neuroscience.</div>
 </div>
 
 <div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/abdul-headshot.png"/>
-    <div id="person" class="card-title"> <!----Title---> <a id="https://scholar.google.com/citations?user=_F4TER8AAAAJ&hl=en">Abdul Canatar</a></div>
+    <div id="person" class="card-title"> <!----Title---> <a id="external-link" href="https://scholar.google.com/citations?user=_F4TER8AAAAJ&hl=en">Abdul Canatar</a></div>
     <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
     <div id="person" class="card-body"> <!--Description--> Abdul received his PhD from Harvard University in Physics, B.Sc. from Sabanci University in Electronics Engineering and Physics. He is currently a research fellow at Flatiron Institute Center for Computational Neuroscience, interested in the intersection of machine learning and neuroscience. </div>
 </div>
@@ -36,7 +36,7 @@ is_grid: true
 
 <div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/ngayu.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> <a id="https://www.ngayulo.com">Nga Yu Lo</a></div>
+    <div id="person" class="card-title"> <!----Title---> <a id="external-link" href="https://www.ngayulo.com">Nga Yu Lo</a></div>
     <div id="person" class="card-subtitle"> <!----Title---> Research Analyst</div> 
     <div id="person" class="card-body">Nga Yu graduated from Macaulay Honors College at CUNY Hunter College with B.A. in mathematics and computer science. She is interested in the intersection between artificial intelligence and computational neuroscience. Currently, she is working on extending the theory of manifold capacity and understanding the underlying geometries in high dimensional data. In her free time, she enjoys hiking and drawing.</div>
 </div>
