@@ -69,6 +69,7 @@ a:hover {
     color: blue;
     text-decoration: none;
 }
+
 #external-link:hover {
   color: rgb(124, 124, 255);
   text-decoration: none;
