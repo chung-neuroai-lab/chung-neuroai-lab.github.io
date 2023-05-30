@@ -54,26 +54,11 @@ is_grid: true
 <h3>Rotational Students</h3>
 <div class="cards"> 
 <div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/elisa-chinigo.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> Elisa Chinigo</div>
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/alan-lai.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> Alan Lai</div>
     <div id="person" class="card-subtitle"> <!----Title---> Rotational Student</div> 
-    <div id="person" class="card-body"> <!--Description--> Elisa completed her BSc in Natural Sciences and an MSc in Mathematical Modelling at UCL, where Elisa worked with Dr. Caswell Barry on creating a neurobiologically-plausible successor representation model for spatial navigation in mammals. During her rotation, Elisa hope to explore how manifolds can be applied to untangling spatial and decision-making neural data. In her free time she like to go sailing, experiment with some cooking and going to music gigs.</div>
+    <div id="person" class="card-body"> <!--Description--> Alan is currently a first year PhD student in Neuroscience at NYU's Center for Neural Science with interested in analyzing the geometry of neural representations and exploring the intersection of neural networks and neuroscience. He received his B.S. in Computational Biology at Carnegie Mellon University's School of Computer Science where he was advised by Eric Yttri and Leila Wehbe.</div>
 </div>
-
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/isabella-rischall.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> Isabella Rischall</div>
-    <div id="person" class="card-subtitle"> <!----Title---> Rotational Student </div> 
-    <div id="person" class="card-body"> <!--Description--> Isabella is from Minnesota, and did undergrad at Northwestern University in Chicago. She studied biomedical engineering and integrated sciences, with a minor in philosophy. After graduating, she worked in the Gottlieb group at Columbia University and studied human information seeking behaviors. She is now a first year graduate student in NYU's Center for Neural Science. Outside of science, she has participated in drug policy and harm reduction activism, and loves to hang out with her dog!</div>
-</div>
-
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/Jose Rafael Hurtado.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> Jose Hurtado </div>
-    <div id="person" class="card-subtitle"> <!----Title---> Rotational Student </div> 
-    <div id="person" class="card-body"> <!--Description--> Jose is interested in how the hippocampus, a well characterized brain region involved in episodic memory, integrates information from different modalities (spatial,temporal,contextual) to paint a flexible picture of the present and past world. Currently, he is exploring how manifold representations may help differentiate contexts during spatial navigation.</div>
-</div>
-
 </div>
 
 <br>
