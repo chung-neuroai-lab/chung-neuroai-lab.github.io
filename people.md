@@ -113,4 +113,11 @@ is_grid: true
     <div id="person" class="card-body"> <!--Description--> Zijing is a Mathematics and Computer Science undergraduate student at Georgia Tech, with a minor in psychology, who will be interning at Flatiron Institute for summer research. He is excited to explore the role of stochasticity plays in both of biological and artificial neural networks. Apart from academic life, he finds enjoyment in reading, playing table tennis and soccer, and listening to classical music and jazz. </div>
 </div>
 
+<div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/francesco-mantegna.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> Francesco Mantagna</div>
+    <div id="person" class="card-subtitle"> <!----Title---> Summer Intern</div> 
+    <div id="person" class="card-body"> <!--Description--> Francesco is a PhD candidate in Experimental Psychology at New York University. Before that, he received a M.Sc. degree in Cognitive Science from the University of Trento and worked as a research intern at the Max Planck Institute for Psycholinguistics and at the Bruno Kessler Foundation. He will be a summer intern at the Flatiron Institute (CCN) working in the NeuroAI and Geometric Data Analysis group led by Dr. SueYeon Chung. In his free time he enjoys live music, hiking, running and swimming.  </div>
+</div>
+
 </div>
