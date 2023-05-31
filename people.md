@@ -15,21 +15,21 @@ is_grid: true
 
 <div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/jenelle-feather.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> <a href="https://www.jenellefeather.com/">Jenelle Feather</a></div>
+    <div id="person" class="card-title"> <!----Title---> <a href="https://www.jenellefeather.com/">Jenelle Feather PhD</a></div>
     <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
     <div id="person" class="card-body"> <!--Description--> Jenelle received her PhD from MIT in Brain and Cognitive Sciences, and S.B. from MIT in Physics and Brain and Cognitive Sciences. She is currently a research fellow at Flatiron Institute Center for Computational Neuroscience.</div>
 </div>
 
 <div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/abdul-headshot.png"/>
-    <div id="person" class="card-title"> <!----Title---> <a href="https://scholar.google.com/citations?user=_F4TER8AAAAJ&hl=en">Abdul Canatar</a></div>
+    <div id="person" class="card-title"> <!----Title---> <a href="https://scholar.google.com/citations?user=_F4TER8AAAAJ&hl=en">Abdul Canatar PhD</a></div>
     <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
     <div id="person" class="card-body"> <!--Description--> Abdul received his PhD from Harvard University in Physics, B.Sc. from Sabanci University in Electronics Engineering and Physics. He is currently a research fellow at Flatiron Institute Center for Computational Neuroscience, interested in the intersection of machine learning and neuroscience. </div>
 </div>
 
 <div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/chi-ning-chou.png"/>
-    <div id="person" class="card-title"> <!----Title---> Chi-Ning Chou</a></div>
+    <div id="person" class="card-title"> <!----Title---> Chi-Ning Chou PhD</div>
     <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
     <div id="person" class="card-body"> <!--Description--> Chi-Ning is a Flatiron Research Fellow in Professor SueYeon Chung group at the Flatiron Institute. He earned his Ph.D. from Harvard University in 2023 Spring, advised by Professor Boaz Barak. Currently he focuses on developing frameworks and quantitative methodologies for building up computational understandings of the brain at the neural population level. </div>
 </div>
