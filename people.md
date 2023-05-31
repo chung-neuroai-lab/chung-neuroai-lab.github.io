@@ -107,7 +107,7 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/zijing-wu.jpg"/>
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/zijing-wu.png"/>
     <div id="person" class="card-title"> <!----Title---> Zijing Wu</div>
     <div id="person" class="card-subtitle"> <!----Title---> Summer Intern</div> 
     <div id="person" class="card-body"> <!--Description--> Zijing is a Mathematics and Computer Science undergraduate student at Georgia Tech, with a minor in psychology, who will be interning at Flatiron Institute for summer research. He is excited to explore the role of stochasticity plays in both of biological and artificial neural networks. Apart from academic life, he finds enjoyment in reading, playing table tennis and soccer, and listening to classical music and jazz. </div>
