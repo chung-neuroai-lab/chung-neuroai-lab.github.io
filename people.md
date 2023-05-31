@@ -28,6 +28,13 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/chi-ning-chou.png"/>
+    <div id="person" class="card-title"> <!----Title---> Chi-Ning Chou</a></div>
+    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
+    <div id="person" class="card-body"> <!--Description--> Chi-Ning is a Flatiron Research Fellow in Professor SueYeon Chung group at the Flatiron Institute. He earned his Ph.D. from Harvard University in 2023 Spring, advised by Professor Boaz Barak. Currently he focuses on developing frameworks and quantitative methodologies for building up computational understandings of the brain at the neural population level. </div>
+</div>
+
+<div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/sonica-saraf.jpg"/>
     <div id="person" class="card-title"> <!----Title---> Sonica Saraf</div>
     <div id="person" class="card-subtitle"> <!----Title---> PhD Student (Co-advised)</div> 
@@ -77,6 +84,33 @@ is_grid: true
     <div id="person" class="card-title"> <!----Title---> Michael Kuoch</div>
     <div id="person" class="card-subtitle"> <!----Title---> Guest Researcher</div> 
     <div id="person" class="card-body"> <!--Description--> Michael is currently an undergraduate at MIT studying computer science.  He is interested broadly in machine learning and artificial intelligence. </div>
+</div>
+
+</div>
+
+<br>
+<hr>
+<h3>Interns</h3>
+<div class="cards"> 
+<div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/ariel-largen.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> Ariel Largen</div>
+    <div id="person" class="card-subtitle"> <!----Title---> Summer Intern</div> 
+    <div id="person" class="card-body"> <!--Description--> Ariel is an undergraduate student in Computation and Cognition at MIT and a Summer Research Assistant at the Flatiron Institute. </div>
+</div>
+
+<div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/shaunak-bhandarkar.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> Shaunak Bhandarkar</div>
+    <div id="person" class="card-subtitle"> <!----Title---> Summer Intern</div> 
+    <div id="person" class="card-body"> <!--Description--> Shaunak is an undergraduate at Stanford studying math and neuroscience. In his current research, he has been working on developing biologically plausible neural network models that aim to capture one-shot learning in the hippocampus. As part of Dr. SueYeon Chung's group this summer, he plans to develop a mathematical framework for assessing how neural populations can develop flexible, abstract representations when trained in a multi-task regime. </div>
+</div>
+
+<div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/zijing-wu.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> Zijing Wu</div>
+    <div id="person" class="card-subtitle"> <!----Title---> Summer Intern</div> 
+    <div id="person" class="card-body"> <!--Description--> Zijing is a Mathematics and Computer Science undergraduate student at Georgia Tech, with a minor in psychology, who will be interning at Flatiron Institute for summer research. He is excited to explore the role of stochasticity plays in both of biological and artificial neural networks. Apart from academic life, he finds enjoyment in reading, playing table tennis and soccer, and listening to classical music and jazz. </div>
 </div>
 
 </div>
