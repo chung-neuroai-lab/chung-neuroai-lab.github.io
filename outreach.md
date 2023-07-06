@@ -14,12 +14,8 @@ layout: default
 </li>
 </ul>
 
-
-<div class="wrap-collabsible">
-    <input id="collapsible" class="toggle" type="checkbox">
-    <label for="collapsible" class="lbl-toggle">See more</label>
-    <div class="collapsible-content">
-    <div class="content-inner">
+<details>
+    <summary>See more</summary>
     <ul> 
     <li> Conference on Parsimony and Learning (CPAL), Hong Kong, Jan 2024 (Upcoming) </li>
     <li> Lake Conferences: Neural Coding and Dynamics, Seattle, WA, Sep 2023 (Upcoming) </li>
@@ -65,9 +61,7 @@ layout: default
     <li> External Seminar, Gatsby Computational Neuroscience Unit at UCL, London, UK, Oct 2017    </li>
     <li> COSYNE 2017 Workshop: "Deep Learning" and the brain: understanding neural representations with deep networks, Snowbird, UT, Feb 2017 </li>
 </ul>
-</div>
-</div>
-</div>
+</details>
 
 # Media and Press
 <ul>
