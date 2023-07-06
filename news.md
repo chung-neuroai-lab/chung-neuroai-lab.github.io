@@ -4,122 +4,40 @@ layout: default
 
 # News
 
-20-24/2/2023
+July 2023, Chi-Ning Chou joins our lab as a postdoctoral researcher
 
-Great week at the Les Houches Workshop on the Theory of Neural Networks!
+July 2023, Our lab receives the Klingenstein Simons award!
 
-1/4/2023
-	
+June 2023, Jenelle speaks at the Junior Theoretical Neuroscientist Workshop at Flatiron CCN  
 
-New Paper in PNAS! Collaboration with Dan Sanes Lab
+June 2023, Jenelle’s spotlight paper published in Trends in Cognitive Science
 
-12/12/2022
-	
+June 2023, Ariel Largen, Francesco Mantegna, Shaunak Bhandarkar, Yichen Wang, and Zijing Wu join our lab as summer interns. 
 
-Virtual Talk at Brainy Days In Jerusalem: The Future of Neuroscience
+April 2023, Congratulations to Albert Wakhloo, who will be attending Columbia for his PhD in Neural Science
 
-10/26/2022
-	
+April 2023, Congratulations to Yilun Kuang, who will be attending the NYU for his PhD in Data Science
 
-Talk at CIFAR Learning in Machines & Brains (LMB) Program Workshop
+March 2023, Teddy Yerxa (co-mentored with Eero Simoncelli) and Yilun Kuang present their poster at Cosyne. Jenelle Feather also presents! 
 
-10/4/2022
-	
+January 2023, New Paper in PNAS! Collaboration with Dan Sanes Lab
 
-Talk at Kavli Salon: Network Science Meets Neuroscience 
+December 2023, Intern Andrew Ligeralde’s paper got accepted into Neurreps workshop 
 
-9/8/2022
-	
+November 2022, Intern Wanyu Lei presents poster at Deepmath  
 
-Talk at Nature conference on AI, neuroscience and hardware
+October 2022, Abdul Canatar and Jenelle Feather joins our lab as postdoctoral researchers 
 
-9/1/2022
-	
+September 2022, Graduate student Sonica Saraf (co-advised with Tony Movshon) joins the lab
 
-First day at NYU! Our lab is now fully joint between NYU and Flatiron Institute.
+September 2022, Our lab joins NYU’s Center for Neural Science. We are now fully joint between NYU and Flatiron Institute 
 
-8/26/2022
-	
+June 2022, PhD candidates Andrew Ligeralde, Aishwarya Balwani, Chi-Ning Chou, and Wanyu Lei join our lab as summer interns. Yilun Kuang also joins the lab as an undergraduate summer intern.  
 
-Talk at CCN-GAC (Computational Cognitive Neuroscience, Generative Adversarial Collaborations) 
+June 2022, Nga Yu Lo joins the lab as a research analyst  
 
-8/15/2022
-	
+April 2022, Our lab’s past & future research directions were featured in Flatiron Scientist Spotlight.
 
-Keynote talk at AdvML’22 workshop at KDD conference
+February 2022, New preprint (arxiv): “The implicit bias of gradient descent on generalized gated linear networks”
 
-7/14/2022
-	
-
-Lecture at CSHL: Computational Neuroscience Vision 
-
-6/13/2022
-	
-
-Talk at Challenges and Prospects of ML for the Physical Sciences (Flatiron CCM)
-
-6/10/2022
-	
-
-Lecture at 2022 Flatiron Machine Learning X Science Summer School
-
-6/07/2022
-	
-
-Virtual talk at Neuroscience & Statistical Physics Workshop at SISSA Trieste
-
-5/19/2022
-	
-
-Talk at Duke Neurobiology Department (Theoretical Neuroscience Seminar Series)
-
-4/25/2022
-	
-
-Minds, Brains, Machines Colloquium Talk at NYU Center for Data Science
-
-4/19/2022
-	
-
-Our lab’s past & future research directions were featured in Flatiron Scientist Spotlight. 
-
-4/15/2022
-	
-
-Virtual talk at the Stanford Psychology Department (Friday Seminar Series)
-
-3/22/2022
-	
-
-Virtual talk at COSYNE 2022’s workshop on representation geometry. 
-
-3/10/2022
-	
-
-Excited to join the organizing team for the Conference on the Mathematical Theory of Deep Neural Networks (DeepMath), 2022.
-
-2/11/2022
-	
-
-In-person talk at Harvard, for Harvard ML Foundations Group.
-
-2/5/2022
-	
-
-New preprint (arxiv): “The implicit bias of gradient descent on generalized gated linear networks”
-
-1/26/2022
-	
-
-Talk at the WWTNS (World Wide Theoretical Neuroscience Seminar Series). 
-
-1/12/2022
-	
-
-Talk at the Banff International Research Station (BIRS) Workshop on Dynamical Principles of Biological and Artificial Neural Networks (Online)
-
-1/3/2022
-	
-
-First day in the Center for Computational Neuroscience at the Flatiron Institute!
-
+January 2022, Our lab joins Flatiron Institute’s Center for Computational Neuroscience 
