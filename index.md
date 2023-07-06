@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# The NeuroAI and Geometry Lab 
-
 <p align="center">
 <img src="assets/img/neural-manifolds.png" width="50%"> 
 </p>

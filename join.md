@@ -3,11 +3,10 @@ layout: default
 ---
 ## Join Us
 
-The study of the brain is a multidisciplinary pursuit that necessitates a broad range of expertise encompassing fields such as Cognitive Science, Neuroscience, Physics, Computer Science, and Mathematics. Our laboratory currently has open positions available for postdoctoral fellows and graduate students, welcoming individuals with diverse backgrounds and interests.
+The study of the brain is a multidisciplinary pursuit. Our lab welcomes a broad range of expertise, encompassing fields such as  Neuroscience, Physics, Machine Learning, Electrical Engineering and Applied Mathematics. Our laboratory currently has open positions available in all levels (postdoctoral fellows, graduate students, postbacc and undergrad research assistants) welcoming individuals with diverse backgrounds and interests.
 
 If you are interested in joining our lab, please contact SueYeon Chung at <b>schung@flatironinstitute.org</b> or <b>sueyeon@nyu.edu</b> via email.
 
-Prospective graduate students are encouraged to apply to NYU Neural Science. Additionally, we offer summer internships to both graduate and undergraduate students.
 
 <br>
 

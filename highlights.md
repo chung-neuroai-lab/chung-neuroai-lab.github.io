@@ -44,6 +44,13 @@ is_grid: true
 <div class="cards">
 
 <div class="card">
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/cohen-et-al.png" height="300px" width="200px"/>
+   <div class="card-title"> <!----Title---> Separability and geometry of object manifolds in deep neural networks </div> 
+    <div class="card-subtitle"> <!----Title---> Uri Cohen*, Sueyeon Chung*, Daniel D. Lee, Haim Sompolinsky (*:co-first)</div> 
+    <div class="card-body"> <!----Description---> We demonstrate that changes in the geometry of the associated object manifolds underlie this improved capacity, and shed light on the functional roles different levels in the hierarchy play to achieve it, through orchestrated reduction of manifolds’ radius, dimensionality and inter-manifold correlations. [<a id="external-link" href="https://www.nature.com/articles/s41467-020-14578-5.pdf">pdf</a>] [<a id="external-link" href="https://github.com/sompolinsky-lab/dnn-object-manifolds">code</a>] [<a id="external-link" href="assets/bib/cohen2020.html">bib</a>] <i> Nature Communications, 2020 </i>  </div>
+</div>
+
+<div class="card">
     <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/stephensen2020.png" height="300px" width="200px"/>
    <div class="card-title"> <!----Title---> Untangling in Invariant Speech Recognition </div> 
     <div class="card-subtitle"> <!----Title--->Cory Stephenson, Jenelle Feather, Suchismita Padhy, Oguz Elibol, Hanlin Tang, Josh McDermott, SueYeon Chung </div> 
@@ -51,23 +58,16 @@ is_grid: true
 </div>
 
 <div class="card">
-    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/cohen-et-al.png" height="300px" width="200px"/>
-   <div class="card-title"> <!----Title---> Separability and geometry of object manifolds in deep neural networks </div> 
-    <div class="card-subtitle"> <!----Title---> Uri Cohen, Sueyeon Chung, Daniel D. Lee, Haim Sompolinsky </div> 
-    <div class="card-body"> <!----Description---> We demonstrate that changes in the geometry of the associated object manifolds underlie this improved capacity, and shed light on the functional roles different levels in the hierarchy play to achieve it, through orchestrated reduction of manifolds’ radius, dimensionality and inter-manifold correlations. [<a id="external-link" href="https://www.nature.com/articles/s41467-020-14578-5.pdf">pdf</a>] [<a id="external-link" href="https://github.com/sompolinsky-lab/dnn-object-manifolds">code</a>] [<a id="external-link" href="assets/bib/cohen2020.html">bib</a>] <i> Nature Communications, 2020 </i>  </div>
-</div>
-
-<div class="card">
     <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/dapello.png" height="300px" width="200px"/>
    <div class="card-title"> <!----Title---> Neural Population Geometry Reveals the Role of Stochasticity in Robust Perception </div> 
-    <div class="card-subtitle"> <!----Title---> Joel Dapello, Jenelle Feather, Hang Le, Tiago Marques, David D. Cox, Josh H. McDermott, James J. DiCarlo, SueYeon Chung </div> 
+    <div class="card-subtitle"> <!----Title---> Joel Dapello*, Jenelle Feather*, Hang Le, Tiago Marques, David D. Cox, Josh H. McDermott, James J. DiCarlo, SueYeon Chung (*:co-first)</div> 
     <div class="card-body"> <!----Description---> Using recently developed geometrical techniques from computational neuroscience, we investigate how adversarial perturbations influence the internal representations of standard, adversarially trained, and biologically-inspired stochastic networks. We find distinct geometric signatures for each type of network, revealing different mechanisms for achieving robust representations. [<a id="external-link" href="https://proceedings.neurips.cc/paper/2021/file/8383f931b0cefcc631f070480ef340e1-Paper.pdf">pdf</a>] [<a id="external-link" href="https://github.com/chung-neuroai-lab/adversarial-manifolds">code</a>] [<a id="external-link" href="assets/bib/dapello.html">bib</a>] <i> NeurIPS, 2021</i> </div>
 </div>
 
 <div class="card">
     <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/yao-et-al.png" height="300px" width="200px"/>
     <div class="card-title">Transformation of acoustic information to sensory decision variables in the parietal cortex. </div> 
-    <div class="card-subtitle"> Justin D. Yao, Klavdia O. Zemlianovaa, David L. Hockera, Cristina Savina, Christine M. Constantinople, SueYeon Chung,  and Dan H. Sanes. </div> 
+    <div class="card-subtitle"> Justin D. Yao*, Klavdia O. Zemlianova*, David L. Hockera, Cristina Savina, Christine M. Constantinople, SueYeon Chung,  and Dan H. Sanes. (*:co-first) </div> 
     <div class="card-body"> The process by which sensory evidence contributes to perceptual choices requires an understanding of its transformation into decision variables. Here, we address this issue by evaluating the neural representation of acoustic information in the auditory cortex- recipient parietal cortex, while gerbils either performed a two-alternative forced-choice auditory discrimination task or while they passively listened to identical acoustic stimuli. Our findings demonstrate how parietal cortex neurons integrate and transform encoded auditory information to guide sound-driven perceptual decisions[<a id="external-link" href="https://www.pnas.org/doi/epdf/10.1073/pnas.2212120120">pdf</a>] [<a id="external-link" href="assets/bib/yao2022.html">bib</a>] <i> PNAS, 2023 </i> </div>
 </div>
 
@@ -95,7 +95,7 @@ is_grid: true
 <div class="card">
     <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/dapello.png" height="300px" width="200px"/>
    <div class="card-title"> <!----Title---> Neural Population Geometry Reveals the Role of Stochasticity in Robust Perception </div> 
-    <div class="card-subtitle"> <!----Title---> Joel Dapello, Jenelle Feather, Hang Le, Tiago Marques, David D. Cox, Josh H. McDermott, James J. DiCarlo, SueYeon Chung </div> 
+    <div class="card-subtitle"> <!----Title---> Joel Dapello*, Jenelle Feather*, Hang Le, Tiago Marques, David D. Cox, Josh H. McDermott, James J. DiCarlo, SueYeon Chung (*:co-first) </div> 
     <div class="card-body"> <!----Description---> Using recently developed geometrical techniques from computational neuroscience, we investigate how adversarial perturbations influence the internal representations of standard, adversarially trained, and biologically-inspired stochastic networks. We find distinct geometric signatures for each type of network, revealing different mechanisms for achieving robust representations. [<a id="external-link" href="https://proceedings.neurips.cc/paper/2021/file/8383f931b0cefcc631f070480ef340e1-Paper.pdf">pdf</a>] [<a id="external-link" href="https://github.com/chung-neuroai-lab/adversarial-manifolds">code</a>] [<a id="external-link" href="assets/bib/dapello.html">bib</a>] <i> NeurIPS, 2021</i> </div>
 </div>
 

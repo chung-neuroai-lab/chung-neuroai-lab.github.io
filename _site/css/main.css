@@ -81,7 +81,7 @@ a:hover {
 
 #site-title {
     font-weight: 1000;
-    font-size: 80px;
+    font-size: 32px;
     display: inline-block;
 }
 
@@ -106,7 +106,7 @@ a:hover {
     margin: 0 5px 0 10px;
 }
 .alignable {
-    display: inline-block;
+    display: flex;
 }
 .pull-left {
     float: left;
@@ -182,7 +182,7 @@ a:hover {
 }
 
 .card-subtitle {
-    margin-bottom: 0.25rem;
+    margin-bottom: 1rem;
     font-size: medium;
 }
 
@@ -254,7 +254,7 @@ a:hover {
 }
 
 .pub-card-subtitle {
-  margin-bottom: 0.25rem;
+  margin-bottom: 1rem;
   font-size: medium;
 }
 

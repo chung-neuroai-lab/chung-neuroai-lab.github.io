@@ -4,6 +4,7 @@ layout: default
 
 # Publications
 
+(*:co-first, +:co-last)
 <hr>
 <div class="pub-card">
 <div class="pub-card-text">    
@@ -31,14 +32,14 @@ layout: default
     <div class="pub-card-subtitle"> <!----Title---> Thomas Yerxa, Yilun Kuang, Eero Simoncelli, SueYeon Chung </div> 
     <div class="pub-card-body"> <!----Description--->  [<a id="external-link" href="https://arxiv.org/pdf/2303.03307.pdf">pdf</a>][<a id="external-link" href="assets/bib/yerxa2023.html">bib</a>] <i> arXiv, 2023 </i> </div>
 </div>
-<img class="pub-card-img" />
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/yerxa2023.png" />
 </div>
 
 <hr>
 <div class="pub-card">
 <div class="pub-card-text">
     <div class="card-title">Transformation of acoustic information to sensory decision variables in the parietal cortex. </div> 
-    <div class="card-subtitle"> Justin D. Yao, Klavdia O. Zemlianovaa, David L. Hockera, Cristina Savina, Christine M. Constantinople, SueYeon Chung,  and Dan H. Sanes. </div> 
+    <div class="card-subtitle"> Justin D. Yao*, Klavdia O. Zemlianova*, David L. Hockera, Cristina Savina, Christine M. Constantinople, SueYeon Chung,  and Dan H. Sanes. </div> 
     <div class="pub-card-body"> [<a id="external-link" href="https://www.pnas.org/doi/epdf/10.1073/pnas.2212120120">pdf</a>] [<a id="external-link" href="assets/bib/yao2022.html">bib</a>] <i> PNAS, 2023 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/yao-et-al.png"/>
@@ -62,7 +63,7 @@ Generalized Gated Linear Networks </div>
 <div class="pub-card-subtitle"> Michelle Miller, SueYeon Chung, Kenneth D. Miller </div> 
 <div class="pub-card-body"> Local divisive normalization provides a phenomenological description of many nonlinear response properties of neurons across visual cortical areas. To gain insight into the utility of this operation, we studied the effects on AlexNet of a local divisive normalization between features, with learned parameters.   [<a id="external-link" href="https://openreview.net/pdf?id=aOX3a9q3RVV">pdf</a>] [<a id="external-link" href="assets/bib/miller2022.html">bib</a>] <i> ICLR, 2022</i> </div>
 </div>
-<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/miller-et-al.png"/>
+<img class="pub-card-img"/>
 </div>
 
 <hr>
@@ -89,7 +90,7 @@ Generalized Gated Linear Networks </div>
 <div class="pub-card">
 <div class="pub-card-text">
    <div class="pub-card-title"> <!----Title---> Neural Population Geometry Reveals the Role of Stochasticity in Robust Perception </div> 
-    <div class="pub-card-subtitle"> <!----Title---> <i>Joel Dapello, Jenelle Feather, Hang Le, Tiago Marques, David D. Cox, Josh H. McDermott, James J. DiCarlo, SueYeon Chung </i> </div> 
+    <div class="pub-card-subtitle"> <!----Title---> Joel Dapello*, Jenelle Feather*, Hang Le, Tiago Marques, David D. Cox, Josh H. McDermott, James J. DiCarlo, SueYeon Chung  </div> 
     <div class="pub-card-body"> <!----Description---> Using recently developed geometrical techniques from computational neuroscience, we investigate how adversarial perturbations influence the internal representations of standard, adversarially trained, and biologically-inspired stochastic networks. We find distinct geometric signatures for each type of network, revealing different mechanisms for achieving robust representations. [<a id="external-link" href="https://proceedings.neurips.cc/paper/2021/file/8383f931b0cefcc631f070480ef340e1-Paper.pdf">pdf</a>] [<a id="external-link" href="https://github.com/chung-neuroai-lab/adversarial-manifolds">code</a>] [<a id="external-link" href="assets/bib/dapello.html">bib</a>] <i> NeurIPS, 2021</i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/dapello.png"/>
@@ -113,14 +114,14 @@ Generalized Gated Linear Networks </div>
 <div class="pub-card-subtitle"> Landan Seguin, Anthony Ndirango, Neeli Mishra, SueYeon Chung, Tyler Lee </div> 
 <div class="pub-card-body"> Although adversarial training is successful at mitigating adversarial attacks, the behavioral differences between adversarially-trained (AT) models and standard models are still poorly understood. Motivated by a recent study on learning robustness without input perturbations by distilling an AT model, we explore what is learned during adversarial training by analyzing the distribution of logits in AT models.   [<a id="external-link" href="https://arxiv.org/pdf/2108.12001.pdf">pdf</a>] [<a id="external-link" href="assets/bib/seguin-et-al.html">bib</a>] <i> arXiv, 2021</i> </div>
 </div>
-<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/seguin-et-al.png"/>
+<img class="pub-card-img"/>
 </div>
 
 <hr>
 <div class="pub-card">
 <div class="pub-card-text">
 <div class="pub-card-title"> On the geometry of generalization and memorization in deep neural networks</div> 
-<div class="pub-card-subtitle"> Cory Stephenson, Suchismita Padhy, Abhinav Ganesh, Yue Hui, Hanlin Tang, and SueYeon Chung </div> 
+<div class="pub-card-subtitle"> Cory Stephenson*, Suchismita Padhy*, Abhinav Ganesh, Yue Hui, Hanlin Tang, and SueYeon Chung </div> 
 <div class="pub-card-body"> To examine the structure of when and where memorization occurs in a deep network, we use a recently developed replica-based mean field theoretic geometric analysis method. We find that all layers preferentially learn from examples which share features, and link this behavior to generalization performance.[<a id="external-link" href="https://openreview.net/pdf?id=V8jrrnwGbuc">pdf</a>] [<a id="external-link" href="assets/bib/stephensen-memorization-2020.html">bib</a>] <i> ICLR, 2021 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/stephensen-memorization-2020.png"/>
@@ -130,7 +131,7 @@ Generalized Gated Linear Networks </div>
 <div class="pub-card">
 <div class="pub-card-text">
 <div class="pub-card-title"> Emergence of Separable Manifolds in Deep Language Representations</div> 
-<div class="pub-card-subtitle"> Jonathan Mamou, Hang Le, Miguel A Del Rio, Cory Stephenson, Hanlin Tang, Yoon Kim, SueYeon Chung </div> 
+<div class="pub-card-subtitle"> Jonathan Mamou*, Hang Le*, Miguel A Del Rio, Cory Stephenson, Hanlin Tang, Yoon Kim, SueYeon Chung </div> 
 <div class="pub-card-body"> We utilize mean-field theoretic manifold analysis, a recent technique from computational neuroscience that connects geometry of feature representations with linear separability of classes, to analyze language representations from large-scale contextual embedding models. We explore representations from different model families (BERT, RoBERTa, GPT, etc.) and find evidence for emergence of linguistic manifolds across layer depth (e.g., manifolds for part-of-speech tags), especially in ambiguous data (i.e, words with multiple part-of-speech tags, or part-of-speech classes including many words). [<a id="external-link" href="http://proceedings.mlr.press/v119/mamou20a/mamou20a.pdf">pdf</a>] [<a id="external-link" href="https://github.com/schung039/contextual-repr-manifolds">code</a>] [<a id="external-link" href="assets/bib/mamou.html">bib</a>] <i> ICML, 2020 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/mamou.png"/>
@@ -140,7 +141,7 @@ Generalized Gated Linear Networks </div>
 <div class="pub-card">
 <div class="pub-card-text">
    <div class="pub-card-title"> <!----Title---> Separability and geometry of object manifolds in deep neural networks </div> 
-    <div class="pub-card-subtitle"> <!----Title---> <i>Uri Cohen, Sueyeon Chung, Daniel D. Lee, Haim Sompolinsky </i> </div> 
+    <div class="pub-card-subtitle"> <!----Title---> Uri Cohen*, Sueyeon Chung*, Daniel D. Lee, Haim Sompolinsky </div> 
     <div class="pub-card-body"> <!----Description---> We demonstrate that changes in the geometry of the associated object manifolds underlie this improved capacity, and shed light on the functional roles different levels in the hierarchy play to achieve it, through orchestrated reduction of manifolds’ radius, dimensionality and inter-manifold correlations. [<a id="external-link" href="https://www.nature.com/articles/s41467-020-14578-5.pdf">pdf</a>] [<a id="external-link" href="https://github.com/sompolinsky-lab/dnn-object-manifolds">code</a>] [<a id="external-link" href="assets/bib/cohen2020.html">bib</a>] <i> Nature Communications, 2020 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/cohen-et-al.png"/>
@@ -160,7 +161,7 @@ Generalized Gated Linear Networks </div>
 <div class="pub-card">
 <div class="pub-card-text">
    <div class="pub-card-title"> <!----Title---> Untangling in Invariant Speech Recognition </div> 
-    <div class="pub-card-subtitle"> <!----Title---> <i>Cory Stephenson, Jenelle Feather, Suchismita Padhy, Oguz Elibol, Hanlin Tang, Josh McDermott, SueYeon Chung </i> </div> 
+    <div class="pub-card-subtitle"> <!----Title---> Cory Stephenson, Jenelle Feather, Suchismita Padhy, Oguz Elibol, Hanlin Tang, Josh McDermott, SueYeon Chung </div> 
     <div class="pub-card-body"> <!----Description---> Deep neural networks have achieved impressive performance in audio processing applications, both as sub-components of larger systems and as complete end-to-end systems by themselves. Despite their empirical successes, comparatively little is understood about how these audio models accomplish these tasks.In this work, we employ a recently developed statistical mechanical theory that connects geometric properties of network representations and the separability of classes to probe how information is untangled within neural networks trained to recognize speech. [<a id="external-link" href="https://proceedings.neurips.cc/paper/2019/file/e2db7186375992e729165726762cb4c1-Paper.pdf">pdf</a>] [<a id="external-link" href="https://github.com/schung039/neural_manifolds_replicaMFT">code</a>] [<a id="external-link" href="assets/bib/stephensen2020.html">bib</a>] <i> NeurIPS, 2019 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/stephensen2020.png"/>
@@ -170,7 +171,7 @@ Generalized Gated Linear Networks </div>
 <div class="pub-card">
 <div class="pub-card-text">
     <div class="pub-card-title"> <!----Title---> Classification and Geometry of General Perceptual Manifolds </div> 
-    <div class="pub-card-subtitle"> <!----Title---> <i>Sueyeon Chung, Daniel D. Lee, Haim Sompolinsky </i> </div> 
+    <div class="pub-card-subtitle"> <!----Title---> Sueyeon Chung, Daniel D. Lee, Haim Sompolinsky  </div> 
     <div class="pub-card-body"> <!----Description---> We develop a statistical mechanical theory for the linear classification of manifolds with arbitrary geometry, revealing a remarkable relation to the mathematics of conic decomposition. We show how special anchor points on the manifolds can be used to define novel geometrical measures of radius and dimension, which can explain the classification capacity for manifolds of various geometries. [<a id="external-link" href="https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.031003">pdf</a>] [<a id="external-link" href="assets/bib/chung2018.html">bib</a>]<i> Physical Review X, 2018 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/chung2018.png"/>
@@ -179,8 +180,18 @@ Generalized Gated Linear Networks </div>
 <hr>
 <div class="pub-card">
 <div class="pub-card-text">
+    <div class="pub-card-title"> <!----Title---> Learning Data Manifolds with a Cutting Plane Method </div> 
+    <div class="pub-card-subtitle"> <!----Title---> Sueyeon Chung, Uri Cohen, Daniel D. Lee, Haim Sompolinsky  </div> 
+    <div class="pub-card-body"> <!----Description---> [<a id="external-link" href="https://www.researchgate.net/profile/Sueyeon-Chung/publication/317230192_Learning_Data_Manifolds_with_a_Cutting_Plane_Method/links/5bac583b92851ca9ed292ebd/Learning-Data-Manifolds-with-a-Cutting-Plane-Method.pdf">pdf</a>] [<a id="external-link" href="assets/bib/chung-cutplane2018.html">bib</a>] <i> Nature Computation, 2018 </i> </div>
+</div>
+<img class="pub-card-img"/>
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">
     <div class="pub-card-title"> <!----Title---> Linear readout of object manifolds </div> 
-    <div class="pub-card-subtitle"> <!----Title---> <i>Sueyeon Chung, Daniel D. Lee, Haim Sompolinsky </i> </div> 
+    <div class="pub-card-subtitle"> <!----Title---> Sueyeon Chung, Daniel D. Lee, Haim Sompolinsky  </div> 
     <div class="pub-card-body"> <!----Description---> We present a theory that characterizes the ability of a linear readout network, the perceptron, to classify objects from variable neural responses. We show how the readout perceptron capacity depends on the dimensionality, size, and shape of the object manifolds in its input neural representation. [<a id="external-link" href="https://drive.google.com/file/d/1rtsSztFNUG5NcDcotVp5cJGfqIO59gqY/view">pdf</a>] [<a id="external-link" href="assets/bib/chung2016.html">bib</a>] <i> Physical Review E </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/chung2016.png"/>
