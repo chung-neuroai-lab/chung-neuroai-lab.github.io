@@ -120,4 +120,11 @@ is_grid: true
     <div id="person" class="card-body"> <!--Description--> Francesco is a PhD candidate in Experimental Psychology at New York University. Before that, he received a M.Sc. degree in Cognitive Science from the University of Trento and worked as a research intern at the Max Planck Institute for Psycholinguistics and at the Bruno Kessler Foundation. He will be a summer intern at the Flatiron Institute (CCN) working in the NeuroAI and Geometric Data Analysis group led by Dr. SueYeon Chung. In his free time he enjoys live music, hiking, running and swimming.  </div>
 </div>
 
+<div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/yichen-wang.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> Yichen Wang</div>
+    <div id="person" class="card-subtitle"> <!----Title---> Summer Intern</div> 
+    <div id="person" class="card-body"> <!--Description--> Yichen is an undergraduate student at University of California, Los Angeles, with intended majors in Mathematics and Physics. He is currently a research assistant at UCLA Computational Vision & Learning Lab and a research intern at Flatiron Institute Center for Computational Neuroscience. </div>
+</div>
+
 </div>

@@ -16,7 +16,7 @@ New Paper in PNAS! Collaboration with Dan Sanes Lab
 12/12/2022
 	
 
-Virtual Talk at Brainy Days In Jerusalem: The Future of Neuroscience [Video]
+Virtual Talk at Brainy Days In Jerusalem: The Future of Neuroscience
 
 10/26/2022
 	
@@ -91,7 +91,7 @@ Virtual talk at the Stanford Psychology Department (Friday Seminar Series)
 3/22/2022
 	
 
-Virtual talk at COSYNE 2022’s workshop on representation geometry. [Video]
+Virtual talk at COSYNE 2022’s workshop on representation geometry. 
 
 3/10/2022
 	
@@ -101,7 +101,7 @@ Excited to join the organizing team for the Conference on the Mathematical Theor
 2/11/2022
 	
 
-In-person talk at Harvard, for Harvard ML Foundations Group. [Video]
+In-person talk at Harvard, for Harvard ML Foundations Group.
 
 2/5/2022
 	
@@ -111,7 +111,7 @@ New preprint (arxiv): “The implicit bias of gradient descent on generalized ga
 1/26/2022
 	
 
-Talk at the WWTNS (World Wide Theoretical Neuroscience Seminar Series). [Video]
+Talk at the WWTNS (World Wide Theoretical Neuroscience Seminar Series). 
 
 1/12/2022
 	
