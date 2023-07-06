@@ -79,10 +79,12 @@ a:hover {
  * Navbar
  */
 
-#site-title {
-    font-weight: 1000;
-    font-size: 30px;
-    display: inline-block;
+ #site-title {
+  font-weight: 1000;
+  font-size: 30px;
+  display: inline-block;
+  width: 350px;
+  text-align: left;
 }
 
 .header {
