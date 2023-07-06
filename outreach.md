@@ -17,7 +17,7 @@ layout: default
 </ul>
 
 <details>
-    <summary>See more</summary>
+<summary>See more</summary>
     <ul> 
     <li> Conference on Parsimony and Learning (CPAL), Hong Kong, Jan 2024 (Upcoming) </li>
     <li> Lake Conferences: Neural Coding and Dynamics, Seattle, WA, Sep 2023 (Upcoming) </li>
