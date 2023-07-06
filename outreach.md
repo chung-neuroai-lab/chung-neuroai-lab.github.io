@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Talks
+# Outreach
+
+## Talks
 <ul>
 <li> COSYNE 2022 Workshop: Task-efficient population coding and representation geometry, March 22, 2022, SueYeon Chung [<a id="external-link" href="https://www.dropbox.com/s/7q7lsrkabpibr0r/recorded_talk_cosyne2022_sueyeon_chung.mp4?dl=0">video link</a>]
 </li>
@@ -63,7 +65,7 @@ layout: default
 </ul>
 </details>
 
-# Media and Press
+## Media and Press
 <ul>
 <li> <a href="https://www.simonsfoundation.org/2023/07/05/neuroscientist-sueyeon-chung-awarded-a-klingenstein-simons-fellowship/"> “Neuroscientist SueYeon Chung Awarded a Klingenstein-Simons Fellowship,” </a> Simions Foundation, July 5 2023 
 </li>
@@ -79,7 +81,7 @@ layout: default
 </li>
 </ul>
 
-# Teaching
+## Teaching
 <ul>
 <li> Lecturer, IBRO-Simons Computational Neuroscience Imbizo, Cape Town, South Africa 2023 </li>
 <li> Guest Lecture, NYU (NEURL-GA.2205), Behavioral & Cognitive Neuroscience 	2023 </li>
