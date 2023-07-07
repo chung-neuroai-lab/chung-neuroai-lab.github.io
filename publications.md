@@ -90,7 +90,7 @@ Generalized Gated Linear Networks </div>
 <div class="pub-card">
 <div class="pub-card-text">
    <div class="pub-card-title"> <!----Title---> Neural Population Geometry Reveals the Role of Stochasticity in Robust Perception </div> 
-    <div class="pub-card-subtitle"> <!----Title---> Joel Dapello*, Jenelle Feather*, Hang Le, Tiago Marques, David D. Cox, Josh H. McDermott, James J. DiCarlo, SueYeon Chung  </div> 
+    <div class="pub-card-subtitle"> <!----Title---> Joel Dapello*, Jenelle Feather*, Hang Le*, Tiago Marques, David D. Cox, Josh H. McDermott, James J. DiCarlo, SueYeon Chung  </div> 
     <div class="pub-card-body"> <!----Description---> Using recently developed geometrical techniques from computational neuroscience, we investigate how adversarial perturbations influence the internal representations of standard, adversarially trained, and biologically-inspired stochastic networks. We find distinct geometric signatures for each type of network, revealing different mechanisms for achieving robust representations. [<a id="external-link" href="https://proceedings.neurips.cc/paper/2021/file/8383f931b0cefcc631f070480ef340e1-Paper.pdf">pdf</a>] [<a id="external-link" href="https://github.com/chung-neuroai-lab/adversarial-manifolds">code</a>] [<a id="external-link" href="assets/bib/dapello.html">bib</a>] <i> NeurIPS, 2021</i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/dapello.png"/>
@@ -151,7 +151,7 @@ Generalized Gated Linear Networks </div>
 <div class="pub-card">
 <div class="pub-card-text">
 <div class="pub-card-title"> On 1/n neural representation and robustness</div> 
-<div class="pub-card-subtitle"> Josue Nassar, Piotr Aleksander Sokol, SueYeon Chung, Kenneth D. Harris, Il Memming Park</div> 
+<div class="pub-card-subtitle"> Josue Nassar*, Piotr Aleksander Sokol*, SueYeon Chung, Kenneth D. Harris, Il Memming Park</div> 
 <div class="pub-card-body">  In this work, we investigate the robustness to perturbations in neural networks by juxtaposing experimental results regarding the covariance spectrum of neural representations in the mouse V1 (Stringer et al) with artificial neural networks. We use adversarial robustness to probe Stringer et al's theory regarding the causal role of a 1/n covariance spectrum. [<a id="external-link" href="https://proceedings.neurips.cc/paper/2020/file/44bf89b63173d40fb39f9842e308b3f9-Paper.pdf">pdf</a>] [<a id="external-link" href="assets/bib/nassar.html">bib</a>] <i> NeurIPS, 2020 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/nassar.png"/>
@@ -192,7 +192,7 @@ Generalized Gated Linear Networks </div>
 <div class="pub-card-text">
     <div class="pub-card-title"> <!----Title---> Linear readout of object manifolds </div> 
     <div class="pub-card-subtitle"> <!----Title---> Sueyeon Chung, Daniel D. Lee, Haim Sompolinsky  </div> 
-    <div class="pub-card-body"> <!----Description---> We present a theory that characterizes the ability of a linear readout network, the perceptron, to classify objects from variable neural responses. We show how the readout perceptron capacity depends on the dimensionality, size, and shape of the object manifolds in its input neural representation. [<a id="external-link" href="https://drive.google.com/file/d/1rtsSztFNUG5NcDcotVp5cJGfqIO59gqY/view">pdf</a>] [<a id="external-link" href="assets/bib/chung2016.html">bib</a>] <i> Physical Review E </i> </div>
+    <div class="pub-card-body"> <!----Description---> We present a theory that characterizes the ability of a linear readout network, the perceptron, to classify objects from variable neural responses. We show how the readout perceptron capacity depends on the dimensionality, size, and shape of the object manifolds in its input neural representation. [<a id="external-link" href="https://drive.google.com/file/d/1rtsSztFNUG5NcDcotVp5cJGfqIO59gqY/view">pdf</a>] [<a id="external-link" href="assets/bib/chung2016.html">bib</a>] <i> Physical Review E, 2016 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/chung2016.png"/>
 </div>
