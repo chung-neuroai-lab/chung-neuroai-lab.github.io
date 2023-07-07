@@ -182,7 +182,7 @@ Generalized Gated Linear Networks </div>
 <div class="pub-card-text">
     <div class="pub-card-title"> <!----Title---> Learning Data Manifolds with a Cutting Plane Method </div> 
     <div class="pub-card-subtitle"> <!----Title---> Sueyeon Chung, Uri Cohen, Daniel D. Lee, Haim Sompolinsky  </div> 
-    <div class="pub-card-body"> <!----Description---> [<a id="external-link" href="https://www.researchgate.net/profile/Sueyeon-Chung/publication/317230192_Learning_Data_Manifolds_with_a_Cutting_Plane_Method/links/5bac583b92851ca9ed292ebd/Learning-Data-Manifolds-with-a-Cutting-Plane-Method.pdf">pdf</a>] [<a id="external-link" href="assets/bib/chung-cutplane2018.html">bib</a>] <i> Nature Computation, 2018 </i> </div>
+    <div class="pub-card-body"> <!----Description---> [<a id="external-link" href="https://www.researchgate.net/profile/Sueyeon-Chung/publication/317230192_Learning_Data_Manifolds_with_a_Cutting_Plane_Method/links/5bac583b92851ca9ed292ebd/Learning-Data-Manifolds-with-a-Cutting-Plane-Method.pdf">pdf</a>] [<a id="external-link" href="assets/bib/chung-cutplane2018.html">bib</a>] <i> Neural Computation, 2018 </i> </div>
 </div>
 <img class="pub-card-img"/>
 </div>
