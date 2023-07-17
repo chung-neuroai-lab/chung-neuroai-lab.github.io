@@ -67,6 +67,8 @@ layout: default
 
 ## Media and Press
 <ul>
+<li> <a href="https://physics.aps.org/articles/v16/108"> "Albert Wakhloo's new paper published in Physical Review Letters selected as "Editor's Suggestion" and featured in Physics News" </a> American Physical Society, July 12 2023 
+</li>
 <li> <a href="https://www.simonsfoundation.org/2023/07/05/neuroscientist-sueyeon-chung-awarded-a-klingenstein-simons-fellowship/"> “Neuroscientist SueYeon Chung Awarded a Klingenstein-Simons Fellowship,” </a> Simions Foundation, July 5 2023 
 </li>
 <li> <a href="https://www.simonsfoundation.org/2022/04/28/searching-for-shapes-in-neural-activity/"> “Searching for Shapes in Neural Activity,” </a> Simons Foundation, April 28 2022
