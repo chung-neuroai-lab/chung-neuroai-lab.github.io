@@ -67,7 +67,7 @@ layout: default
 
 ## Media and Press
 <ul>
-<li> <a href="https://physics.aps.org/articles/v16/108"> “Performance Capacity of a Complex Neural Network,” Feature in Physics (by American Physical Society), July 12 2023
+<li> <a href="https://physics.aps.org/articles/v16/108"> “Performance Capacity of a Complex Neural Network,” Feature in Physics (by American Physical Society), </a> July 12 2023
 </li>
 <li> <a href="https://www.simonsfoundation.org/2023/07/05/neuroscientist-sueyeon-chung-awarded-a-klingenstein-simons-fellowship/"> “Neuroscientist SueYeon Chung Awarded a Klingenstein-Simons Fellowship,” </a> Simions Foundation, July 5 2023 
 </li>
@@ -82,9 +82,6 @@ layout: default
 <li> <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/New-Research-Shows-How-Neural-Networks-Process-Invariant-Speech/post/1335680#gs.w4h96a"> “New Research Shows How Neural Networks Process Invariant Speech,” </a> Intel Newsroom, December 9 2019
 </li>
 </ul>
-
-
-
 
 ## Teaching
 <ul>
