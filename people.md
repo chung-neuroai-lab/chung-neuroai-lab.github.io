@@ -41,6 +41,14 @@ is_grid: true
     <div id="person" class="card-body"> <!--Description--> Sonica is interested in the neural circuitry underlying our visual abilities and how neural tuning properties shape population-level geometry in early visual areas.  She uses experimental approaches (neurophysiology in macaques), mathematical derivations, and simulations to study these questions. Outside of work, she loves to explore different neighborhoods of NYC and practice yoga.</div>
 </div>
 
+
+<div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/isabella-rischall.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> Isballa Rischall</div>
+    <div id="person" class="card-subtitle"> <!----Title---> PhD Student (Co-advised)</div> 
+    <div id="person" class="card-body"> <!--Description--> Isabella is from Minnesota, and did undergrad at Northwestern University in Chicago. She studied biomedical engineering and integrated sciences, with a minor in philosophy. After graduating, she worked in the Gottlieb group at Columbia University and studied human information seeking behaviors. She is now a first year graduate student in NYU's Center for Neural Science. Outside of science, she has participated in drug policy and harm reduction activism, and loves to hang out with her dog!</div>
+</div>
+
 <div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/ngayu.jpg"/>
     <div id="person" class="card-title"> <!----Title---> <a href="https://www.ngayulo.com">Nga Yu Lo</a></div>
