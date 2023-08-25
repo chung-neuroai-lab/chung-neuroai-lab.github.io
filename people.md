@@ -66,18 +66,6 @@ is_grid: true
 
 <br>
 <hr>
-<h3>Rotational Students</h3>
-<div class="cards"> 
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/alan-lai.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> Alan Lai</div>
-    <div id="person" class="card-subtitle"> <!----Title---> Rotational Student</div> 
-    <div id="person" class="card-body"> <!--Description--> Alan is currently a first year PhD student in Neuroscience at NYU's Center for Neural Science with interested in analyzing the geometry of neural representations and exploring the intersection of neural networks and neuroscience. He received his B.S. in Computational Biology at Carnegie Mellon University's School of Computer Science where he was advised by Eric Yttri and Leila Wehbe.</div>
-</div>
-</div>
-
-<br>
-<hr>
 <h3>Guest Researchers</h3>
 <div class="cards"> 
 <div id="profile" class="card">
@@ -136,3 +124,25 @@ is_grid: true
 </div>
 
 </div>
+
+<br>
+<h3>Collaborators</h3>
+<ul>
+<li> Haim Sompolinsky (Harvard, Hebrew Univ) </li>
+<li> Larry Abbott (Columbia) </li>
+<li> Daniel D. Lee (Cornell Tech) </li>
+<li> James DiCarlo (MIT) </li>
+<li> Josh McDermott (MIT) </li>
+<li> Ryan P. Adams (Princeton) </li>
+<li> David Cox (IBM) </li>
+<li> Hanlin Tang (MosaicML) </li>
+<li> Roozbeh Kiani (NYU CNS) </li>
+<li> Tony Movshon (NYU CNS) </li>
+<li> Andre Fenton (NYU CNS) </li>
+<li> Dan H. Sanes (NYU CNS) </li>
+<li> Robbe Goris (UT Austin) </li>
+<li> Eero Simoncelli (NYU CNS, Flatiron Inst) </li>
+<li> Denise Cai (Mt. Sinai) </li>
+<li> Matthew Leonard (UCSF) </li>
+<li> Kyunghyun Cho (NYU CDS, Courant) </li>
+</ul>
