@@ -12,7 +12,7 @@ layout: default
     <div class="pub-card-subtitle"> <!----Title---> Abdulkadir Canatar*, Jenelle Feather*, Albert Wakhloo, SueYeon Chung </div> 
     <div class="pub-card-body"> <!----Description--->  Many different state-of-the-art deep neural networks yield similar neural predictions, but it remains unclear how to differentiate among models that perform equally well at predicting neural responses. To gain insight into this, we use a recent theoretical framework that relates the generalization error from regression to the spectral bias of the model activations and the alignment of the neural responses onto the learnable subspace of the model. [<a id="external-link" href="https://arxiv.org/abs/2309.12821">pdf</a>] <i> NeurIPS, 2023 [to appear] </i> </div>
 </div>
-<img class="pub-card-img" />
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/canatar2023.png" />
 </div>
 
 <hr>
@@ -32,7 +32,7 @@ layout: default
     <div class="pub-card-subtitle"> <!----Title---> Nihaad Paraouty, Justin D. Yao, Léo Varnet, Chi-Ning Chou, SueYeon Chung, Dan H. Sanes </div> 
     <div class="pub-card-body"> <!----Description--->  Social learning (SL) through experience with conspecifics can facilitate the acquisition of many behaviors. Thus, when Mongolian gerbils are exposed to a demonstrator performing an auditory discrimination task, their subsequent task acquisition is facilitated, even in the absence of visual cues. Here, we show that transient inactivation of auditory cortex (AC) during exposure caused a significant delay in task acquisition during the subsequent practice phase, suggesting that AC activity is necessary for SL. [<a id="external-link" href="https://www.nature.com/articles/s41467-023-41641-8">pdf</a>] <i> Nature Communications, 2023 </i> </div>
 </div>
-<img class="pub-card-img" />
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/paraouty2023.png" />
 </div>
 
 <div class="pub-card">
