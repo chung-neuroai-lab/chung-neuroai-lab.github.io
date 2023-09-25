@@ -6,6 +6,8 @@ layout: default
 
 August 2023, Our lab participated in the Analytical Connectionism Summer School 2023 in London
 
+August 2023, Plenary talk at ICML Workshop on High-dimensional Learning Dynamics 
+
 July 2023, Chi-Ning Chou joins our lab as a postdoctoral researcher
 
 July 2023, Our lab receives the Klingenstein Simons award!
