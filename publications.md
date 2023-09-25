@@ -35,6 +35,7 @@ layout: default
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/paraouty2023.png" />
 </div>
 
+<hr>
 <div class="pub-card">
 <div class="pub-card-text">    
    <div class="pub-card-title"> <!----Title---> Linear Classification of Neural Manifolds with Correlated Variability </div>
