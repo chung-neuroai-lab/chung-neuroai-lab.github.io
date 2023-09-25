@@ -4,6 +4,8 @@ layout: default
 
 # News
 
+August 2023, Our lab participated in the Analytical Connectionism Summer School 2023 in London
+
 July 2023, Chi-Ning Chou joins our lab as a postdoctoral researcher
 
 July 2023, Our lab receives the Klingenstein Simons award!

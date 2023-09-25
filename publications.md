@@ -8,6 +8,35 @@ layout: default
 <hr>
 <div class="pub-card">
 <div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> A Spectral Theory of Neural Prediction and Alignment  </div>
+    <div class="pub-card-subtitle"> <!----Title---> Abdulkadir Canatar*, Jenelle Feather*, Albert Wakhloo, SueYeon Chung </div> 
+    <div class="pub-card-body"> <!----Description--->  Many different state-of-the-art deep neural networks yield similar neural predictions, but it remains unclear how to differentiate among models that perform equally well at predicting neural responses. To gain insight into this, we use a recent theoretical framework that relates the generalization error from regression to the spectral bias of the model activations and the alignment of the neural responses onto the learnable subspace of the model. [<a id="external-link" href="https://arxiv.org/abs/2309.12821">pdf</a>] <i> NeurIPS, 2023 [to appear] </i> </div>
+</div>
+<img class="pub-card-img" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Learning Efficient Coding of Natural Images with Maximum Manifold Capacity Representations </div>
+    <div class="pub-card-subtitle"> <!----Title---> Thomas Yerxa, Yilun Kuang, Eero Simoncelli, SueYeon Chung </div> 
+    <div class="pub-card-body"> <!----Description--->  Self-supervised Learning (SSL) provides a strategy for constructing useful representations of images without relying on hand-assigned labels. Many such methods aim to map distinct views of the same scene or object to nearby points in the representation space, while employing some constraint to prevent representational collapse. Here we recast the problem in terms of efficient coding by adopting manifold capacity.[<a id="external-link" href="https://arxiv.org/pdf/2303.03307.pdf">pdf</a>][<a id="external-link" href="assets/bib/yerxa2023.html">bib</a>] <i> NeurIPS, 2023 [to appear] </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/yerxa2023.png" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Social learning enhances stimulus representations in the auditory cortex </div>
+    <div class="pub-card-subtitle"> <!----Title---> Nihaad Paraouty, Justin D. Yao, Léo Varnet, Chi-Ning Chou, SueYeon Chung, Dan H. Sanes </div> 
+    <div class="pub-card-body"> <!----Description--->  Social learning (SL) through experience with conspecifics can facilitate the acquisition of many behaviors. Thus, when Mongolian gerbils are exposed to a demonstrator performing an auditory discrimination task, their subsequent task acquisition is facilitated, even in the absence of visual cues. Here, we show that transient inactivation of auditory cortex (AC) during exposure caused a significant delay in task acquisition during the subsequent practice phase, suggesting that AC activity is necessary for SL. [<a id="external-link" href="https://www.nature.com/articles/s41467-023-41641-8">pdf</a>] <i> Nature Communications, 2023 </i> </div>
+</div>
+<img class="pub-card-img" />
+</div>
+
+<div class="pub-card">
+<div class="pub-card-text">    
    <div class="pub-card-title"> <!----Title---> Linear Classification of Neural Manifolds with Correlated Variability </div>
     <div class="pub-card-subtitle"> <!----Title---> Albert J. Wakhloo, Tamara J. Sussman, and SueYeon Chung </div> 
     <div class="pub-card-body"> <!----Description--->  In this letter, we calculate how correlations between object representations affect the capacity, a measure of linear separability. We show that for spherical object manifolds, introducing correlations between centroids effectively pushes the spheres closer together, while introducing correlations between the spheres’ axes effectively shrinks their radii, revealing a duality between neural correlations and geometry [<a id="external-link" href="https://arxiv.org/pdf/2211.14961.pdf">pdf</a>][<a id="external-link" href="assets/bib/wakhloo.html">bib</a>] <i> Physical Review Letters, 2023 </i> </div>
@@ -23,16 +52,6 @@ layout: default
     <div class="pub-card-body"> <!----Description--->  [<a id="external-link" href="https://www.cell.com/action/showPdf?pii=S1364-6613%2823%2900127-4">pdf</a>][<a id="external-link" href="assets/bib/feather2023.html">bib</a>] <i> Trends in Cognitive Sciences, 2023 </i> </div>
 </div>
 <img class="pub-card-img" />
-</div>
-
-<hr>
-<div class="pub-card">
-<div class="pub-card-text">    
-   <div class="pub-card-title"> <!----Title---> Learning Efficient Coding of Natural Images with Maximum Manifold Capacity Representations </div>
-    <div class="pub-card-subtitle"> <!----Title---> Thomas Yerxa, Yilun Kuang, Eero Simoncelli, SueYeon Chung </div> 
-    <div class="pub-card-body"> <!----Description--->  [<a id="external-link" href="https://arxiv.org/pdf/2303.03307.pdf">pdf</a>][<a id="external-link" href="assets/bib/yerxa2023.html">bib</a>] <i> arXiv, 2023 </i> </div>
-</div>
-<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/yerxa2023.png" />
 </div>
 
 <hr>
