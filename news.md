@@ -8,6 +8,8 @@ August 2023, Our lab participated in the Analytical Connectionism Summer School 
 
 August 2023, Plenary talk at ICML Workshop on High-dimensional Learning Dynamics 
 
+July 2023, Our new paper on the role of correlated variability in neural manifold capacity is published in Physical Review Letters (selected as an Editors’ Suggestion, and featured in Physics) 
+
 July 2023, Chi-Ning Chou joins our lab as a postdoctoral researcher
 
 July 2023, Our lab receives the Klingenstein Simons award!
