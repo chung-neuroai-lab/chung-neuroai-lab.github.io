@@ -40,7 +40,7 @@ layout: default
 <div class="pub-card-text">    
    <div class="pub-card-title"> <!----Title---> Linear Classification of Neural Manifolds with Correlated Variability </div>
     <div class="pub-card-subtitle"> <!----Title---> Albert J. Wakhloo, Tamara J. Sussman, and SueYeon Chung </div> 
-    <div class="pub-card-body"> <!----Description--->  In this letter, we calculate how correlations between object representations affect the capacity, a measure of linear separability. We show that for spherical object manifolds, introducing correlations between centroids effectively pushes the spheres closer together, while introducing correlations between the spheres’ axes effectively shrinks their radii, revealing a duality between neural correlations and geometry [<a id="external-link" href="https://arxiv.org/pdf/2211.14961.pdf">pdf</a>][<a id="external-link" href="assets/bib/wakhloo.html">bib</a>] <i> Physical Review Letters, 2023 </i> </div>
+    <div class="pub-card-body"> <!----Description--->  In this letter, we calculate how correlations between object representations affect the capacity, a measure of linear separability. We show that for spherical object manifolds, introducing correlations between centroids effectively pushes the spheres closer together, while introducing correlations between the spheres’ axes effectively shrinks their radii, revealing a duality between neural correlations and geometry [<a id="external-link" href="https://drive.google.com/file/d/1f4Uk1yirrsmLKnwK8xEDGft6SLK1EKJD/view">pdf</a>][<a id="external-link" href="assets/bib/wakhloo.html">bib</a>] <i> Physical Review Letters, 2023 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/wakhloo.png" />
 </div>
