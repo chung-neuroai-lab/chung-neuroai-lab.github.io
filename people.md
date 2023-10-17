@@ -65,7 +65,7 @@ is_grid: true
 
 <div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/luke-arend.jpg"/>
-    <div id="person" class="card-title"> <!----Title--->  </div>
+    <div id="person" class="card-title"> <!----Title--->  Luke Arend </div>
     <div id="person" class="card-subtitle"> <!----Title---> Rotational Student </div> 
     <div id="person" class="card-body"> <!--Description--> Luke received his B.S. in Physics and B.A. in Philosophy at Bethel University. He formerly worked at the JHU Lab for Computational Sensing + Robotics, MIT Center for Brain & Cognitive Science, and as a data scientist at SAIVA AI. He is currently a graduate student at the NYU Center for Neural Science.</div>
 </div>
