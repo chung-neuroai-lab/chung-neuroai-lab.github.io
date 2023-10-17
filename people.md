@@ -50,6 +50,13 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/Jose Rafael Hurtado.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> Jose Hurtado </div>
+    <div id="person" class="card-subtitle"> <!----Title---> PhD Student (Co-advised)</div> 
+    <div id="person" class="card-body"> <!--Description--> Jose is interested in how the hippocampus, a well characterized brain region involved in episodic memory, integrates information from different modalities (spatial,temporal,contextual) to paint a flexible picture of the present and past world. Currently, he is exploring how manifold representations may help differentiate contexts during spatial navigation.</div>
+</div>
+
+<div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/ngayu.jpg"/>
     <div id="person" class="card-title"> <!----Title---> <a href="https://www.ngayulo.com">Nga Yu Lo</a></div>
     <div id="person" class="card-subtitle"> <!----Title---> Research Analyst</div> 
@@ -57,10 +64,10 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/yilun-kuang.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> Yilun Kuang</div>
-    <div id="person" class="card-subtitle"> <!----Title---> Research Assistant</div> 
-    <div id="person" class="card-body"> <!--Description-->Yilun is a fourth-year undergrad at NYU in Mathematics and Computer Science. His current research focuses on manifold geometry inspired self-supervised learning. He is broadly interested in theories of biological and artificial intelligent systems and developing representation learning strategies. Prior to joining the lab, he worked on NLP research and was an avid reader of critical media theory, modern urban sociology, economic history, and neurophilosophy. </div>
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/luke-arend.jpg"/>
+    <div id="person" class="card-title"> <!----Title--->  </div>
+    <div id="person" class="card-subtitle"> <!----Title---> Rotational Student </div> 
+    <div id="person" class="card-body"> <!--Description--> Luke received his B.S. in Physics and B.A. in Philosophy at Bethel University. He formerly worked at the JHU Lab for Computational Sensing + Robotics, MIT Center for Brain & Cognitive Science, and as a data scientist at SAIVA AI. He is currently a graduate student at the NYU Center for Neural Science.</div>
 </div>
 </div>
 
