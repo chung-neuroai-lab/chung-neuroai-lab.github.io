@@ -69,6 +69,13 @@ is_grid: true
     <div id="person" class="card-subtitle"> <!----Title---> Rotational Student </div> 
     <div id="person" class="card-body"> <!--Description--> Luke received his B.S. in Physics and B.A. in Philosophy at Bethel University. He formerly worked at the JHU Lab for Computational Sensing + Robotics, MIT Center for Brain & Cognitive Science, and as a data scientist at SAIVA AI. He is currently a graduate student at the NYU Center for Neural Science.</div>
 </div>
+
+<div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/will-slatton.jpg"/>
+    <div id="person" class="card-title"> <!----Title--->  Will Slatton </div>
+    <div id="person" class="card-subtitle"> <!----Title---> Rotational Student </div> 
+    <div id="person" class="card-body"> <!--Description--> Will received his BS in Mathematics and BA in Neuroscience from Rice University. He is now working on his Neuroscience PhD at NYU, where he is broadly interested in computational neuroscience.</div>
+</div>
 </div>
 
 <br>
