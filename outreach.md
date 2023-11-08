@@ -67,6 +67,8 @@ layout: default
 
 ## Media and Press
 <ul>
+<li> <a href="https://www.simonsfoundation.org/2023/10/26/how-do-our-brains-classify-similar-objects-new-theory-works-out-the-details/"> “How do our brains classify similar objects? New Theory works out the details" </a> Simons Foundation November 8 2023
+</li>
 <li> <a href="https://physics.aps.org/articles/v16/108"> “Performance Capacity of a Complex Neural Network,” Feature in Physics (by American Physical Society), </a> July 12 2023
 </li>
 <li> <a href="https://www.simonsfoundation.org/2023/07/05/neuroscientist-sueyeon-chung-awarded-a-klingenstein-simons-fellowship/"> “Neuroscientist SueYeon Chung Awarded a Klingenstein-Simons Fellowship,” </a> Simions Foundation, July 5 2023 

@@ -10,7 +10,7 @@ layout: default
 <div class="pub-card-text">    
    <div class="pub-card-title"> <!----Title---> A Spectral Theory of Neural Prediction and Alignment  </div>
     <div class="pub-card-subtitle"> <!----Title---> Abdulkadir Canatar*, Jenelle Feather*, Albert Wakhloo, SueYeon Chung </div> 
-    <div class="pub-card-body"> <!----Description--->  Many different state-of-the-art deep neural networks yield similar neural predictions, but it remains unclear how to differentiate among models that perform equally well at predicting neural responses. To gain insight into this, we use a recent theoretical framework that relates the generalization error from regression to the spectral bias of the model activations and the alignment of the neural responses onto the learnable subspace of the model. [<a id="external-link" href="https://arxiv.org/abs/2309.12821">pdf</a>] <i> NeurIPS, 2023 [to appear] </i> </div>
+    <div class="pub-card-body"> <!----Description--->  Many different state-of-the-art deep neural networks yield similar neural predictions, but it remains unclear how to differentiate among models that perform equally well at predicting neural responses. To gain insight into this, we use a recent theoretical framework that relates the generalization error from regression to the spectral bias of the model activations and the alignment of the neural responses onto the learnable subspace of the model. [<a id="external-link" href="https://arxiv.org/abs/2309.12821">pdf</a>] [<a id="external-link" href="assets/bib/canatar2023.html">bib</a>] <i> NeurIPS Spotlight, 2023 [to appear] </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/canatar2023.png" />
 </div>
@@ -52,7 +52,7 @@ layout: default
     <div class="pub-card-subtitle"> <!----Title---> Jenelle Feather, SueYeon Chung </div> 
     <div class="pub-card-body"> <!----Description--->  [<a id="external-link" href="https://www.cell.com/action/showPdf?pii=S1364-6613%2823%2900127-4">pdf</a>][<a id="external-link" href="assets/bib/feather2023.html">bib</a>] <i> Trends in Cognitive Sciences, 2023 </i> </div>
 </div>
-<img class="pub-card-img" />
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/feather2023.png" />
 </div>
 
 <hr>
