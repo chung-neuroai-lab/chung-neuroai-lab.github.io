@@ -82,7 +82,7 @@ is_grid: true
     <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/yerxa2023.png" height="300px" width="200px"/>
     <div class="card-title"> <!----Title---> Learning Efficient Coding of Natural Images with Maximum Manifold Capacity Representations </div>
     <div class="card-subtitle"> <!----Title---> Thomas Yerxa, Yilun Kuang, Eero Simoncelli, SueYeon Chung </div> 
-    <div class="card-body"> <!----Description--->  [<a id="external-link" href="https://arxiv.org/pdf/2303.03307.pdf">pdf</a>][<a id="external-link" href="assets/bib/yerxa2023.html">bib</a>] <i> arXiv, 2023 </i> </div>
+    <div class="card-body"> <!----Description--->  [<a id="external-link" href="https://arxiv.org/pdf/2303.03307.pdf">pdf</a>][<a id="external-link" href="assets/bib/yerxa2023.html">bib</a>] <i> NeurIPS, 2023 </i> </div>
 </div>
 
 <div class="card">
