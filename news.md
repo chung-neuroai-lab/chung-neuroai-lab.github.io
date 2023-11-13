@@ -4,6 +4,12 @@ layout: default
 
 # News
 
+October 2023, Albert’s PRL paper is highlighted in Simons Foundation’s science feature article.
+
+September 2023, Our paper, A Spectral Theory of Neural Prediction and Alignment, has been accepted to NeurIPS as a spotlight. Congrats Abdul, Jenelle and Albert!
+
+September 2023, Our paper on Maximum Manifold Capacity Representations has been accepted to NeurIPS. Congrats Teddy and Yilun!
+
 August 2023, Our lab participated in the Analytical Connectionism Summer School 2023 in London
 
 August 2023, Plenary talk at ICML Workshop on High-dimensional Learning Dynamics 
