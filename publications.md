@@ -8,6 +8,16 @@ layout: default
 <hr>
 <div class="pub-card">
 <div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Unsupervised learning on spontaneous retinal activity leads to efficient neural representation geometry </div>
+    <div class="pub-card-subtitle"> <!----Title---> Andrew Ligeralde, Yilun Kuang, Thomas Edward Yerxa, Miah N. Pitcher, Marla Feller, SueYeon Chung </div> 
+    <div class="pub-card-body"> <!----Description--->  Prior to the onset of vision, neurons in the developing mammalian retina spontaneously fire in correlated activity patterns known as retinal waves. Experimental evidence suggests that retinal waves strongly influence the emergence of sensory representations before visual experience. We aim to model this early stage of functional development by using movies of neurally active developing retinas as pre-training data for neural networks [<a id="external-link" href="https://arxiv.org/pdf/2312.02791.pdf">pdf</a>] <i> UniReps workshop, NeurIPS, 2023 </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/ligeralde2023.png" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
    <div class="pub-card-title"> <!----Title---> A Spectral Theory of Neural Prediction and Alignment  </div>
     <div class="pub-card-subtitle"> <!----Title---> Abdulkadir Canatar*, Jenelle Feather*, Albert Wakhloo, SueYeon Chung </div> 
     <div class="pub-card-body"> <!----Description--->  Many different state-of-the-art deep neural networks yield similar neural predictions, but it remains unclear how to differentiate among models that perform equally well at predicting neural responses. To gain insight into this, we use a recent theoretical framework that relates the generalization error from regression to the spectral bias of the model activations and the alignment of the neural responses onto the learnable subspace of the model. [<a id="external-link" href="https://openreview.net/pdf?id=5B1ZK60jWn">pdf</a>] [<a id="external-link" href="assets/bib/yerxa2023.html">bib</a>] <i> Spotlight paper, NeurIPS, 2023 </i> </div>
