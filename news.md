@@ -4,6 +4,12 @@ layout: default
 
 # News
 
+November 2023, Papers at NeurIPS 2023: <a id="external-link" href="https://openreview.net/pdf?id=5B1ZK60jWn">"Canatar and Feather et al"</a>  (spotlight, main meeting), <a id="external-link" href="https://openreview.net/pdf?id=og9V7NgOrQ">"Yerxa et al"</a> (main meeting), <a id="external-link" href="https://arxiv.org/pdf/2312.02791.pdf">"Ligeralde and Kuang et al"</a> (UniReps workshop). Talk at the Sensorium workshop. 
+
+November 2023, <a id='external-link' href="https://events.stanford.edu/event/sueyeon_chung_-_understanding_visual_attention_with_artificial_neural_networks"> Mind, Brain, Computation and Technology </a> seminar at Stanford 
+
+November 2023, <a id='external-link' href="https://physics.wustl.edu/events/physics-colloquium-sue-yeon-chung-multi-level-theory-neural-representations-capacity-neural"> Physics colloquium </a> at Washington University at St Louis
+
 October 2023, Albert’s PRL paper is highlighted in Simons Foundation’s science feature article.
 
 September 2023, Our paper, A Spectral Theory of Neural Prediction and Alignment, has been accepted to NeurIPS as a spotlight. Congrats Abdul, Jenelle and Albert!

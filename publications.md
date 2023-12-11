@@ -10,7 +10,7 @@ layout: default
 <div class="pub-card-text">    
    <div class="pub-card-title"> <!----Title---> A Spectral Theory of Neural Prediction and Alignment  </div>
     <div class="pub-card-subtitle"> <!----Title---> Abdulkadir Canatar*, Jenelle Feather*, Albert Wakhloo, SueYeon Chung </div> 
-    <div class="pub-card-body"> <!----Description--->  Many different state-of-the-art deep neural networks yield similar neural predictions, but it remains unclear how to differentiate among models that perform equally well at predicting neural responses. To gain insight into this, we use a recent theoretical framework that relates the generalization error from regression to the spectral bias of the model activations and the alignment of the neural responses onto the learnable subspace of the model. [<a id="external-link" href="https://arxiv.org/abs/2309.12821">pdf</a>] [<a id="external-link" href="assets/bib/canatar2023.html">bib</a>] <i> NeurIPS Spotlight, 2023 [to appear] </i> </div>
+    <div class="pub-card-body"> <!----Description--->  Many different state-of-the-art deep neural networks yield similar neural predictions, but it remains unclear how to differentiate among models that perform equally well at predicting neural responses. To gain insight into this, we use a recent theoretical framework that relates the generalization error from regression to the spectral bias of the model activations and the alignment of the neural responses onto the learnable subspace of the model. [<a id="external-link" href="https://openreview.net/pdf?id=5B1ZK60jWn">pdf</a>] [<a id="external-link" href="assets/bib/yerxa2023.html">bib</a>] <i> Spotlight paper, NeurIPS, 2023 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/canatar2023.png" />
 </div>
@@ -20,7 +20,7 @@ layout: default
 <div class="pub-card-text">    
    <div class="pub-card-title"> <!----Title---> Learning Efficient Coding of Natural Images with Maximum Manifold Capacity Representations </div>
     <div class="pub-card-subtitle"> <!----Title---> Thomas Yerxa, Yilun Kuang, Eero Simoncelli, SueYeon Chung </div> 
-    <div class="pub-card-body"> <!----Description--->  Self-supervised Learning (SSL) provides a strategy for constructing useful representations of images without relying on hand-assigned labels. Many such methods aim to map distinct views of the same scene or object to nearby points in the representation space, while employing some constraint to prevent representational collapse. Here we recast the problem in terms of efficient coding by adopting manifold capacity.[<a id="external-link" href="https://arxiv.org/pdf/2303.03307.pdf">pdf</a>][<a id="external-link" href="assets/bib/yerxa2023.html">bib</a>] <i> NeurIPS, 2023 [to appear] </i> </div>
+    <div class="pub-card-body"> <!----Description--->  Self-supervised Learning (SSL) provides a strategy for constructing useful representations of images without relying on hand-assigned labels. Many such methods aim to map distinct views of the same scene or object to nearby points in the representation space, while employing some constraint to prevent representational collapse. Here we recast the problem in terms of efficient coding by adopting manifold capacity.[<a id="external-link" href="https://openreview.net/pdf?id=og9V7NgOrQ">pdf</a>][<a id="external-link" href="assets/bib/yerxa2023.html">bib</a>] <i> NeurIPS, 2023 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/yerxa2023.png" />
 </div>
