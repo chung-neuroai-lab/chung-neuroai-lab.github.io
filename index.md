@@ -2,9 +2,17 @@
 layout: default
 ---
 
-<p align="center">
-<img src="assets/img/neural-manifolds.png" width="50%"> 
-</p>
+<div class="row">
+  <div class="column">
+    <img src="{{site.baseurl | prepend:site.url}}assets/img/cohen-et-al.png">
+  </div>
+  <div class="column">
+    <img src="{{site.baseurl | prepend:site.url}}assets/img/wakhloo.png">
+  </div>
+  <div class="column">
+    <img src="{{site.baseurl | prepend:site.url}}assets/img/feather2023.png">
+  </div>
+</div>
 
 <div id="style-font">
 The NeuroAI and Geometry lab is located at the Center of Neural Science at NYU and the Center for Computational Neuroscience at the Flatiron Institute. Our lab seeks to develop mathematical theories for understanding how structure gives rise to function in biological and artificial neural networks. We focuses on addressing this question through two broad approaches at the intersection of deep learning and brain science: 
