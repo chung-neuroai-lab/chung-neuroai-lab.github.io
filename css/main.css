@@ -310,7 +310,7 @@ details {
 }
 
 .banner {
-  background: url("{{site.baseurl | prepend:site.url}}/assets/img/3d-abstract-background-with-modern-plexus-design.jpg") no-repeat center top;
+  background: url("../assets/img/3d-abstract-background-with-modern-plexus-design.jpg") no-repeat center top;
   background-size: cover;
   height: 700px;
 }
