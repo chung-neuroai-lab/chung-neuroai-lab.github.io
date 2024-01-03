@@ -285,6 +285,12 @@ a:hover {
   }
 }
 
+@media (max-width:600px) {
+  .banner-content {	
+     font-size:small;
+  }
+}
+
 
 #profile-img {
     border-radius: 50%; 
