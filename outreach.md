@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# Outreach
+<div class="container">
 
-## Talks
+<h1> Outreach </h1>
+
+<h2> Talks </h2>
 <ul>
 <li> COSYNE 2022 Workshop: Task-efficient population coding and representation geometry, March 22, 2022, SueYeon Chung [<a id="external-link" href="https://www.dropbox.com/s/7q7lsrkabpibr0r/recorded_talk_cosyne2022_sueyeon_chung.mp4?dl=0">video link</a>]
 </li>
@@ -65,7 +67,7 @@ layout: default
 </ul>
 </details>
 
-## Media and Press
+<h2> Media and Press </h2>
 <ul>
 <li> <a href="https://www.simonsfoundation.org/2023/10/26/how-do-our-brains-classify-similar-objects-new-theory-works-out-the-details/"> “How do our brains classify similar objects? New Theory works out the details" </a> Simons Foundation November 8 2023
 </li>
@@ -85,7 +87,7 @@ layout: default
 </li>
 </ul>
 
-## Teaching
+<h2> Teaching </h2>
 <ul>
 <li> Lecturer, IBRO-Simons Computational Neuroscience Imbizo, Cape Town, South Africa 2023 </li>
 <li> Guest Lecture, NYU (NEURL-GA.2205), Behavioral & Cognitive Neuroscience 	2023 </li>
@@ -102,3 +104,5 @@ layout: default
 <li> Teaching Fellow, Harvard University (Applied Math 147: Nonlinear Dynamics)2011 </li>
 <li> Teaching Assistant, Cornell University (Physics 213: Electromagnetism and Thermodynamics)	 2009 </li>
 </ul>
+
+</div>

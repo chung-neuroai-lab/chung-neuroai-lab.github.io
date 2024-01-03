@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Publications
+<div class="container">
+
+<h1> Publications </h1>
 
 (*:co-first, +:co-last)
 <hr>
@@ -225,4 +227,6 @@ Generalized Gated Linear Networks </div>
     <div class="pub-card-body"> <!----Description---> We present a theory that characterizes the ability of a linear readout network, the perceptron, to classify objects from variable neural responses. We show how the readout perceptron capacity depends on the dimensionality, size, and shape of the object manifolds in its input neural representation. [<a id="external-link" href="https://drive.google.com/file/d/1rtsSztFNUG5NcDcotVp5cJGfqIO59gqY/view">pdf</a>] [<a id="external-link" href="assets/bib/chung2016.html">bib</a>] <i> Physical Review E, 2016 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/chung2016.png"/>
+</div>
+
 </div>
