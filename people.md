@@ -3,7 +3,9 @@ layout: default
 is_grid: true
 ---
 
-# People
+<div class="container">
+
+<h1> People </h1>
 
 <div class="cards">
 <div id="profile" class="card">
@@ -160,3 +162,6 @@ is_grid: true
 <li> Matthew Leonard (UCSF) </li>
 <li> Kyunghyun Cho (NYU CDS, Courant) </li>
 </ul>
+
+
+</div>

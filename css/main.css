@@ -11,12 +11,8 @@ html {
 body {
     margin: 0%;
     line-height: 1.2 ;
-    font-family: Arial, Helvetica, sans-serif;/*'Courier New', Courier, monospace';*/
+    font-family: "Lato", sans-serif;/*'Courier New', Courier, monospace';*/
     font-size: 20px;
-}
-
-#style-font {
-  font-size: 20px;
 }
 
 .footer {
@@ -29,6 +25,8 @@ body {
 
 .footer-col a {
   color: black;
+  display: block;
+  margin: 0.1em 0;
 }
 
 .footer-wrapper {
@@ -52,11 +50,6 @@ body {
   float: left;
 }
 
-.footer-col a {
-  display: block;
-  margin: 0.3em 0;
-}
-
 a {
     color: black;
     text-decoration: none;
@@ -78,33 +71,34 @@ a:hover {
  * Navbar
  */
 
- #site-title {
+#site-title {
   font-weight: 1000;
   font-size: 30px;
-  display: inline-block;
-  width: 350px;
+  display: flex;
+  justify-content: left;
   text-align: left;
+  width: 350px;
 }
 
 .header {
-    padding: 10px 0 60px 0;
-    text-align: center;
-    color: white;
+    padding: 0px 0 0px 0;
     font-size: 20px;
+    margin-top:0; 
+    margin-bottom:0%; 
+    margin-left:0%;
+    margin-right:0%;
   }
   
 .navbar {
     padding: 50px 10% 50px 10%;
 }
 .navbar-ul {
-    display: inline-block;
-    margin: 0;
-    padding: 5px 0 5px 0;
-    margin-left: 20px;
+    display: flex;
+    padding: 0px 0 0px 0;
+    margin-left: 0px;
 }
 .nav-list {
-    list-style-type: none;
-    margin: 0 5px 0 10px;
+    margin: 0 0px 0 10px;
 }
 .alignable {
     display: inline-block;
@@ -119,6 +113,7 @@ a:hover {
 /* Divs */
 
 .container {
+  position: relative;
     margin-top:0; 
     margin-bottom:10%; 
     margin-left:10%;
@@ -267,50 +262,35 @@ a:hover {
 
 /* Mobile */
 
-@media (max-width: 650px) {
-  .container {
-      max-width: 83%;
-  }
+@media (max-width: 1500px) {
+  #site-title {
+    width: 100%;
+    display: inline-block;
+    justify-content: center;
+  }  
   .navbar-ul {
-      margin-top: 5px;
+    width: 100%;
+    display: inline-block;
+    justify-content: center;
   }
 } 
 
-@media screen and (max-width: 500px) {
-	.navbar {
-		text-align: center;
-		padding: 50px 0px 0px 0px;
-	}
-	#site-title {
-		width: 100%;
-		float: none;
-    text-align: center;
-	}
-	#navlist {
-		padding: 10px 0 10px 0;
-		margin: 0;
-		display: block;
-		float: none;
-		text-align: center;
-		width: 100%;
-	}
-	#navlist li.alignable {
-		display: inline-block;
-	}
-	#navlist li.pull-left {
-		float: none;
-	}
-	#navlist li.nav-list {
-		margin: 0;
-	}
-  
-  .small-50 {
-    width: 50%;  
+@media (max-width:750px) {
+  .footer-wrapper {
+    grid-template-rows: 33% 33% 33%;
+    grid-template-columns: auto;
   }
   .footer-col {
-    border: none;
+    padding-bottom: 20px;
   }
 }
+
+@media (max-width:600px) {
+  .banner-content {	
+     font-size:small;
+  }
+}
+
 
 #profile-img {
     border-radius: 50%; 
@@ -335,38 +315,33 @@ details {
     margin-left: 20px;
 }
 
+.banner {
+  background: url("../assets/img/3d-abstract-background-with-modern-plexus-design.jpg") no-repeat center top;
+  background-size: cover;
+  height: 700px;
+}
 
-.row {
+.banner-content {
+  padding-top: 100px;
+  padding-bottom: 100px;
   display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
+  justify-content: center;
+  text-align: center;
 }
 
-/* Create four equal columns that sits next to each other */
-.column {
-  flex: 25%;
-  max-width: 33%;
-  padding: 0 4px;
+.col {
+  width: 70%;
 }
 
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100%;
+.section {
+  margin-left:10%;
+  margin-right:10%;
+  margin-bottom: 10%;
 }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
-  .column {
-    flex: 50%;
-    max-width: 50%;
-  }
+.row-box {
+  position: relative;
+  margin-top: 3%;
+  padding: 1%;
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    flex: 100%;
-    max-width: 100%;
-  }
-}

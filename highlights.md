@@ -3,7 +3,9 @@ layout: default
 is_grid: true
 ---
 
-# Research Highlights
+<div class="container">
+
+<h1> Research Highlights </h1>
 
 <br>
 <h3> Theory of Neural Manifolds</h3>
@@ -97,6 +99,8 @@ is_grid: true
    <div class="card-title"> <!----Title---> Neural Population Geometry Reveals the Role of Stochasticity in Robust Perception </div> 
     <div class="card-subtitle"> <!----Title---> Joel Dapello*, Jenelle Feather*, Hang Le*, Tiago Marques, David D. Cox, Josh H. McDermott, James J. DiCarlo, SueYeon Chung (*:co-first) </div> 
     <div class="card-body"> <!----Description---> Using recently developed geometrical techniques from computational neuroscience, we investigate how adversarial perturbations influence the internal representations of standard, adversarially trained, and biologically-inspired stochastic networks. We find distinct geometric signatures for each type of network, revealing different mechanisms for achieving robust representations. [<a id="external-link" href="https://proceedings.neurips.cc/paper/2021/file/8383f931b0cefcc631f070480ef340e1-Paper.pdf">pdf</a>] [<a id="external-link" href="https://github.com/chung-neuroai-lab/adversarial-manifolds">code</a>] [<a id="external-link" href="assets/bib/dapello.html">bib</a>] <i> NeurIPS, 2021</i> </div>
+</div>
+
 </div>
 
 </div>
