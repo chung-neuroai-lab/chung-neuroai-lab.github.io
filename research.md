@@ -11,22 +11,25 @@ layout: default
 Advances in experimental neuroscience techniques are transforming our understanding of the structure and function of neural circuits. Concurrent with this transformation has been the emergence of the field of Deep Learning driven by the remarkable performance of Artificial Neural Networks (ANNs). While the two fields have different tools and applications, they tackle a similar question: how do orchestrated computations arise from the collective structure of small neuronal units interacting with each other? </p>
 <p> My research focuses on addressing this question through two broad approaches (Figure 1) at the intersection of deep learning and brain science: (1) developing mathematical theories for characterizing the structure of representations in artificial neural networks and the brain, and (2) building ANN models of the brain with neurally plausible architecture and learning rules. </p>
 
-<table>
+<table class="center">
     <tr>
-    <td><img src="assets/img/research-figure1.png" width="100%"> </td>
-    <td><img src="assets/img/research-figure2.png" width="100%"> </td>
+    <td><img src="assets/img/research-figure1.png" height="300px"> </td>
+    <td><img src="assets/img/research-figure2.png" height="300px"> </td>
     </tr>
 </table>
 
+<hr>
 <h3> From Structure to Function: Theory of Neural Manifolds in ANNs and Brain Representations </h3>
 <p> The use of ANNs as models of the brain has gained popularity in the past few years[1] due to their remarkable similarity to brain data. Because of the relative ease of training and extracting data compared to biological networks, ANNs provide a plethora of new phenomenology for us to explain and understand. A key challenge in understanding how internal representations of ANNs encode information lies in their high dimensional nature. Specifically, which properties of neural population activity determine how good the representation is for a functional task? </p>
 <p> To answer this question, together with Haim Sompolinsky at Harvard, I developed a theory of object manifolds[2–4], defined by population responses to an object.  We introduced the notion of ‘object manifold capacity’, generalizing the perceptron capacity of points to object categories. We showed that this object manifold capacity is determined by the geometric structure of the object manifold, formally establishing the connection between structure in the high dimensional neural representation and the representation’s capacity for categorization. Using measures from this theory, I then showed that hierarchical layers in visual ANNs encode increasing amounts of object information per neuron, due to the decreasing size and gradual correlation of these object manifolds as a function of layer depth [5] (Figure 2). This work allows for a more refined characterization of the ‘untangling’ hypothesis[6] in vision, where ‘untangling’ can be demonstrated not only with better linear decodability, but also with underlying neural structure. Next, I used these measures to characterize the visual cortex, where the correlation structure shows a different trend from ANNs[7]. I hypothesize that this is due to the fact that, unlike standard ANNs, the brain represents information for tasks beyond categorization. </p>
 <p> Motivated by this demonstration of representation untangling in vision systems, my subsequent work with Josh McDermott (MIT) and Intel AI showed that speech-processing ANNs[8] employ similar strategies for changing neural manifolds structure: specifically, auditory objects become untangled in a similar manner to vision systems[9].  More recently, in collaboration with Yoon Kim (MIT-IBM Watson AI) and Intel AI, I have demonstrated that deep attention-based models trained for language processing tasks, known to capture human brain activity during language comprehension[10], also employ structural untangling of language object manifolds[11]. The fact that our neural object manifold theory can be applied to several modalities (vision, auditory, language) points to its versatility as a theoretical technique. </p>
 
+<hr>
 <h3> The Emergence of Structure and Function: Biologically Plausible Learning in ANN Models of the Brain </h3> 
 <p> Learning in nervous systems is crucial for animals to develop appropriate behaviors in response to stimuli. Underlying this behavioral learning is neuronal level plasticity. Task-optimized ANNs often show neural responses resembling those in the brain[1,12]. However, most of these highly performant ANNs learn through backpropagation, which is generally considered to be biologically implausible. Finding a biologically plausible learning rule that preserves or improves task performance in large-scale systems like ANNs could lead to a better theory of the brain. </p>
 <p> My recent work at Columbia with Larry Abbott has focused on developing new biologically plausible local learning techniques and architectures utilizing recent experimental findings in electric fish[13] (Figure 3). In initial work, I have shown that learning rules that separate paths for learning and inference are able to learn locally and show superior performance in tasks that are known to be difficult for backpropagation, such as multi-task learning. One of the key findings of this new local learning model is that, unlike backpropagation models that tend to perform well only in the network’s final output layer, these models show good performance at intermediate stages of the network hierarchy, a feature also seen in neural systems. I plan to further develop these models in close collaboration with experimentalists to test them on neural data, and through large-scale numerical experiments to test the performance of these new learning algorithms. These extensions are of interest not only to our understanding of the relationship between neuronal synaptic learning and cognitive performance, but also as a general framework for building distributed learning systems that go beyond the current limits of training paradigms in ANNs. </p>
 
+<hr>
 <h3> Future Work </h3> 
 <h4> Computing with Neural Manifolds: General Theory of Task-Efficient Neural Geometry </h4>
 <p> Central to the theory of neural manifolds is the assumption that there exists an efficient and robust neural representation of a given task. While the theory of object manifolds provides insights and characterization tools for an efficient geometry for a classification task, there are many other tasks in animal behavior and human cognition where a formal theory connecting underlying representation structure and task efficiency could be useful. </p>
@@ -52,6 +55,7 @@ Advances in experimental neuroscience techniques are transforming our understand
 
 <p> Neuronal geometry is a crucial intermediate descriptor between task efficiency and the collective structure of individual neurons, and it may hold a key for unifying the descriptions of structure and function at different scales, ranging from single neurons to populations to behavior. </p>
 
+<hr>
 <h3> References </h3>
 <ol>
 <li> 

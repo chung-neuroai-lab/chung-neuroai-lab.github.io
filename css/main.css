@@ -345,3 +345,7 @@ details {
   padding: 1%;
 }
 
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
