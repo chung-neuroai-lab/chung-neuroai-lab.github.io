@@ -17,9 +17,3 @@
 - Changes to style should be made in the main.css file 
 - For overall font and margin, go to the '.body' element in main.css
 - For other specific element, go to the corresponding element indicated by "class" or "id" in the div tag 
-
-
-
-## Notable Formating
-
-
