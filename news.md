@@ -6,6 +6,10 @@ layout: default
 
 <h1> News </h1>
 <ul>
+<li> Course on neural networks in the Spring 2024 term. 
+</li>
+<li> January 2024, Keynote talk at Conf. on Parsimony and Learning (CPAL)
+</li> 
 <li> November 2023, Papers at NeurIPS 2023: <a id="external-link" href="https://openreview.net/pdf?id=5B1ZK60jWn">"Canatar and Feather et al"</a>  (spotlight, main meeting), <a id="external-link" href="https://openreview.net/pdf?id=og9V7NgOrQ">"Yerxa et al"</a> (main meeting), <a id="external-link" href="https://arxiv.org/pdf/2312.02791.pdf">"Ligeralde and Kuang et al"</a> (UniReps workshop). Talk at the Sensorium workshop. 
 </li>
 <li>
