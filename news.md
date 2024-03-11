@@ -6,6 +6,10 @@ layout: default
 
 <h1> News </h1>
 <ul>
+<li> March 2024, Works from our lab were presented at Cosyne 2024 <a id="external-link" href="https://twitter.com/s_y_chung/status/1763185502306349532?s=20">(Link)</a>
+</li>
+<li> February 2024, Our lab receives a grant from Alfred P. Sloan Foundation!
+</li>
 <li> Course on neural networks in the Spring 2024 term. 
 </li>
 <li> January 2024, Keynote talk at Conf. on Parsimony and Learning (CPAL)
