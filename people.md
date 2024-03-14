@@ -75,7 +75,7 @@ is_grid: true
 <div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/HangLe_photo.png"/>
     <div id="person" class="card-title"> <!----Title--->  Hang Le </div>
-    <div id="person" class="card-subtitle"> <!----Title---> Research Assistant </div> 
+    <div id="person" class="card-subtitle"> <!----Title---> Research Analyst </div> 
     <div id="person" class="card-body"> <!--Description--> Hang received her B.S. and M.Eng in Computation and Cognition from MIT. She formerly worked at MIT McGovern Brain Institute as a research assistant and then at C3.ai as a data scientist. She is interested in the intersection between neuroscience and artificial intelligence, especially biologically plausible learning algorithms. In her free time, she enjoys running, reading and playing badminton.</div>
 </div>
 
@@ -109,46 +109,6 @@ is_grid: true
 
 <br>
 <hr>
-<h3>Interns</h3>
-<div class="cards"> 
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/ariel-largen.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> Ariel Largen</div>
-    <div id="person" class="card-subtitle"> <!----Title---> Summer Intern</div> 
-    <div id="person" class="card-body"> <!--Description--> Ariel is an undergraduate student in Computation and Cognition at MIT and a Summer Research Assistant at the Flatiron Institute. </div>
-</div>
-
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/shaunak-bhandarkar.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> Shaunak Bhandarkar</div>
-    <div id="person" class="card-subtitle"> <!----Title---> Summer Intern</div> 
-    <div id="person" class="card-body"> <!--Description--> Shaunak is an undergraduate at Stanford studying math and neuroscience. In his current research, he has been working on developing biologically plausible neural network models that aim to capture one-shot learning in the hippocampus. As part of Dr. SueYeon Chung's group this summer, he plans to develop a mathematical framework for assessing how neural populations can develop flexible, abstract representations when trained in a multi-task regime. </div>
-</div>
-
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/zijing-wu.png"/>
-    <div id="person" class="card-title"> <!----Title---> Zijing Wu</div>
-    <div id="person" class="card-subtitle"> <!----Title---> Summer Intern</div> 
-    <div id="person" class="card-body"> <!--Description--> Zijing is a Mathematics and Computer Science undergraduate student at Georgia Tech, with a minor in psychology, who will be interning at Flatiron Institute for summer research. He is excited to explore the role of stochasticity plays in both of biological and artificial neural networks. Apart from academic life, he finds enjoyment in reading, playing table tennis and soccer, and listening to classical music and jazz. </div>
-</div>
-
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/francesco-mantegna.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> Francesco Mantagna</div>
-    <div id="person" class="card-subtitle"> <!----Title---> Summer Intern</div> 
-    <div id="person" class="card-body"> <!--Description--> Francesco is a PhD candidate in Experimental Psychology at New York University. Before that, he received a M.Sc. degree in Cognitive Science from the University of Trento and worked as a research intern at the Max Planck Institute for Psycholinguistics and at the Bruno Kessler Foundation. He will be a summer intern at the Flatiron Institute (CCN) working in the NeuroAI and Geometric Data Analysis group led by Dr. SueYeon Chung. In his free time he enjoys live music, hiking, running and swimming.  </div>
-</div>
-
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/yichen-wang.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> Yichen Wang</div>
-    <div id="person" class="card-subtitle"> <!----Title---> Summer Intern</div> 
-    <div id="person" class="card-body"> <!--Description--> Yichen is an undergraduate student at University of California, Los Angeles, with intended majors in Mathematics and Physics. He is currently a research assistant at UCLA Computational Vision & Learning Lab and a research intern at Flatiron Institute Center for Computational Neuroscience. </div>
-</div>
-
-</div>
-
-<br>
 <h3>Collaborators</h3>
 <ul>
 <li> Haim Sompolinsky (Harvard, Hebrew Univ) </li>
