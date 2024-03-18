@@ -21,10 +21,11 @@ layout: default
 <details>
 <summary>See more</summary>
     <ul> 
-    <li> Conference on Parsimony and Learning (CPAL), Hong Kong, Jan 2024 (Upcoming) </li>
-    <li> Lake Conferences: Neural Coding and Dynamics, Seattle, WA, Sep 2023 (Upcoming) </li>
-    <li> Neuroscience Seminar Series, University of Washington, Fall 2023 (Upcoming) </li>
-    <li> ICML Workshop on High-dimensional Learning Dynamics, Honolulu, HI, Jul 2023 (Upcoming) </li>
+    <li> Computational Neuroscience Seminar, UPenn, Mar 2024 </li>
+    <li> Conference on Parsimony and Learning (CPAL), Hong Kong, Jan 2024  </li>
+    <li> Lake Conferences: Neural Coding and Dynamics, Seattle, WA, Sep 2023 </li>
+    <li> Neuroscience Seminar Series, University of Washington, Fall 2023  </li>
+    <li> ICML Workshop on High-dimensional Learning Dynamics, Honolulu, HI, Jul 2023 </li>
     <li> Neuroscience Seminar, University of Chicago, Apr 2023 </li> 
     <li> "Brainy Days in Jerusalem: The Future of Neuroscience" symposium, Jerusalem, Israel, Dec 2022 </li>  
     <li> Optica (OSA) Fall Vision Meeting, Rochester, New York, Oct 2022 </li>
