@@ -98,13 +98,6 @@ is_grid: true
     <div id="person" class="card-body"> <!--Description--> Albert Wakhloo is a post baccalaureate volunteer in the NeuroAI and Geometric Data Analysis Group and a research assistant at the New York State Psychiatric Institute. He is interested in theoretical neuroscience and computational cognitive science and is planning to pursue a Ph.D. in neuroscience. </div>
 </div>
 
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/michael-kuoch.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> Michael Kuoch</div>
-    <div id="person" class="card-subtitle"> <!----Title---> Guest Researcher</div> 
-    <div id="person" class="card-body"> <!--Description--> Michael is currently an undergraduate at MIT studying computer science.  He is interested broadly in machine learning and artificial intelligence. </div>
-</div>
-
 </div>
 
 <br>
