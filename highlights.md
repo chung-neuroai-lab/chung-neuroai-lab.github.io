@@ -10,6 +10,12 @@ is_grid: true
 <br>
 <h3> Theory of Neural Manifolds</h3>
 <div class="cards">
+<div class="card">
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/chou2024.png" height="300px" width="200px"/>
+   <div class="card-title"> <!----Title---> Neural Manifold Capacity Captures Representation Geometry, Correlations, and Task-Efficiency Across Species and Behaviors </div>
+    <div class="card-subtitle"> <!----Title--->  Chi-Ning Chou, Luke Arend, Albert J. Wakhloo, Royoung Kim, Will Slatton, SueYeon Chung </div> 
+    <div class="card-body"> <!----Description--->  We present effective Geometric measures from Correlated Manifold Capacity theory (GCMC) for probing the functional structure in neural representations. We utilize a statistical physics approach to establish analytical connections between neural co-variabilities and downstream read-out efficiency. These effective geometric measures capture both stimulus-driven and behavior-driven structures in neural population activities, while extracting computationally-relevant information from neural data into intuitive and interpretable analysis descriptors. [<a id="external-link" href="https://www.biorxiv.org/content/10.1101/2024.02.26.582157v1">pdf</a>] <i> bioRxiv, 2024 </i> </div>
+</div>
 
 <div class="card">
     <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/wakhloo.png" height="300px" width="200px"/>

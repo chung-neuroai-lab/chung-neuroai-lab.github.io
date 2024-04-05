@@ -10,6 +10,36 @@ layout: default
 <hr>
 <div class="pub-card">
 <div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Neural Manifold Capacity Captures Representation Geometry, Correlations, and Task-Efficiency Across Species and Behaviors </div>
+    <div class="pub-card-subtitle"> <!----Title---> Chi-Ning Chou, Luke Arend, Albert J. Wakhloo, Royoung Kim, Will Slatton, SueYeon Chung </div> 
+    <div class="pub-card-body"> <!----Description---> We present effective Geometric measures from Correlated Manifold Capacity theory (GCMC) for probing the functional structure in neural representations. We utilize a statistical physics approach to establish analytical connections between neural co-variabilities and downstream read-out efficiency. These effective geometric measures capture both stimulus-driven and behavior-driven structures in neural population activities, while extracting computationally-relevant information from neural data into intuitive and interpretable analysis descriptors. [<a id="external-link" href="https://www.biorxiv.org/content/10.1101/2024.02.26.582157v1">pdf</a>] <i> bioRxiv, 2024 </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/chou2024.png" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Neural Population Geometry and Optimal Coding of Tasks with Shared Latent Structure </div>
+    <div class="pub-card-subtitle"> <!----Title---> Albert J. Wakhloo, Will Slatton, and SueYeon Chung </div> 
+    <div class="pub-card-body"> <!----Description---> Humans and animals can recognize latent structures in their environment and apply this information to efficiently navigate the world. Several recent works argue that the brain supports these abilities by forming neural representations that encode such latent structures in flexible, generalizable ways. However, it remains unclear what aspects of neural population activity are contributing to these computational capabilities. Here, we develop an analytical theory linking the mesoscopic statistics of a neural population’s activity to generalization performance on a multi-task learning problem.  [<a id="external-link" href="https://arxiv.org/pdf/2402.16770.pdf">pdf</a>] <i> aRxiv, 2024 </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/wakhloo2024.png" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Probing Biological and Artificial Neural Networks with Task-dependent Neural Manifolds </div>
+    <div class="pub-card-subtitle"> <!----Title---> Michael Kuoch*, Chi-Ning Chou*, Nikhil Parthasarathy, Joel Dapello, James J. DiCarlo, Haim Sompolinsky, SueYeon Chung </div> 
+    <div class="pub-card-body"> <!----Description---> Recently, growth in our understanding of the computations performed in both biological and artificial neural networks has largely been driven by either low-level mechanistic studies or global normative approaches. However, concrete methodologies for bridging the gap between these levels of abstraction remain elusive. In this work, we investigate the internal mechanisms of neural networks through the lens of neural population geometry, aiming to provide understanding at an intermediate level of abstraction, as a way to bridge that gap [<a id="external-link" href="https://proceedings.mlr.press/v234/kuoch24a/kuoch24a.pdf">pdf</a>] [<a id="external-link" href="assets/bib/kuoch2024.html">bib</a>] <i> Conference on Parsimony and Learning, 2024 </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/kuoch2024.png" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
    <div class="pub-card-title"> <!----Title---> Unsupervised learning on spontaneous retinal activity leads to efficient neural representation geometry </div>
     <div class="pub-card-subtitle"> <!----Title---> Andrew Ligeralde, Yilun Kuang, Thomas Edward Yerxa, Miah N. Pitcher, Marla Feller, SueYeon Chung </div> 
     <div class="pub-card-body"> <!----Description--->  Prior to the onset of vision, neurons in the developing mammalian retina spontaneously fire in correlated activity patterns known as retinal waves. Experimental evidence suggests that retinal waves strongly influence the emergence of sensory representations before visual experience. We aim to model this early stage of functional development by using movies of neurally active developing retinas as pre-training data for neural networks [<a id="external-link" href="https://arxiv.org/pdf/2312.02791.pdf">pdf</a>] <i> UniReps workshop, NeurIPS, 2023 </i> </div>
@@ -22,7 +52,7 @@ layout: default
 <div class="pub-card-text">    
    <div class="pub-card-title"> <!----Title---> A Spectral Theory of Neural Prediction and Alignment  </div>
     <div class="pub-card-subtitle"> <!----Title---> Abdulkadir Canatar*, Jenelle Feather*, Albert Wakhloo, SueYeon Chung </div> 
-    <div class="pub-card-body"> <!----Description--->  Many different state-of-the-art deep neural networks yield similar neural predictions, but it remains unclear how to differentiate among models that perform equally well at predicting neural responses. To gain insight into this, we use a recent theoretical framework that relates the generalization error from regression to the spectral bias of the model activations and the alignment of the neural responses onto the learnable subspace of the model. [<a id="external-link" href="https://openreview.net/pdf?id=5B1ZK60jWn">pdf</a>] [<a id="external-link" href="assets/bib/yerxa2023.html">bib</a>] <i> Spotlight paper, NeurIPS, 2023 </i> </div>
+    <div class="pub-card-body"> <!----Description--->  Many different state-of-the-art deep neural networks yield similar neural predictions, but it remains unclear how to differentiate among models that perform equally well at predicting neural responses. To gain insight into this, we use a recent theoretical framework that relates the generalization error from regression to the spectral bias of the model activations and the alignment of the neural responses onto the learnable subspace of the model. [<a id="external-link" href="https://openreview.net/pdf?id=5B1ZK60jWn">pdf</a>] [<a id="external-link" href="assets/bib/yerxa2023.html">bib</a>] [<a id="external-link" href="https://github.com/chung-neuroai-lab/SNAP">code</a>] <i> Spotlight paper, NeurIPS, 2023 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/canatar2023.png" />
 </div>
@@ -52,7 +82,7 @@ layout: default
 <div class="pub-card-text">    
    <div class="pub-card-title"> <!----Title---> Linear Classification of Neural Manifolds with Correlated Variability </div>
     <div class="pub-card-subtitle"> <!----Title---> Albert J. Wakhloo, Tamara J. Sussman, and SueYeon Chung </div> 
-    <div class="pub-card-body"> <!----Description--->  In this letter, we calculate how correlations between object representations affect the capacity, a measure of linear separability. We show that for spherical object manifolds, introducing correlations between centroids effectively pushes the spheres closer together, while introducing correlations between the spheres’ axes effectively shrinks their radii, revealing a duality between neural correlations and geometry [<a id="external-link" href="https://drive.google.com/file/d/1f4Uk1yirrsmLKnwK8xEDGft6SLK1EKJD/view">pdf</a>][<a id="external-link" href="assets/bib/wakhloo.html">bib</a>] <i> Physical Review Letters, 2023 </i> </div>
+    <div class="pub-card-body"> <!----Description--->  In this letter, we calculate how correlations between object representations affect the capacity, a measure of linear separability. We show that for spherical object manifolds, introducing correlations between centroids effectively pushes the spheres closer together, while introducing correlations between the spheres’ axes effectively shrinks their radii, revealing a duality between neural correlations and geometry [<a id="external-link" href="https://drive.google.com/file/d/1f4Uk1yirrsmLKnwK8xEDGft6SLK1EKJD/view">pdf</a>][<a id="external-link" href="assets/bib/wakhloo.html">bib</a>][<a id="external-link" href="https://github.com/awakhloo/correlated_capacity">code</a>] <i> Physical Review Letters, 2023 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/wakhloo.png" />
 </div>
