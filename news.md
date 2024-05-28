@@ -6,6 +6,8 @@ layout: default
 
 <h1> News </h1>
 <ul>
+<li> Uriel Leon, Hyunmo Kang, William Yang, and Satchel Grant joins our lab as this year's Summer interns. Yichen Wang returns for another Summer internship!</a>
+</li>
 <li> March 2024, Works from our lab were presented at Cosyne 2024 <a id="external-link" href="https://twitter.com/s_y_chung/status/1763185502306349532?s=20">(Link)</a>
 </li>
 <li> February 2024, Our lab receives a grant from Alfred P. Sloan Foundation!
