@@ -66,10 +66,10 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/ngayu.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> <a href="https://www.ngayulo.com">Nga Yu Lo</a></div>
-    <div id="person" class="card-subtitle"> <!----Title---> Research Analyst</div> 
-    <div id="person" class="card-body">Nga Yu graduated from Macaulay Honors College at CUNY Hunter College with B.A. in mathematics and computer science. She is interested in the intersection between artificial intelligence and computational neuroscience. Currently, she is working on extending the theory of manifold capacity and understanding the underlying geometries in high dimensional data. In her free time, she enjoys hiking and drawing.</div>
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/artem-kirsanov.jpg"/>
+    <div id="person" class="card-title"> <!----Title--->  Artem Kirsanov </div>
+    <div id="person" class="card-subtitle"> <!----Title---> PhD Student </div>
+    <div id="person" class="card-body"> <!--Description-->Artem received his B.S. in biophysics from Lomonosov Moscow State University. He is currently a graduate student at NYU’s Center for Neural Science. Artem’s research lies at the intersection of neuroscience and AI. His primary interest is in understanding how the geometry of internal representations gets reorganized to support multiple computational tasks.</div>
 </div>
 
 <div id="profile" class="card">
