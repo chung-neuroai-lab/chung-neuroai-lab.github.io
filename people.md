@@ -66,7 +66,7 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/artem-kirsanov.jpg"/>
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/artem-kirsanov.png"/>
     <div id="person" class="card-title"> <!----Title--->  Artem Kirsanov </div>
     <div id="person" class="card-subtitle"> <!----Title---> PhD Student </div>
     <div id="person" class="card-body"> <!--Description-->Artem received his B.S. in biophysics from Lomonosov Moscow State University. He is currently a graduate student at NYU’s Center for Neural Science. Artem’s research lies at the intersection of neuroscience and AI. His primary interest is in understanding how the geometry of internal representations gets reorganized to support multiple computational tasks.</div>
