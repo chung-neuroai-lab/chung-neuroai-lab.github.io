@@ -37,6 +37,13 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/sebastian-lee.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> <a href="https://seblee97.github.io/">Sebastian Lee PhD</a></div>
+    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
+    <div id="person" class="card-body"> <!--Description--> I am a Flatiron Research Fellow in the Center for Computational Neuroscience. I am interested in the intersection of machine learning and theoretical neuroscience, especially in non-stationary and multi-task learning paradigms such as lifelong reinforcement learning and continual learning. Prior to coming to New York, I completed my PhD under the supervision of Andrew Saxe and Claudia Clopath in London. </div>
+</div>
+
+<div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/sonica-saraf.jpg"/>
     <div id="person" class="card-title"> <!----Title---> Sonica Saraf</div>
     <div id="person" class="card-subtitle"> <!----Title---> PhD Student (Co-advised)</div> 
@@ -79,12 +86,6 @@ is_grid: true
     <div id="person" class="card-body"> <!--Description--> Hang received her B.S. and M.Eng in Computation and Cognition from MIT. She formerly worked at MIT McGovern Brain Institute as a research assistant and then at C3.ai as a data scientist. She is interested in the intersection between neuroscience and artificial intelligence, especially biologically plausible learning algorithms. In her free time, she enjoys running, reading and playing badminton.</div>
 </div>
 
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/luke-arend.jpg"/>
-    <div id="person" class="card-title"> <!----Title--->  Luke Arend </div>
-    <div id="person" class="card-subtitle"> <!----Title---> Rotational Student </div> 
-    <div id="person" class="card-body"> <!--Description--> Luke received his B.S. in Physics and B.A. in Philosophy at Bethel University. He formerly worked at the JHU Lab for Computational Sensing + Robotics, MIT Center for Brain & Cognitive Science, and as a data scientist at SAIVA AI. He is currently a graduate student at the NYU Center for Neural Science.</div>
-</div>
 </div>
 
 <br>
