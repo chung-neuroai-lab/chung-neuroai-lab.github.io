@@ -6,9 +6,9 @@ layout: default
 
 <h1> News </h1>
 <ul>
-<li> October 2024, Check out our lab's work at <a id="external-link" href="https://meetings.cshl.edu/meetings.aspx?meet=NAISYS">"From Neuroscience to Artificially Intelligent Systems (NAISys) 2024"</a>: 2 talks, 5 posters. [<a id="external-link" href="https://meetings.cshl.edu/posters/naisys24/naisys2024_AbstractBook.pdf">"Link"</a>]
+<li> October 2024, Check out our lab's work at <a id="external-link" href="https://meetings.cshl.edu/meetings.aspx?meet=NAISYS">From Neuroscience to Artificially Intelligent Systems (NAISys) 2024</a>: 2 talks, 5 posters. [<a id="external-link" href="https://meetings.cshl.edu/posters/naisys24/naisys2024_AbstractBook.pdf">Link</a>]
 </li>
-<li> September 2024, I’ll be co-chairing <a id="external-link" href="https://www.cosyne.org/workshops-call">"workshops at COSYNE 2025"</a>. Proposal deadline: 10/4/2024.
+<li> September 2024, I’ll be co-chairing <a id="external-link" href="https://www.cosyne.org/workshops-call">workshops at COSYNE 2025</a>. Proposal deadline: 10/4/2024.
 </li>
 <li> July 2024, The lab is awarded an R01 grant! Thanks to the NIH Brain Initiative and the NIDA for their generous support!
 </li>
