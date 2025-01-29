@@ -6,8 +6,7 @@ layout: default
 
 <h1> Research Statement </h1>
 <h5> Dr. SueYeon Chung </h5>
-<h2 style="text-align: center;"> Computing with Neural Manifolds: </h2>
-<h2 style="text-align: center;"> Towards a Unified Understanding of Biological and Artificial Neural Networks </h2>
+<h2 style="text-align: center;"> Computing with Neural Manifolds: <br> Towards a Unified Understanding of Biological and Artificial Neural Networks </h2>
 
 <p> A central goal in neuroscience is to understand how orchestrated computations in the brain arise from the properties of individual neurons and networks of such neurons. To achieve this, it is crucial to bridge phenomena across multiple scales, from the microscopic responses of individual neurons to the emergent macroscopic phenomena of cognitive and task functions. The structures of neuron population activities manifest themselves as neural representations. Neural computation can be viewed as a series of transformations of these representations through various processing stages of the brain. Therefore, theories that help us comprehend the structure and transformation of these representations illuminate the 'black box' of computation in both biological and artificial neural networks. </p>
 <p> The primary focus of my lab's research is to develop such theories of neural representations that describe the principles of neural coding and, importantly, capture the complex structure of real data from both biological and artificial systems. To achieve this, we construct theories, methods, and models that capture normative principles connecting multiple scales and levels of abstraction. In this context, I will discuss three related approaches, describing both past and ongoing work, and future directions. </p>
