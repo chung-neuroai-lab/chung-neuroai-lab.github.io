@@ -101,43 +101,43 @@ Yamins DLK, Hong H, Cadieu CF, Solomon EA, Seibert D, DiCarlo JJ. Performance-op
 Richards BA, Lillicrap TP, Beaudoin P, Bengio Y, Bogacz R, Christensen A, et al. A deep learning framework for neuroscience. Nat Neurosci. 2019;22: 1761–1770.
 </li>
 <li>
-Chung S, Abbott LF. Neural population geometry: An approach for understanding biological and artificial neural networks. Curr Opin Neurobiol. 2021;70: 137–144.
+<b>Chung S</b>, Abbott LF. Neural population geometry: An approach for understanding biological and artificial neural networks. Curr Opin Neurobiol. 2021;70: 137–144.
 </li>
 <li>
-Chung S, Lee DD, Sompolinsky H. Linear readout of object manifolds. Physical Review E. 2016;93: 060301.
+<b>Chung S</b>, Lee DD, Sompolinsky H. Linear readout of object manifolds. Physical Review E. 2016;93: 060301.
 </li>
 <li>
-Chung S, Lee DD, Sompolinsky H. Classification and Geometry of General Perceptual Manifolds. Physical Review X. 2018;8: 031003.
+<b>Chung S</b>, Lee DD, Sompolinsky H. Classification and Geometry of General Perceptual Manifolds. Physical Review X. 2018;8: 031003.
 </li>
 <li>
-Cohen U*, Chung S*, Lee DD, Sompolinsky H. Separability and geometry of object manifolds in deep neural networks. Nature Communications. 2020;11: 746.
+Cohen U*, <b>Chung S*</b>, Lee DD, Sompolinsky H. Separability and geometry of object manifolds in deep neural networks. Nature Communications. 2020;11: 746.
 </li>
 <li>
-Wakhloo AJ, Sussman TJ, Chung S. Linear Classification of Neural Manifolds with Correlated Variability. Phys Rev Lett. 2023.
+Wakhloo AJ, Sussman TJ, <b>Chung S</b>. Linear Classification of Neural Manifolds with Correlated Variability. Phys Rev Lett. 2023.
 </li>
 <li>
 Froudarakis E, Cohen U, Diamantaki M, Walker EY, Reimer J, Berens P, et al. Object manifold geometry across the mouse cortical visual hierarchy. doi:10.1101/2020.08.20.258798.
 </li>
 <li>
-Stephenson C, Padhy S, Ganesh A, Hui Y, Tang H, Chung S. On the geometry of generalization and memorization in deep neural networks. International Conference on Learning Representations, ICLR. 2021.
+Stephenson C, Padhy S, Ganesh A, Hui Y, Tang H, <b>Chung S</b>. On the geometry of generalization and memorization in deep neural networks. International Conference on Learning Representations, ICLR. 2021.
 </li>
 <li>
-Stephenson C, Feather J, Padhy S, Elibol O, Tang H, McDermott J, Chung S. Untangling in Invariant Speech Recognition. Advances in Neural Information Processing Systems, NeurIPS. 2020.
+Stephenson C, Feather J, Padhy S, Elibol O, Tang H, McDermott J, <b>Chung S</b>. Untangling in Invariant Speech Recognition. Advances in Neural Information Processing Systems, NeurIPS. 2020.
 </li>
 <li>
-Yao JD, Zemlianova KO, Hocker DL, Savin C, Constantinople CM, Chung S, Sanes DH. Transformation of acoustic information to sensory decision variables in the parietal cortex. Proc Natl Acad Sci, PNAS. 2023. doi:10.1101/2022.07.05.498869.
+Yao JD, Zemlianova KO, Hocker DL, Savin C, Constantinople CM, <b>Chung S</b>, Sanes DH. Transformation of acoustic information to sensory decision variables in the parietal cortex. Proc Natl Acad Sci, PNAS. 2023. doi:10.1101/2022.07.05.498869.
 </li>
 <li>
-Paraouty N, Yao JD, Varnet L, Chou C-N, Chung S, Sanes DH. Sensory cortex plasticity supports auditory social learning. Nat Commun. 2023;14: 5828.
+Paraouty N, Yao JD, Varnet L, Chou C-N, <b>Chung S</b>, Sanes DH. Sensory cortex plasticity supports auditory social learning. Nat Commun. 2023;14: 5828.
 </li>
 <li>
-Mamou J, Le H, Rio MD, Stephenson C, Tang H, Kim Y, Chung S. Emergence of Separable Manifolds in Deep Language Representations. Proceedings of the 37th International Conference on Machine Learning, ICML 2020. 2020. pp. 6713–6723.
+Mamou J, Le H, Rio MD, Stephenson C, Tang H, Kim Y, <b>Chung S</b>. Emergence of Separable Manifolds in Deep Language Representations. Proceedings of the 37th International Conference on Machine Learning, ICML 2020. 2020. pp. 6713–6723.
 </li>
 <li>
-Alleman M, Mamou J, Del Rio MA, Tang H, Kim Y, Chung S. Representational correlates of hierarchical phrase structure in deep language models. ACL Workshop, Representation Learning for NLP. 2020.
+Alleman M, Mamou J, Del Rio MA, Tang H, Kim Y, <b>Chung S</b>. Representational correlates of hierarchical phrase structure in deep language models. ACL Workshop, Representation Learning for NLP. 2020.
 </li>
 <li>
-Canatar A, Feather J, Wakhloo A, Chung S. A Spectral Theory of Neural Prediction and Alignment. Advances in Neural Information Processing Systems, NeurIPS. 2023.
+Canatar A, Feather J, Wakhloo A, <b>Chung S</b>. A Spectral Theory of Neural Prediction and Alignment. Advances in Neural Information Processing Systems, NeurIPS. 2023.
 </li>
 <li>
 Canatar A, Bordelon B, Pehlevan C. Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks. Nat Commun. 2021;12: 2914.
@@ -152,22 +152,22 @@ Dayan P, Abbott LF. Theoretical Neuroscience: Computational and Mathematical Mod
 Goris RLT, Simoncelli EP, Movshon JA. Origin and Function of Tuning Diversity in Macaque Visual Cortex. Neuron. 2015;88: 819–831.
 </li>
 <li>
-Dapello J, Feather J, Le H, Marques T, Cox DD, McDermott JH, DiCarlo JJ, Chung S. Neural population geometry reveals the role of stochasticity in robust perception. Advances in Neural Information Processing Systems. 2021. pp. 15595–15607.
+Dapello J, Feather J, Le H, Marques T, Cox DD, McDermott JH, DiCarlo JJ, <b>Chung S</b>. Neural population geometry reveals the role of stochasticity in robust perception. Advances in Neural Information Processing Systems. 2021. pp. 15595–15607.
 </li>
 <li>
-Miller M, Chung S, Miller KD. Divisive Feature Normalization Improves Image Recognition Performance in AlexNet. International Conference on Learning Representations, ICLR. 2022.
+Miller M, <b>Chung S</b>, Miller KD. Divisive Feature Normalization Improves Image Recognition Performance in AlexNet. International Conference on Learning Representations, ICLR. 2022.
 </li>
 <li>
-Nassar J, Sokol PA, Chung S, Harris KD, Park IM. On 1/n neural representation and robustness. Advances in Neural Information Processing Systems, NeurIPS. 2020. pp. 6211–6222.
+Nassar J, Sokol PA, <b>Chung S</b>, Harris KD, Park IM. On 1/n neural representation and robustness. Advances in Neural Information Processing Systems, NeurIPS. 2020. pp. 6211–6222.
 </li>
 <li>
-Clark DG, Abbott LF, Chung S. Credit assignment through broadcasting a global error vector. Advances in Neural Information Processing Systems, NeurIPS. 2021. pp. 10053–10066.
+Clark DG, Abbott LF, <b>Chung S</b>. Credit assignment through broadcasting a global error vector. Advances in Neural Information Processing Systems, NeurIPS. 2021. pp. 10053–10066.
 </li>
 <li>
 Barlow HB, Others. Possible principles underlying the transformation of sensory messages. Sensory communication. 1961;1: 217–233.
 </li>
 <li>
-Yerxa T, Kuang Y, Simoncelli E, Chung S. Learning Efficient Coding of Natural Images with Maximum Manifold Capacity Representations. Advances in Neural Information Processing Systems, NeurIPS. 2023.
+Yerxa T, Kuang Y, Simoncelli E, <b>Chung S</b>. Learning Efficient Coding of Natural Images with Maximum Manifold Capacity Representations. Advances in Neural Information Processing Systems, NeurIPS. 2023.
 </li>
 <li>
 Bernardi S, Benna MK, Rigotti M, Munuera J, Fusi S, Salzman CD. The Geometry of Abstraction in the Hippocampus and Prefrontal Cortex. Cell. 2020;183: 954–967.e21.
