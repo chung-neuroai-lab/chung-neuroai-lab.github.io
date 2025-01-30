@@ -13,7 +13,7 @@ layout: default
 
 <table class="center">
     <tr>
-    <td><img src="assets/img/research_figures_2025/image1.svg" height="300px"> </td>
+    <td><img src="assets/img/research_figures_2025/image1.svg" height="400px"> </td>
     </tr>
 </table>
 
@@ -26,7 +26,7 @@ layout: default
 
 <table class="center">
     <tr>
-    <td><img src="assets/img/research_figures_2025/image2.svg" height="300px"> </td>
+    <td><img src="assets/img/research_figures_2025/image2.svg" height="400px"> </td>
     </tr>
 </table>
 
@@ -41,7 +41,7 @@ layout: default
 
 <table class="center">
     <tr>
-    <td><img src="assets/img/research_figures_2025/image3.svg" height="300px"> </td>
+    <td><img src="assets/img/research_figures_2025/image3.svg" height="400px"> </td>
     </tr>
 </table>
 
@@ -53,7 +53,7 @@ layout: default
 
 <table class="center">
     <tr>
-    <td><img src="assets/img/research_figures_2025/image4.svg" height="300px"> </td>
+    <td><img src="assets/img/research_figures_2025/image4.svg" height="400px"> </td>
     </tr>
 </table>
 
@@ -69,7 +69,7 @@ layout: default
 
 <table class="center">
     <tr>
-    <td><img src="assets/img/research_figures_2025/image5.svg" height="300px"> </td>
+    <td><img src="assets/img/research_figures_2025/image5.svg" height="400px"> </td>
     </tr>
 </table>
 
