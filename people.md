@@ -12,16 +12,9 @@ is_grid: true
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/sueyeon-chung.jpg"/>
     <div id="person" class="card-title"> <!----Title---> SueYeon Chung PhD</div> 
     <div id="person" class="card-subtitle"> <!----Title---> Principle Investigator </div> 
-    <div id="person" class="card-body">SueYeon received her PhD in Physics at Harvard University and B.A. in Mathematics and Physics at Cornell University. She is currently an assistant professor at NYU Center for Neural Science and a group leader at Flatiron Institute Center for Computational Neuroscience.</div>
+    <div id="person" class="card-body">SueYeon received her PhD in Applied Physics at Harvard University and B.A. in Mathematics and Physics at Cornell University. She is currently an assistant professor at NYU Center for Neural Science and a group leader at Flatiron Institute Center for Computational Neuroscience.</div>
 </div>
-
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/jenelle-feather.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> <a href="https://www.jenellefeather.com/">Jenelle Feather PhD</a></div>
-    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
-    <div id="person" class="card-body"> <!--Description--> Jenelle received her PhD from MIT in Brain and Cognitive Sciences, and S.B. from MIT in Physics and Brain and Cognitive Sciences. She is currently a research fellow at Flatiron Institute Center for Computational Neuroscience.</div>
-</div>
-
+    
 <div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/abdul-headshot.png"/>
     <div id="person" class="card-title"> <!----Title---> <a href="https://scholar.google.com/citations?user=_F4TER8AAAAJ&hl=en">Abdul Canatar PhD</a></div>
@@ -41,6 +34,13 @@ is_grid: true
     <div id="person" class="card-title"> <!----Title---> <a href="https://seblee97.github.io/">Sebastian Lee PhD</a></div>
     <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
     <div id="person" class="card-body"> <!--Description--> I am a Flatiron Research Fellow in the Center for Computational Neuroscience. I am interested in the intersection of machine learning and theoretical neuroscience, especially in non-stationary and multi-task learning paradigms such as lifelong reinforcement learning and continual learning. Prior to coming to New York, I completed my PhD under the supervision of Andrew Saxe and Claudia Clopath in London. </div>
+</div>
+
+<div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/jenelle-feather.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> <a href="https://www.jenellefeather.com/">Jenelle Feather PhD</a></div>
+    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
+    <div id="person" class="card-body"> <!--Description--> Jenelle received her PhD from MIT in Brain and Cognitive Sciences, and S.B. from MIT in Physics and Brain and Cognitive Sciences. She is currently a research fellow at Flatiron Institute Center for Computational Neuroscience.</div>
 </div>
 
 <div id="profile" class="card">
