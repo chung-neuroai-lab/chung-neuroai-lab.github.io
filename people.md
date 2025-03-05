@@ -37,9 +37,23 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/will-slatton.jpg"/>
+    <div id="person" class="card-title"> <!----Title--->  Will Slatton </div>
+    <div id="person" class="card-subtitle"> <!----Title---> PhD Student </div> 
+    <div id="person" class="card-body"> <!--Description--> Will received his BS in Mathematics and BA in Neuroscience from Rice University. He is now working on his Neuroscience PhD at NYU, where he is broadly interested in computational neuroscience.</div>
+</div>
+
+<div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/artem-kirsanov.png"/>
+    <div id="person" class="card-title"> <!----Title--->  Artem Kirsanov </div>
+    <div id="person" class="card-subtitle"> <!----Title---> PhD Student </div>
+    <div id="person" class="card-body"> <!--Description-->Artem received his B.S. in biophysics from Lomonosov Moscow State University. He is currently a graduate student at NYU’s Center for Neural Science. Artem’s research lies at the intersection of neuroscience and AI. His primary interest is in understanding how the geometry of internal representations gets reorganized to support multiple computational tasks.</div>
+</div>
+
+<div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/jenelle-feather.jpg"/>
     <div id="person" class="card-title"> <!----Title---> <a href="https://www.jenellefeather.com/">Jenelle Feather PhD</a></div>
-    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
+    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral (Co-advised) </div> 
     <div id="person" class="card-body"> <!--Description--> Jenelle received her PhD from MIT in Brain and Cognitive Sciences, and S.B. from MIT in Physics and Brain and Cognitive Sciences. She is currently a research fellow at Flatiron Institute Center for Computational Neuroscience.</div>
 </div>
 
@@ -63,20 +77,6 @@ is_grid: true
     <div id="person" class="card-title"> <!----Title---> Jose Hurtado </div>
     <div id="person" class="card-subtitle"> <!----Title---> PhD Student (Co-advised)</div> 
     <div id="person" class="card-body"> <!--Description--> Jose is interested in how the hippocampus, a well characterized brain region involved in episodic memory, integrates information from different modalities (spatial,temporal,contextual) to paint a flexible picture of the present and past world. Currently, he is exploring how manifold representations may help differentiate contexts during spatial navigation.</div>
-</div>
-
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/will-slatton.jpg"/>
-    <div id="person" class="card-title"> <!----Title--->  Will Slatton </div>
-    <div id="person" class="card-subtitle"> <!----Title---> PhD Student </div> 
-    <div id="person" class="card-body"> <!--Description--> Will received his BS in Mathematics and BA in Neuroscience from Rice University. He is now working on his Neuroscience PhD at NYU, where he is broadly interested in computational neuroscience.</div>
-</div>
-
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/artem-kirsanov.png"/>
-    <div id="person" class="card-title"> <!----Title--->  Artem Kirsanov </div>
-    <div id="person" class="card-subtitle"> <!----Title---> PhD Student </div>
-    <div id="person" class="card-body"> <!--Description-->Artem received his B.S. in biophysics from Lomonosov Moscow State University. He is currently a graduate student at NYU’s Center for Neural Science. Artem’s research lies at the intersection of neuroscience and AI. His primary interest is in understanding how the geometry of internal representations gets reorganized to support multiple computational tasks.</div>
 </div>
 
 <div id="profile" class="card">
