@@ -7,6 +7,77 @@ layout: default
 <h1> Publications </h1>
 
 (*:co-first, +:co-last)
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Spectral Analysis of Representational Similarity with Limited Neurons </div>
+    <div class="pub-card-subtitle"> <!----Title---> Hyunmo Kang, Abdulkadir Canatar, SueYeon Chung </div> 
+    <div class="pub-card-body"> <!----Description---> Measuring representational similarity between neural recordings and computational models is challenging due to constraints on the number of neurons that can be recorded simultaneously. In this work, we investigate how such limitations affect similarity measures, focusing on Canonical Correlation Analysis (CCA) and Centered Kernel Alignment (CKA). Leveraging tools from Random Matrix Theory, we develop a predictive spectral framework for these measures and demonstrate that finite neuron sampling systematically underestimates similarity due to eigenvector delocalization. To overcome this, we introduce a denoising method to infer population-level similarity, enabling accurate analysis even with small neuron samples. [<a id="external-link" href="https://arxiv.org/pdf/2502.19648">pdf</a>][<a id="external-link" href="assets/bib/kang2025spectral.html">bib</a>] <i> aRxiv, 2025 </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/kang2025spectral.png" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Statistical Mechanics of Support Vector Regression </div>
+    <div class="pub-card-subtitle"> <!----Title---> Abdulkadir Canatar, SueYeon Chung </div> 
+    <div class="pub-card-body"> <!----Description---> A key problem in deep learning and computational neuroscience is relating the geometrical properties of neural representations to task performance. Here, we consider this problem for continuous decoding tasks where neural variability may affect task precision. Using methods from statistical mechanics, we study the average-case learning curves for ε-insensitive Support Vector Regression (ε-SVR) and discuss its capacity as a measure of linear decodability. Our analysis reveals a phase transition in the training error at a critical load, capturing the interplay between the tolerance parameter ε and neural variability. We uncover a double-descent phenomenon in the generalization error, showing that ε acts as a regularizer, both suppressing and shifting these peaks. [<a id="external-link" href="https://arxiv.org/pdf/2412.05439">pdf</a>][<a id="external-link" href="assets/bib/canatar2024statistical.html">bib</a>] <i> aRxiv, 2025 </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/canatar2024statistical.png" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> The Geometry of Prompting: Unveiling Distinct Mechanisms of Task Adaptation in Language Models </div>
+    <div class="pub-card-subtitle"> <!----Title---> Artem Kirsanov, Chi-Ning Chou, Kyunghyun Cho, SueYeon Chung </div> 
+    <div class="pub-card-body"> <!----Description---> Decoder-only language models have the ability to dynamically switch between various computational tasks based on input prompts. Despite many successful applications of prompting, there is very limited understanding of the internal mechanism behind such flexibility. In this work, we investigate how different prompting methods affect the geometry of representations in these models. Employing a framework grounded in statistical physics, we reveal that various prompting techniques, while achieving similar performance, operate through distinct representational mechanisms for task adaptation. Our analysis highlights the critical role of input distribution samples and label semantics in few-shot in-context learning. [<a id="external-link" href="https://arxiv.org/pdf/2502.08009">pdf</a>][<a id="external-link" href="assets/bib/kirsanov2025geometry.html">bib</a>] <i> NAACL, 2025 </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/kirsanov2025geometry.png" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Nonlinear classification of neural manifolds with contextual information </div>
+    <div class="pub-card-subtitle"> <!----Title---> Francesca Mignacco, Chi-Ning Chou, SueYeon Chung </div> 
+    <div class="pub-card-body"> <!----Description---> Understanding how neural systems efficiently process information through distributed representations is a fundamental challenge at the interface of neuroscience and machine learning. Recent approaches analyze the statistical and geometrical attributes of neural representations as population-level mechanistic descriptors of task implementation. In particular, manifold capacity has emerged as a promising framework linking population geometry to the separability of neural manifolds. However, this metric has been limited to linear readouts. To address this limitation, we introduce a theoretical framework that leverages latent directions in input space, which can be related to contextual information. We derive an exact formula for the context-dependent manifold capacity that depends on manifold geometry and context correlations, and validate it on synthetic and real data. [<a id="external-link" href="https://journals.aps.org/pre/pdf/10.1103/PhysRevE.111.035302">pdf</a>][<a id="external-link" href="assets/bib/mignacco2025nonlinear.html">bib</a>] <i> Physical Review E, 2025 </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/mignacco2025nonlinear.png" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Estimating the Spectral Moments of the Kernel Integral Operator from Finite Sample Matrices </div>
+    <div class="pub-card-subtitle"> <!----Title---> Chanwoo Chun, SueYeon Chung, Daniel D. Lee </div> 
+    <div class="pub-card-body"> <!----Description---> Analyzing the structure of sampled features from an input data distribution is challenging when constrained by limited measurements in both the number of inputs and features. Traditional approaches often rely on the eigenvalue spectrum of the sample covariance matrix derived from finite measurement matrices; however, these spectra are sensitive to the size of the measurement matrix, leading to biased insights. In this paper, we introduce a novel algorithm that provides unbiased estimates of the spectral moments of the kernel integral operator in the limit of infinite inputs and features from finitely sampled measurement matrices. Our method, based on dynamic programming, is efficient and capable of estimating the moments of the operator spectrum.[<a id="external-link" href="https://arxiv.org/pdf/2410.17998">pdf</a>][<a id="external-link" href="assets/bib/chun2024estimating.html">bib</a>] <i> AISTATS, 2025 </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/chun2024estimating.png" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Contrastive-Equivariant Self-Supervised Learning Improves Alignment with Primate Visual Area IT </div>
+    <div class="pub-card-subtitle"> <!----Title---> Thomas Yerxa, Jenelle Feather, Eero Simoncelli, SueYeon Chung </div> 
+    <div class="pub-card-body"> <!----Description---> Models trained with self-supervised learning objectives have recently matched or surpassed models trained with traditional supervised object recognition in their ability to predict neural responses of object-selective neurons in the primate visual system. However, typical self-supervised objectives may result in network representations that are overly invariant to changes in the input. We introduce a novel framework for converting standard invariant SSL losses into “contrastive-equivariant” versions that encourage preservation of input transformations without supervised access to the transformation parameters. We demonstrate that our proposed method systematically increases the ability of models to predict responses in macaque inferior temporal cortex. [<a id="external-link" href="https://openreview.net/pdf?id=AiMs8GPP5q">pdf</a>][<a id="external-link" href="assets/bib/yerxa2024contrastive.html">bib</a>] <i> NeurIPS, 2024 </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/yerxa2024contrastive.png" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Representational Learning by Optimization of Neural Manifolds in an Olfactory Memory Network </div>
+    <div class="pub-card-subtitle"> <!----Title---> Bo Hu, Nesibe Z. Temiz, Chi-Ning Chou, Peter Rupprecht, Claire Meissner-Bernard, Benjamin Titze, SueYeon Chung, Rainer W. Friedrich </div> 
+    <div class="pub-card-body"> <!----Description---> Higher brain functions depend on experience-dependent representations of relevant information that may be organized by attractor dynamics or by geometrical modifications of continuous “neural manifolds”. To explore these scenarios we analyzed odor-evoked activity in telencephalic area pDp of juvenile and adult zebrafish, the homolog of piriform cortex. No obvious signatures of attractor dynamics were detected. Rather, olfactory discrimination training selectively enhanced the separation of neural manifolds representing task-relevant odors from other representations, consistent with predictions of autoassociative network models endowed with precise synaptic balance. [<a id="external-link" href="https://www.biorxiv.org/content/10.1101/2024.11.17.623906v1">pdf</a>][<a id="external-link" href="assets/bib/hu2024representational.html">bib</a>] <i> bioRxiv, 2024 </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/hu2024representational.png" />
+</div>
+
 <hr>
 <div class="pub-card">
 <div class="pub-card-text">    
