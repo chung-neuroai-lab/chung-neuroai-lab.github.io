@@ -37,6 +37,13 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/chanwoo-chun.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> Chanwoo Chun PhD</div>
+    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
+    <div id="person" class="card-body"> <!--Description--> Chanwoo received his PhD from Weill Cornell Medical College and his B.S. from Cornell University. He is currently a postdoctoral fellow at SueYeon Chung's group. He is interested in understanding how large-scale neural systems encode information for executing complex tasks, such as planning and composition. </div>
+</div>
+
+<div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/will-slatton.jpg"/>
     <div id="person" class="card-title"> <!----Title--->  Will Slatton </div>
     <div id="person" class="card-subtitle"> <!----Title---> PhD Student </div> 
