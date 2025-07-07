@@ -11,6 +11,26 @@ layout: default
 <hr>
 <div class="pub-card">
 <div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Geometry linked to untangling efficiency reveals structure and computation in neural populations </div>
+    <div class="pub-card-subtitle"> <!----Title---> Chi-Ning Chou, Royoung Kim, Luke A Arend, Yao-Yuan Yang, Brett D Mensh, Won Mok Shim, Matthew G Perich, SueYeon Chung </div> 
+    <div class="pub-card-body"> <!----Description---> From an eagle spotting a fish in shimmering water to a scientist extracting patterns from noisy data, many cognitive tasks require untangling overlapping signals. Neural circuits achieve this by transforming complex sensory inputs into distinct, separable representations that guide behavior. Data-visualization techniques convey the geometry of these transformations, and decoding approaches quantify performance efficiency. However, we lack a framework for linking these two key aspects. Here we address this gap by introducing a data-driven analysis framework, which we call Geometry Linked to Untangling Efficiency (GLUE) with manifold capacity theory, that links changes in the geometrical properties of neural activity patterns to representational untangling at the computational level. We applied GLUE to over seven neuroscience datasets—spanning multiple organisms, tasks, and recording techniques—and found that task-relevant representations untangle in many domains, including along the cortical hierarchy, through learning, and over the course of intrinsic neural dynamics. [<a id="external-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11996410/">pdf</a>] [<a id="external-link" href="assets/bib/chou2025geometry.html">bib</a>] <i> bioRxiv, 2025 </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/chou2025geometry.png" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
+   <div class="pub-card-title"> <!----Title---> Feature Learning beyond the Lazy-Rich Dichotomy: Insights from Representational Geometry </div>
+    <div class="pub-card-subtitle"> <!----Title---> Chi-Ning Chou*, Hang Le*, Yichen Wang, SueYeon Chung </div> 
+    <div class="pub-card-body"> <!----Description---> Integrating task-relevant information into neural representations is a fundamental ability of both biological and artificial intelligence systems. Recent theories have categorized learning into two regimes: the rich regime, where neural networks actively learn task-relevant features, and the lazy regime, where networks behave like random feature models. Yet this simple lazy–rich dichotomy overlooks a diverse underlying taxonomy of feature learning, shaped by differences in learning algorithms, network architectures, and data properties. To address this gap, we introduce an analysis framework to study feature learning via the geometry of neural representations. Rather than inspecting individual learned features, we characterize how task-relevant representational manifolds evolve throughout the learning process. We show, in both theoretical and empirical settings, that as networks learn features, task-relevant manifolds untangle, with changes in manifold geometry revealing distinct learning stages and strategies beyond the lazy–rich dichotomy. [<a id="external-link" href="https://openreview.net/forum?id=gKdjHLrHDS">pdf</a>][<a id="external-link" href="assets/bib/choufeature2025.html">bib</a>] <i> Spotlight paper, ICML, 2025 </i> </div>
+</div>
+<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/choufeature2025.png" />
+</div>
+
+<hr>
+<div class="pub-card">
+<div class="pub-card-text">    
    <div class="pub-card-title"> <!----Title---> Spectral Analysis of Representational Similarity with Limited Neurons </div>
     <div class="pub-card-subtitle"> <!----Title---> Hyunmo Kang, Abdulkadir Canatar, SueYeon Chung </div> 
     <div class="pub-card-body"> <!----Description---> Measuring representational similarity between neural recordings and computational models is challenging due to constraints on the number of neurons that can be recorded simultaneously. In this work, we investigate how such limitations affect similarity measures, focusing on Canonical Correlation Analysis (CCA) and Centered Kernel Alignment (CKA). Leveraging tools from Random Matrix Theory, we develop a predictive spectral framework for these measures and demonstrate that finite neuron sampling systematically underestimates similarity due to eigenvector delocalization. To overcome this, we introduce a denoising method to infer population-level similarity, enabling accurate analysis even with small neuron samples. [<a id="external-link" href="https://arxiv.org/pdf/2502.19648">pdf</a>][<a id="external-link" href="assets/bib/kang2025spectral.html">bib</a>] <i> arXiv, 2025 </i> </div>
@@ -76,16 +96,6 @@ layout: default
     <div class="pub-card-body"> <!----Description---> Higher brain functions depend on experience-dependent representations of relevant information that may be organized by attractor dynamics or by geometrical modifications of continuous “neural manifolds”. To explore these scenarios we analyzed odor-evoked activity in telencephalic area pDp of juvenile and adult zebrafish, the homolog of piriform cortex. No obvious signatures of attractor dynamics were detected. Rather, olfactory discrimination training selectively enhanced the separation of neural manifolds representing task-relevant odors from other representations, consistent with predictions of autoassociative network models endowed with precise synaptic balance. [<a id="external-link" href="https://www.biorxiv.org/content/10.1101/2024.11.17.623906v1">pdf</a>][<a id="external-link" href="assets/bib/hu2024representational.html">bib</a>] <i> bioRxiv, 2024 </i> </div>
 </div>
 <img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/hu2024representational.png" />
-</div>
-
-<hr>
-<div class="pub-card">
-<div class="pub-card-text">    
-   <div class="pub-card-title"> <!----Title---> Neural Manifold Capacity Captures Representation Geometry, Correlations, and Task-Efficiency Across Species and Behaviors </div>
-    <div class="pub-card-subtitle"> <!----Title---> Chi-Ning Chou, Luke Arend, Albert J. Wakhloo, Royoung Kim, Will Slatton, SueYeon Chung </div> 
-    <div class="pub-card-body"> <!----Description---> We present effective Geometric measures from Correlated Manifold Capacity theory (GCMC) for probing the functional structure in neural representations. We utilize a statistical physics approach to establish analytical connections between neural co-variabilities and downstream read-out efficiency. These effective geometric measures capture both stimulus-driven and behavior-driven structures in neural population activities, while extracting computationally-relevant information from neural data into intuitive and interpretable analysis descriptors. [<a id="external-link" href="https://www.biorxiv.org/content/10.1101/2024.02.26.582157v1">pdf</a>] <i> bioRxiv, 2024 </i> </div>
-</div>
-<img class="pub-card-img" src="{{site.baseurl | prepend:site.url}}assets/img/chou2024.png" />
 </div>
 
 <hr>
