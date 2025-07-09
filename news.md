@@ -5,6 +5,27 @@ layout: default
 <div class="container">
 
 <h1> News </h1>
+
+<h2> 2025 </h2>
+<ul>
+<li>
+May 2025, Gave a talk at the <a id="external-link" href="https://math.rutgers.edu/news-events/list-all-events/icalrepeat.detail/2025/05/18/22745/-/128th-statistical-mechanics-conference-may-18-20-2025">128th Statistical Mechanics Conference at Rutgers University</a>.
+</li>
+<li>
+May 2025, Our <a id="external-link" href="https://arxiv.org/pdf/2502.15104?">new paper</a> was accepted to <a id="external-link" href="https://2025.ccneuro.org/">CogCompNeuro 2025</a>—congrats to Abdul and Chan-Woo!
+</li>
+<li>
+April 2025, Several lab members and I attended the <a id="external-link" href="https://liberalarts.utexas.edu/cps/neti-workshop/">NETI Workshop</a> at UT Austin.
+</li>
+<li>
+March 2025, Our lab gave 2 talks (1 main meeting and 1 workshop) and presented 3 posters at <a id="external-link" href="https://www.cosyne.org/">Cosyne 2025</a>. I also completed my two-year tenure as workshop co-chair and gave a talk at the Mentoring and Networking Luncheon.
+</li>
+<li>
+January 2025, Our <a id="external-link" href="https://arxiv.org/pdf/2502.08009">paper</a> was accepted at <a id="external-link" href="https://aclanthology.org/events/naacl-2025/">NAACL 2025</a>—led by Artem and in collaboration with Kyunghyun Cho. Congratulations, Artem!
+</li>
+</ul>
+
+<h2> 2024 </h2>
 <ul>
 <li>
 Talk at <a id="external-link" href="https://unireps.org/2024/">the 2024 NeurIPS Workshop on Unifying Representations in Neural Models (UniReps)</a>, Vancouver, Canada. <a id="external-link" href="https://neurips.cc/virtual/2024/108378">[Video]</a>
@@ -27,7 +48,12 @@ Talk at <a id="external-link" href="https://n4solutionsllc.com/brainneuroai/">th
 <li> Course on neural networks in the Spring 2024 term. 
 </li>
 <li> January 2024, Keynote talk at Conf. on Parsimony and Learning (CPAL)
-</li> 
+</li>
+</ul>
+
+<h2> 2023 </h2>
+
+<ul>
 <li> November 2023, Papers at NeurIPS 2023: <a id="external-link" href="https://openreview.net/pdf?id=5B1ZK60jWn">"Canatar and Feather et al"</a>  (spotlight, main meeting), <a id="external-link" href="https://openreview.net/pdf?id=og9V7NgOrQ">"Yerxa et al"</a> (main meeting), <a id="external-link" href="https://arxiv.org/pdf/2312.02791.pdf">"Ligeralde and Kuang et al"</a> (UniReps workshop). Talk at the Sensorium workshop. 
 </li>
 <li>
@@ -84,6 +110,12 @@ January 2023, New Paper in PNAS! Collaboration with Dan Sanes Lab
 <li>
 December 2023, Intern Andrew Ligeralde’s paper got accepted into Neurreps workshop 
 </li>
+</ul>
+<hr>
+
+<h2> 2022 </h2>
+
+<ul>
 <li>
 November 2022, Intern Wanyu Lei presents poster at Deepmath  
 </li>

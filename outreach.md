@@ -8,6 +8,33 @@ layout: default
 
 <h2> Talks </h2>
 <ul>
+<li>
+Talk at the <a id='external-link' href="https://math.rutgers.edu/news-events/list-all-events/icalrepeat.detail/2025/05/18/22745/-/128th-statistical-mechanics-conference-may-18-20-2025">128th Statistical Mechanics Conference at Rutgers University</a>. May 28, 2025.
+</li>
+<li>
+Talk at <a id='external-link' href="https://liberalarts.utexas.edu/cps/neti-workshop/">NETI Workshop</a> at UT Austin. April 25 - April 27, 2025.
+</li>
+<li>
+<a id='external-link' href="https://www.cosyne.org/">Cosyne 2025</a>: Our lab gave 2 talks (1 main meeting and 1 workshop) and presented 3 posters. I also completed my two-year tenure as workshop co-chair and gave a talk at the Mentoring and Networking Luncheon. March 26 - April 1, 2025.
+</li>
+<li>
+Talk at the <a id='external-link' href="https://iaifi.org/phd-summer-school">2025 IAIFI Summer School</a>, organized by the NSF Institute for Artificial Intelligence and Fundamental Interactions. August 4-8,2025.
+</li>
+<li>	
+Talk at the <a id='external-link' href="https://unireps.org/2024/"> 2024 NeurIPS Workshop on Unifying Representations in Neural Models (UniReps)</a>, Vancouver, Canada. December 14, 2024, SueYeon Chung [<a id='external-link' href="https://neurips.cc/virtual/2024/108378">Video</a>]
+</li>
+<li>
+Talk at the <a id='external-link' href="https://n4solutionsllc.com/brainneuroai/"> 2024 NIH BRAIN Initiative NeuroAI Workshop </a>, Bethesda, MD. November 13, 2024, SueYeon Chung [<a id='external-link' href="https://videocast.nih.gov/watch=55262">Video cast</a>]
+</li>
+<li>
+<a id='external-link' href="https://www.cosyne.org/"> COSYNE 2024 </a>: 6 posters, 1 main meeting talk, 1 workshop talk, February 29, 2024. [<a id='external-link' href="https://x.com/s_y_chung/status/1763185502306349532?s=20">Link</a>]
+</li>
+<li>
+<a id='external-link' href="https://cpal.cc/"> Conference on Parsimony and Learning (CPAL) </a> : Keynote talk, January 4, 2024, SueYeon Chung.
+</li>
+<li>
+Mind, Brain, Computation and Technology seminar at Stanford: Multi-level theory of neural representations: Capacity of neural manifolds in biological and artificial neural networks, November 6, 2023, SueYeon Chung [<a id='external-link' href="https://events.stanford.edu/event/sueyeon_chung_-_understanding_visual_attention_with_artificial_neural_networks">Link</a>]
+</li>
 <li> COSYNE 2022 Workshop: Task-efficient population coding and representation geometry, March 22, 2022, SueYeon Chung [<a id="external-link" href="https://www.dropbox.com/s/7q7lsrkabpibr0r/recorded_talk_cosyne2022_sueyeon_chung.mp4?dl=0">video link</a>]
 </li>
 <li> Harvard Learning Seminar: February 11, 2022, SueYeon Chung [<a id="external-link" href="https://harvard.zoom.us/rec/play/Zd3EsLuxiYQ28kTWPngePVG2ihCC5xj7A0buxEMLd4pqIQrwtQhj933IdQ6VDXJiBs2orTMfCe30JIgF.FY69j5sjqiES2hLP?startTime=1644609760000">video link</a>]
@@ -70,6 +97,8 @@ layout: default
 
 <h2> Media and Press </h2>
 <ul>
+<li> <a href="https://nyudatascience.medium.com/maximum-manifold-capacity-representations-a-step-forward-in-self-supervised-learning-9619b2532b58"> “Maximum Manifold Capacity Representations: A Step Forward in Self-Supervised Learning" </a> NYU Center for Data Science, September 13, 2024
+</li>
 <li> <a href="https://www.simonsfoundation.org/2023/10/26/how-do-our-brains-classify-similar-objects-new-theory-works-out-the-details/"> “How do our brains classify similar objects? New Theory works out the details" </a> Simons Foundation November 8 2023
 </li>
 <li> <a href="https://physics.aps.org/articles/v16/108"> “Performance Capacity of a Complex Neural Network,” Feature in Physics (by American Physical Society), </a> July 12 2023
@@ -90,6 +119,11 @@ layout: default
 
 <h2> Teaching </h2>
 <ul>
+<li> Lecturer, <a href="https://canvas.harvard.edu/courses/154485">"PHYSICS 262: Statistical Mechanics"</a>, Fall 2025 (Harvard University) [also known as APPHY 284] </li>
+<li> Lecturer, <a href="https://iaifi.org/phd-summer-school">"Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) Summer School"</a>, 2025 (Cambridge, MA) </li>
+<li> Lecturer, Graduate Seminar, <a href="https://docs.google.com/document/d/1Lv7mp8Uz_womFEpJe21OjS40eo6xOKmzzVviGG1yQ1k/edit?usp=sharing">"Neural Networks: Theory & Applications"</a>, Spring 2024 (NYU) </li>
+<li> Course Lecturer, Methods in Computational Neuroscience, Woods Hole, MA 2024-2025 </li>
+<li> Guest Lecturer, Brains, Minds, Machines course, Woods Hole, MA, 2024 </li>
 <li> Lecturer, IBRO-Simons Computational Neuroscience Imbizo, Cape Town, South Africa 2023 </li>
 <li> Guest Lecture, NYU (NEURL-GA.2205), Behavioral & Cognitive Neuroscience 	2023 </li>
 <li> Guest Lecture, Korean Society for Computational Neuroscience Winter School (Virtual) 2023 </li>
