@@ -5,7 +5,6 @@ layout: default
 <div class="container">
 
 <h1> News </h1>
-<hr>
 
 <h2> 2025 </h2>
 <ul>
@@ -25,7 +24,6 @@ March 2025, Our lab gave 2 talks (1 main meeting and 1 workshop) and presented 3
 January 2025, Our <a id="external-link" href="https://arxiv.org/pdf/2502.08009">paper</a> was accepted at <a id="external-link" href="https://aclanthology.org/events/naacl-2025/">NAACL 2025</a>—led by Artem and in collaboration with Kyunghyun Cho. Congratulations, Artem!
 </li>
 </ul>
-<hr>
 
 <h2> 2024 </h2>
 <ul>
@@ -52,7 +50,6 @@ Talk at <a id="external-link" href="https://n4solutionsllc.com/brainneuroai/">th
 <li> January 2024, Keynote talk at Conf. on Parsimony and Learning (CPAL)
 </li>
 </ul>
-<hr>
 
 <h2> 2023 </h2>
 
@@ -147,6 +144,5 @@ February 2022, New preprint (arxiv): “The implicit bias of gradient descent on
 January 2022, Our lab joins Flatiron Institute’s Center for Computational Neuroscience 
 </li>
 </ul>
-<hr>
 
 </div>
