@@ -44,6 +44,13 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/manu-halvagal.jpeg"/>
+    <div id="person" class="card-title"> <!----Title---> Manu Srinath Halvagal PhD</div>
+    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
+    <div id="person" class="card-body"> <!--Description--> Manu received his PhD in Neurobiology from the Friedrich Miescher Institute in Basel, MS in Microengineering from EPFL and B.Tech in Electrical Engineering from IIT Madras. He is currently a Postdoctoral Fellow in the Department of Physics at Harvard University. He is broadly interested in questions at the intersection of machine learning and neuroscience, with a focus on predictive self-supervised representation learning.</div>
+</div>
+
+<div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/will-slatton.jpg"/>
     <div id="person" class="card-title"> <!----Title--->  Will Slatton </div>
     <div id="person" class="card-subtitle"> <!----Title---> PhD Student </div> 
