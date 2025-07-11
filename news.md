@@ -9,13 +9,13 @@ layout: default
 <h2> 2025 </h2>
 <ul>
 <li>
-May 2025, Gave a talk at the <a id="external-link" href="https://math.rutgers.edu/news-events/list-all-events/icalrepeat.detail/2025/05/18/22745/-/128th-statistical-mechanics-conference-may-18-20-2025">128th Statistical Mechanics Conference at Rutgers University</a>.
+May 2025, SueYeon gave a talk at the <a id="external-link" href="https://math.rutgers.edu/news-events/list-all-events/icalrepeat.detail/2025/05/18/22745/-/128th-statistical-mechanics-conference-may-18-20-2025">128th Statistical Mechanics Conference at Rutgers University</a>.
 </li>
 <li>
 May 2025, Our <a id="external-link" href="https://arxiv.org/pdf/2502.15104?">new paper</a> was accepted to <a id="external-link" href="https://2025.ccneuro.org/">CogCompNeuro 2025</a>—congrats to Abdul and Chan-Woo!
 </li>
 <li>
-April 2025, Several lab members and I attended the <a id="external-link" href="https://liberalarts.utexas.edu/cps/neti-workshop/">NETI Workshop</a> at UT Austin.
+April 2025, Several lab members and SueYeon attended the <a id="external-link" href="https://liberalarts.utexas.edu/cps/neti-workshop/">NETI Workshop</a> at UT Austin.
 </li>
 <li>
 March 2025, Our lab gave 2 talks (1 main meeting and 1 workshop) and presented 3 posters at <a id="external-link" href="https://www.cosyne.org/">Cosyne 2025</a>. I also completed my two-year tenure as workshop co-chair and gave a talk at the Mentoring and Networking Luncheon.
@@ -28,14 +28,14 @@ January 2025, Our <a id="external-link" href="https://arxiv.org/pdf/2502.08009">
 <h2> 2024 </h2>
 <ul>
 <li>
-Talk at <a id="external-link" href="https://unireps.org/2024/">the 2024 NeurIPS Workshop on Unifying Representations in Neural Models (UniReps)</a>, Vancouver, Canada. <a id="external-link" href="https://neurips.cc/virtual/2024/108378">[Video]</a>
+SueYeon gave a talk at <a id="external-link" href="https://unireps.org/2024/">the 2024 NeurIPS Workshop on Unifying Representations in Neural Models (UniReps)</a>, Vancouver, Canada. <a id="external-link" href="https://neurips.cc/virtual/2024/108378">[Video]</a>
 </li>
 <li>
-Talk at <a id="external-link" href="https://n4solutionsllc.com/brainneuroai/">the 2024 NIH BRAIN Initiative NeuroAI Workshop</a>, Bethesda, MD. <a id="external-link" href="https://videocast.nih.gov/watch=55262">[Videocast]</a>
+SueYeon gave a talk at <a id="external-link" href="https://n4solutionsllc.com/brainneuroai/">the 2024 NIH BRAIN Initiative NeuroAI Workshop</a>, Bethesda, MD. <a id="external-link" href="https://videocast.nih.gov/watch=55262">[Videocast]</a>
 </li>
 <li> October 2024, Check out our lab's work at <a id="external-link" href="https://meetings.cshl.edu/meetings.aspx?meet=NAISYS">From Neuroscience to Artificially Intelligent Systems (NAISys) 2024</a>: 2 talks, 5 posters. [<a id="external-link" href="https://meetings.cshl.edu/posters/naisys24/naisys2024_AbstractBook.pdf">Link</a>]
 </li>
-<li> September 2024, I’ll be co-chairing <a id="external-link" href="https://www.cosyne.org/workshops-call">workshops at COSYNE 2025</a>. Proposal deadline: 10/4/2024.
+<li> September 2024, SueYeon’ll be co-chairing <a id="external-link" href="https://www.cosyne.org/workshops-call">workshops at COSYNE 2025</a>. Proposal deadline: 10/4/2024.
 </li>
 <li> July 2024, The lab is awarded an R01 grant! Thanks to the NIH Brain Initiative and the NIDA for their generous support!
 </li>
@@ -47,7 +47,7 @@ Talk at <a id="external-link" href="https://n4solutionsllc.com/brainneuroai/">th
 </li>
 <li> Course on neural networks in the Spring 2024 term. 
 </li>
-<li> January 2024, Keynote talk at Conf. on Parsimony and Learning (CPAL)
+<li> January 2024, SueYeon gave a keynote talk at Conf. on Parsimony and Learning (CPAL)
 </li>
 </ul>
 
@@ -57,10 +57,10 @@ Talk at <a id="external-link" href="https://n4solutionsllc.com/brainneuroai/">th
 <li> November 2023, Papers at NeurIPS 2023: <a id="external-link" href="https://openreview.net/pdf?id=5B1ZK60jWn">"Canatar and Feather et al"</a>  (spotlight, main meeting), <a id="external-link" href="https://openreview.net/pdf?id=og9V7NgOrQ">"Yerxa et al"</a> (main meeting), <a id="external-link" href="https://arxiv.org/pdf/2312.02791.pdf">"Ligeralde and Kuang et al"</a> (UniReps workshop). Talk at the Sensorium workshop. 
 </li>
 <li>
-November 2023, <a id='external-link' href="https://events.stanford.edu/event/sueyeon_chung_-_understanding_visual_attention_with_artificial_neural_networks"> Mind, Brain, Computation and Technology </a> seminar at Stanford 
+November 2023, SueYeon gave a seminar at <a id='external-link' href="https://events.stanford.edu/event/sueyeon_chung_-_understanding_visual_attention_with_artificial_neural_networks"> Mind, Brain, Computation and Technology </a> at Stanford 
 </li>
 <li>
-November 2023, <a id='external-link' href="https://physics.wustl.edu/events/physics-colloquium-sue-yeon-chung-multi-level-theory-neural-representations-capacity-neural"> Physics colloquium </a> at Washington University at St Louis
+November 2023, SueYeon gave a talk at <a id='external-link' href="https://physics.wustl.edu/events/physics-colloquium-sue-yeon-chung-multi-level-theory-neural-representations-capacity-neural"> Physics colloquium </a> at Washington University at St Louis
 </li>
 <li>
 October 2023, Albert’s PRL paper is highlighted in Simons Foundation’s science feature article.
@@ -75,7 +75,7 @@ September 2023, Our paper on Maximum Manifold Capacity Representations has been 
 August 2023, Our lab participated in the Analytical Connectionism Summer School 2023 in London
 </li>
 <li>
-August 2023, Plenary talk at ICML Workshop on High-dimensional Learning Dynamics 
+August 2023, SueYeon gave a plenary talk at ICML Workshop on High-dimensional Learning Dynamics 
 </li>
 <li>
 July 2023, Our new paper on the role of correlated variability in neural manifold capacity is published in Physical Review Letters (selected as an Editors’ Suggestion, and featured in Physics) 
