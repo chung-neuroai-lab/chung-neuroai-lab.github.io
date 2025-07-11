@@ -18,7 +18,7 @@ May 2025, Our <a id="external-link" href="https://arxiv.org/pdf/2502.15104?">new
 April 2025, Several lab members and SueYeon attended the <a id="external-link" href="https://liberalarts.utexas.edu/cps/neti-workshop/">NETI Workshop</a> at UT Austin.
 </li>
 <li>
-March 2025, Our lab gave 2 talks (1 main meeting and 1 workshop) and presented 3 posters at <a id="external-link" href="https://www.cosyne.org/">Cosyne 2025</a>. I also completed my two-year tenure as workshop co-chair and gave a talk at the Mentoring and Networking Luncheon.
+March 2025, Our lab gave 2 talks (1 main meeting and 1 workshop) and presented 3 posters at <a id="external-link" href="https://www.cosyne.org/">Cosyne 2025</a>. SueYeon also completed my two-year tenure as workshop co-chair and gave a talk at the Mentoring and Networking Luncheon.
 </li>
 <li>
 January 2025, Our <a id="external-link" href="https://arxiv.org/pdf/2502.08009">paper</a> was accepted at <a id="external-link" href="https://aclanthology.org/events/naacl-2025/">NAACL 2025</a>—led by Artem and in collaboration with Kyunghyun Cho. Congratulations, Artem!
