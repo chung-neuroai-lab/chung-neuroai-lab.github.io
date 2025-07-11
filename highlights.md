@@ -11,10 +11,10 @@ is_grid: true
 <h3> Theory of Neural Manifolds</h3>
 <div class="cards">
 <div class="card">
-    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/chou2024.png" height="300px" width="200px"/>
-   <div class="card-title"> <!----Title---> Neural Manifold Capacity Captures Representation Geometry, Correlations, and Task-Efficiency Across Species and Behaviors </div>
-    <div class="card-subtitle"> <!----Title--->  Chi-Ning Chou, Luke Arend, Albert J. Wakhloo, Royoung Kim, Will Slatton, SueYeon Chung </div> 
-    <div class="card-body"> <!----Description--->  We present effective Geometric measures from Correlated Manifold Capacity theory (GCMC) for probing the functional structure in neural representations. We utilize a statistical physics approach to establish analytical connections between neural co-variabilities and downstream read-out efficiency. These effective geometric measures capture both stimulus-driven and behavior-driven structures in neural population activities, while extracting computationally-relevant information from neural data into intuitive and interpretable analysis descriptors. [<a id="external-link" href="https://www.biorxiv.org/content/10.1101/2024.02.26.582157v1">pdf</a>] <i> bioRxiv, 2024 </i> </div>
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/chou2025geometry.png" height="300px" width="200px"/>
+   <div class="card-title"> <!----Title---> Geometry linked to untangling efficiency reveals structure and computation in neural populations </div>
+    <div class="card-subtitle"> <!----Title---> Chi-Ning Chou, Royoung Kim, Luke A Arend, Yao-Yuan Yang, Brett D Mensh, Won Mok Shim, Matthew G Perich, SueYeon Chung </div> 
+    <div class="card-body"> <!----Description---> We introduce GLUE (Geometry Linked to Untangling Efficiency) a data-driven analysis framework with manifold capacity theory, that links changes in the geometrical properties of neural activity patterns to representational untangling at the computational level. We applied GLUE to over seven neuroscience datasets—spanning multiple organisms, tasks, and recording techniques—and found that task-relevant representations untangle in many domains, including along the cortical hierarchy, through learning, and over the course of intrinsic neural dynamics. [<a id="external-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11996410/">pdf</a>] [<a id="external-link" href="assets/bib/chou2025geometry.html">bib</a>] <i> bioRxiv, 2025 </i> </div>
 </div>
 
 <div class="card">
@@ -48,8 +48,38 @@ is_grid: true
 
 <br>
 <hr>
-<h3> Manifold analysis in brain-inspired ANN models and neural data</h3>
+<h3> Manifold analysis as a population coding framework, and tools for neural data analysis and interpretable AI </h3>
 <div class="cards">
+
+<div class="card">
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/saraf2025variations.png" height="300px" width="200px"/>
+   <div class="card-title"> <!----Title---> Variations in neuronal selectivity create efficient representational geometries for perception </div> 
+    <div class="card-subtitle"> <!----Title---> Sonica Saraf, J. Anthony Movshon, SueYeon Chung </div> 
+    <div class="card-body"> <!----Description---> Neurons exhibit a wide variety of selective response properties, but the reasons for this diversity are unknown. Here, we related the distribution of neuronal tuning properties to the information capacity of the population. Our results from theory, simulations, and analysis of recordings from macaque primary visual cortex (V1) reveal that diversity of amplitude and bandwidth drive complementary changes to the representational geometry of a population. Amplitude diversity pushes the centers of the representations further apart, whereas bandwidth heterogeneity decorrelates the center locations. These geometric changes separate out representations for distinct stimuli, creating more efficient encoding. [<a id="external-link" href="https://www.biorxiv.org/content/10.1101/2025.06.26.661754v1">pdf</a>] [<a id="external-link" href="assets/bib/saraf2025variations.html">bib</a>] <i> bioRxiv, 2025 </i> </div>
+</div>
+
+<div class="card">
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/chou2025geometry.png" height="300px" width="200px"/>
+   <div class="card-title"> <!----Title---> Geometry linked to untangling efficiency reveals structure and computation in neural populations </div>
+    <div class="card-subtitle"> <!----Title---> Chi-Ning Chou, Royoung Kim, Luke A Arend, Yao-Yuan Yang, Brett D Mensh, Won Mok Shim, Matthew G Perich, SueYeon Chung </div> 
+    <div class="card-body"> <!----Description---> We introduce GLUE (Geometry Linked to Untangling Efficiency) a data-driven analysis framework with manifold capacity theory, that links changes in the geometrical properties of neural activity patterns to representational untangling at the computational level. We applied GLUE to over seven neuroscience datasets—spanning multiple organisms, tasks, and recording techniques—and found that task-relevant representations untangle in many domains, including along the cortical hierarchy, through learning, and over the course of intrinsic neural dynamics. [<a id="external-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11996410/">pdf</a>] [<a id="external-link" href="assets/bib/chou2025geometry.html">bib</a>] <i> bioRxiv, 2025 </i> </div>
+</div>
+
+
+<div class="card">
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/kirsanov2025geometry.png" height="300px" width="200px"/>
+   <div class="card-title"> <!----Title---> The Geometry of Prompting: Unveiling Distinct Mechanisms of Task Adaptation in Language Models </div> 
+    <div class="card-subtitle"> <!----Title---> Artem Kirsanov, Chi-Ning Chou, Kyunghyun Cho, SueYeon Chung</div> 
+    <div class="card-body"> <!----Description---> We investigate how different prompting methods affect the geometry of representations in these models. Employing a framework grounded in statistical physics, we reveal that various prompting techniques, while achieving similar performance, operate through distinct representational mechanisms for task adaptation. Our analysis highlights the critical role of input distribution samples and label semantics in few-shot in-context learning. [<a id="external-link" href="https://arxiv.org/pdf/2502.08009">pdf</a>][<a id="external-link" href="assets/bib/kirsanov2025geometry.html">bib</a>] <i> NAACL, 2025 </i>  </div>
+</div>
+
+
+<div class="card">
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/wakhloo2024.png" height="300px" width="200px"/>
+   <div class="card-title"> <!----Title---> Neural Population Geometry and Optimal Coding of Tasks with Shared Latent Structure </div> 
+    <div class="card-subtitle"> <!----Title---> Albert J. Wakhloo, Will Slatton, and SueYeon Chung </div> 
+    <div class="card-body"> <!----Description---> Humans and animals can recognize latent structures in their environment and apply this information to efficiently navigate the world. Several recent works argue that the brain supports these abilities by forming neural representations that encode such latent structures in flexible, generalizable ways. However, it remains unclear what aspects of neural population activity are contributing to these computational capabilities. Here, we develop an analytical theory linking the mesoscopic statistics of a neural population’s activity to generalization performance on a multi-task learning problem.  [<a id="external-link" href="https://arxiv.org/pdf/2402.16770.pdf">pdf</a>] <i> arXiv, 2024 </i> </div>
+</div>
 
 <div class="card">
     <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/cohen-et-al.png" height="300px" width="200px"/>
@@ -83,8 +113,22 @@ is_grid: true
 
 <br>
 <hr>
-<h3> Bioplausible Learning</h3>
+<h3> Neuro-inspired AI and brain-AI alignment </h3>
 <div class="cards">
+
+<div class="card">
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/pub_imgs/yerxa2024contrastive.png" height="300px" width="200px"/>
+    <div class="card-title"> <!----Title---> Contrastive-Equivariant Self-Supervised Learning Improves Alignment with Primate Visual Area IT </div>
+    <div class="card-subtitle"> <!----Title---> Thomas Yerxa, Jenelle Feather, Eero Simoncelli, SueYeon Chung </div> 
+    <div class="card-body"> <!----Description--->  We introduce a novel framework for converting standard invariant SSL losses into “contrastive-equivariant” versions that encourage preservation of input transformations without supervised access to the transformation parameters. We demonstrate that our proposed method systematically increases the ability of models to predict responses in macaque inferior temporal cortex. [<a id="external-link" href="https://openreview.net/pdf?id=AiMs8GPP5q">pdf</a>][<a id="external-link" href="assets/bib/yerxa2024contrastive.html">bib</a>] <i> NeurIPS, 2024 </i> </div> </div>
+</div>
+
+<div class="card">
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/canatar2023.png" height="300px" width="200px"/>
+    <div class="card-title"> <!----Title---> A Spectral Theory of Neural Prediction and Alignment </div>
+    <div class="card-subtitle"> <!----Title---> Abdulkadir Canatar*, Jenelle Feather*, Albert Wakhloo, SueYeon Chung </div> 
+    <div class="card-body"> <!----Description--->  Many different state-of-the-art deep neural networks yield similar neural predictions, but it remains unclear how to differentiate among models that perform equally well at predicting neural responses. To gain insight into this, we use a recent theoretical framework that relates the generalization error from regression to the spectral bias of the model activations and the alignment of the neural responses onto the learnable subspace of the model. [<a id="external-link" href="https://openreview.net/pdf?id=5B1ZK60jWn">pdf</a>] [<a id="external-link" href="assets/bib/canatar2023.html">bib</a>] [<a id="external-link" href="https://github.com/chung-neuroai-lab/SNAP">code</a>] <i> Spotlight paper, NeurIPS, 2023 </i> </div>
+</div>
 
 <div class="card">
     <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/yerxa2023.png" height="300px" width="200px"/>
