@@ -134,7 +134,7 @@ is_grid: true
     <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/yerxa2023.png" height="300px" width="200px"/>
     <div class="card-title"> <!----Title---> Learning Efficient Coding of Natural Images with Maximum Manifold Capacity Representations </div>
     <div class="card-subtitle"> <!----Title---> Thomas Yerxa, Yilun Kuang, Eero Simoncelli, SueYeon Chung </div> 
-    <div class="card-body"> <!----Description--->  [<a id="external-link" href="https://arxiv.org/pdf/2303.03307.pdf">pdf</a>][<a id="external-link" href="assets/bib/yerxa2023.html">bib</a>] <i> NeurIPS, 2023 </i> </div>
+    <div class="card-body"> <!----Description---> Self-supervised Learning (SSL) provides a strategy for constructing useful representations of images without relying on hand-assigned labels. Many such methods aim to map distinct views of the same scene or object to nearby points in the representation space, while employing some constraint to prevent representational collapse. Here we recast the problem in terms of efficient coding by adopting manifold capacity. [<a id="external-link" href="https://arxiv.org/pdf/2303.03307.pdf">pdf</a>][<a id="external-link" href="assets/bib/yerxa2023.html">bib</a>] <i> NeurIPS, 2023 </i> </div>
 </div>
 
 <div class="card">
