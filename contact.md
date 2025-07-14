@@ -44,7 +44,8 @@ Our lab is jointly based at the Flatiron Institute and New York University throu
 <br>Center for Brain Science & Department of Physics, SueYeon Chung/Chung Lab
 <br>Harvard University
 <br>Northwest Building, 195.05
-<br>52 Oxford St, Cambridge, MA 02138 
+<br>52 Oxford St, Cambridge, MA 02138
+<br><i>Faculty assistant: Molly Neylan (<a href="molly_neylan@fas.harvard.edu">molly_neylan@fas.harvard.edu</a>)</i>
 </li>
 <br>
 <li>
@@ -53,7 +54,6 @@ Our lab is jointly based at the Flatiron Institute and New York University throu
 <br>Harvard University
 <br>Science & Engineering Complex, Rm 6.142 
 <br>150 Western Ave, Allston, MA 02134-1037
-<br><i>Faculty assistant: Molly Neylan (<a href="molly_neylan@fas.harvard.edu">molly_neylan@fas.harvard.edu</a>)</i>
 </li>
 
 </ul>
