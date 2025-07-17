@@ -18,6 +18,13 @@ is_grid: true
 </div>
 
 <div class="card">
+    <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/wakhloo2024.png" height="300px" width="200px"/>
+   <div class="card-title"> <!----Title---> Neural Population Geometry and Optimal Coding of Tasks with Shared Latent Structure </div> 
+    <div class="card-subtitle"> <!----Title---> Albert J. Wakhloo, Will Slatton, and SueYeon Chung </div> 
+    <div class="card-body"> <!----Description---> Humans and animals can recognize latent structures in their environment and apply this information to efficiently navigate the world. Several recent works argue that the brain supports these abilities by forming neural representations that encode such latent structures in flexible, generalizable ways. However, it remains unclear what aspects of neural population activity are contributing to these computational capabilities. Here, we develop an analytical theory linking the mesoscopic statistics of a neural population’s activity to generalization performance on a multi-task learning problem.  [<a id="external-link" href="https://arxiv.org/pdf/2402.16770.pdf">pdf</a>] <i> arXiv, 2024 </i> </div>
+</div>
+
+<div class="card">
     <img class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/wakhloo.png" height="300px" width="200px"/>
    <div class="card-title"> <!----Title---> Linear Classification of Neural Manifolds with Correlated Variability </div>
     <div class="card-subtitle"> <!----Title---> Albert J. Wakhloo, Tamara J. Sussman, and SueYeon Chung </div> 
