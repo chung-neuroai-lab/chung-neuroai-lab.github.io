@@ -16,4 +16,20 @@
 ### Changing Margin and Fonts
 - Changes to style should be made in the main.css file 
 - For overall font and margin, go to the '.body' element in main.css
-- For other specific element, go to the corresponding element indicated by "class" or "id" in the div tag 
+- For other specific element, go to the corresponding element indicated by "class" or "id" in the div tag
+
+### Examples website update
+#### Add a new lab member
+Below are the steps to add a new lab member
+1. Add the member's profile picture to folder `assets/img/{member_name}.jpg`
+2. Modify the file `people.md` to add the new member's biography and link to the uploaded profile image
+
+Example commit: https://github.com/chung-neuroai-lab/chung-neuroai-lab.github.io/commit/164e65df0eddc92564b58d463de2fe82a9a80378
+
+#### Add a new publication
+Below are the steps to add a new publication
+1. Add the bibliography of the new publication: Go to Google Scholar, download the `BibTeX` file, add the `BibTeX` file to `assets/bib/{publication_name}.html`
+2. Add an illustration image of the new publication: Go to the publication `pdf` file, screenshot an illustrative image, add the illustration image to `assets/bib/pub_imgs/{publication_name}.png`. Examples can be found at `assets/bib/pub_imgs`
+3. Modify the `publications.md` file to include the publication's title, authors, short description, and links to the bibliography and illustration image
+
+Example commit: https://github.com/chung-neuroai-lab/chung-neuroai-lab.github.io/commit/a2f3d042c6f73949139eac5b250240f5f068af47
