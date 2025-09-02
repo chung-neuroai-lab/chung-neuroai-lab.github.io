@@ -5,10 +5,17 @@ layout: default
 <div class="container">
 
 <h2> Contact Information </h2>
+<ul>
+<li>
 (General) <a href="mailto:schung@fas.harvard.edu">schung@fas.harvard.edu</a> 
+</li>
+<li>
 (Reference Request) <a href="mailto:schung_ref@g.harvard.edu">schung_ref@g.harvard.edu</a> 
+</li>
+<li>
 (Flatiron Related) <a href="mailto:schung@flatironinstitute.org">schung@flatironinstitute.org</a>
-
+</li>
+</ul>
 
 <h2> Visitor Information </h2>
 <ul>
