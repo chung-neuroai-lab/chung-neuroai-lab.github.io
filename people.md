@@ -12,7 +12,7 @@ is_grid: true
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/sueyeon-chung.jpg"/>
     <div id="person" class="card-title"> <!----Title---> SueYeon Chung PhD</div> 
     <div id="person" class="card-subtitle"> <!----Title---> Principle Investigator </div> 
-    <div id="person" class="card-body">SueYeon received her PhD in Applied Physics at Harvard University and B.A. in Mathematics and Physics at Cornell University. She is currently an assistant professor at NYU Center for Neural Science and a group leader at Flatiron Institute Center for Computational Neuroscience.</div>
+    <div id="person" class="card-body">She is the Director of the NeuroAI and Geometry of Data (NAIGDA) group and an Assistant Professor of Physics and Applied Mathematics at Harvard University. She is also an Institute Investigator at the Kempner Institute for Natural and Artificial Intelligence and a faculty member in the Center for Brain Science. In addition, she holds a part-time appointment at the Center for Computational Neuroscience at the Flatiron Institute, Simons Foundation.</div>
 </div>
     
 <div id="profile" class="card">
