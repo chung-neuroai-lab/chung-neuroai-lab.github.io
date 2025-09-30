@@ -11,8 +11,8 @@ is_grid: true
 <div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/sueyeon-chung.jpg"/>
     <div id="person" class="card-title"> <!----Title---> <a href="https://sites.google.com/site/sueyeonchung/">SueYeon Chung PhD</a></div> 
-    <div id="person" class="card-subtitle"> <!----Title---> Principle Investigator </div> 
-    <div id="person" class="card-body">She is the Director of the NeuroAI and Geometric Data Analysis (NAIGDA) group and an Assistant Professor of Physics and Applied Mathematics at Harvard University. She is also an Institute Investigator at the Kempner Institute for the Study of Natural and Artificial Intelligence and a faculty member in the Center for Brain Science. In addition, she holds a part-time appointment at the Center for Computational Neuroscience at the Flatiron Institute, Simons Foundation.</div>
+    <div id="person" class="card-subtitle"> <!----Title---> Principal Investigator </div> 
+    <div id="person" class="card-body">She is the Director of the NeuroAI and Geometric Data Analysis (NAIGDA) group and an Assistant Professor of Physics and of Applied Mathematics at Harvard University. She is also an Institute Investigator at the Kempner Institute for the Study of Natural and Artificial Intelligence and a member in the Center for Brain Science. In addition, she holds a part-time appointment at the Center for Computational Neuroscience at the Flatiron Institute, Simons Foundation.</div>
 </div>
     
 <div id="profile" class="card">
