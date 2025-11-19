@@ -8,12 +8,10 @@ layout: default
 
 <h3> Graduate Student Positions </h3>
 
-[Prospective PhD applicants]
+<h4> [Prospective PhD applicants] </h4>
 Fall 2026 PhD applicants interested in doing a thesis in our group should apply through Harvard’s Physics, Biophysics, or Neuroscience PhD programs and mention SueYeon Chung in their application materials. Prof. Chung will not be recruiting through SEAS (Applied Math, Applied Physics, or Computer Science) for the Fall 2026 admission cycle.
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 1.5rem 0;">
-
-[Harvard students]
+<h4> [Harvard students] </h4>
 If you are already enrolled at Harvard and are interested in doing a thesis in our group, please contact Prof. Chung by email (with your CV and a brief description of your research interests), regardless of your PhD program.
 
 <h3> Postdoctoral Positions </h3>
