@@ -16,7 +16,7 @@ layout: default
 (Flatiron Related) <a href="mailto:schung@flatironinstitute.org">schung@flatironinstitute.org</a>
 </li>  
 <li>
-(Note) Due to high email volume, I am unable to reply to most emails from non-Harvard students regarding admission, supervised projects or internships.
+Note: Due to high email volume, I am unable to reply to most emails from non-Harvard students regarding admission, supervised projects or internships.
 </li> 
 </ul>
 
