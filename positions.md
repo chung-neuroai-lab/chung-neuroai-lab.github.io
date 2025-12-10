@@ -9,7 +9,7 @@ layout: default
 <h3> Graduate Student Positions </h3>
 
 <h4> [Prospective PhD applicants] </h4>
-If you are interested in pursuing a PhD in our group, consider applying to Harvard programs such as Physics, Biophysics, the Program in Neuroscience, or SEAS programs (including Applied Mathematics, Applied Physics, and Computer Science). If you are deciding between Physics and other programs, Physics is especially recommended since it is my home department. Please mention SueYeon Chung in your application materials.
+If you are interested in pursuing a PhD in our group, consider applying to Harvard programs such as Physics, Biophysics, the Program in Neuroscience, or SEAS programs (including Applied Mathematics, Applied Physics, and Computer Science). If you are deciding between Physics and other programs, Physics is especially recommended since it is Prof. Chung's home department. Please mention SueYeon Chung in your application materials.
 
 <h4> [Harvard students] </h4>
 If you are already enrolled at Harvard and are interested in doing a thesis in our group, please contact Prof. Chung by email (with your CV and a brief description of your research interests), regardless of your PhD program.
