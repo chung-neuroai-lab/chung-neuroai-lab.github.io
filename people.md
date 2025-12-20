@@ -14,6 +14,20 @@ is_grid: true
     <div id="person" class="card-subtitle"> <!----Title---> Principal Investigator </div> 
     <div id="person" class="card-body">She is the Director of the NeuroAI and Geometric Data Analysis (NAIGDA) group and an Assistant Professor of Physics and of Applied Mathematics at Harvard University. She is also an Institute Investigator at the Kempner Institute for the Study of Natural and Artificial Intelligence and a member in the Center for Brain Science. In addition, she holds a part-time appointment at the Center for Computational Neuroscience at the Flatiron Institute, Simons Foundation.</div>
 </div>
+
+<div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/manu-halvagal.jpeg"/>
+    <div id="person" class="card-title"> <!----Title---> Manu Srinath Halvagal PhD</div>
+    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
+    <div id="person" class="card-body"> <!--Description--> Manu received his PhD in Neurobiology from the Friedrich Miescher Institute in Basel, MS in Microengineering from EPFL and B.Tech in Electrical Engineering from IIT Madras. He is currently a Postdoctoral Fellow in the Department of Physics at Harvard University. He is broadly interested in questions at the intersection of machine learning and neuroscience, with a focus on predictive self-supervised representation learning.</div>
+</div>
+
+<div id="profile" class="card">
+    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/chanwoo-chun.jpg"/>
+    <div id="person" class="card-title"> <!----Title---> Chanwoo Chun PhD</div>
+    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
+    <div id="person" class="card-body"> <!--Description--> Chanwoo received his PhD from Weill Cornell Medical College and his B.S. from Cornell University. He is currently a postdoctoral fellow at SueYeon Chung's group. He is interested in understanding how large-scale neural systems encode information for executing complex tasks, such as planning and composition. </div>
+</div>
     
 <div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/abdul-headshot.png"/>
@@ -34,20 +48,6 @@ is_grid: true
     <div id="person" class="card-title"> <!----Title---> <a href="https://seblee97.github.io/">Sebastian Lee PhD</a></div>
     <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
     <div id="person" class="card-body"> <!--Description--> I am a Flatiron Research Fellow in the Center for Computational Neuroscience. I am interested in the intersection of machine learning and theoretical neuroscience, especially in non-stationary and multi-task learning paradigms such as lifelong reinforcement learning and continual learning. Prior to coming to New York, I completed my PhD under the supervision of Andrew Saxe and Claudia Clopath in London. </div>
-</div>
-
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/chanwoo-chun.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> Chanwoo Chun PhD</div>
-    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
-    <div id="person" class="card-body"> <!--Description--> Chanwoo received his PhD from Weill Cornell Medical College and his B.S. from Cornell University. He is currently a postdoctoral fellow at SueYeon Chung's group. He is interested in understanding how large-scale neural systems encode information for executing complex tasks, such as planning and composition. </div>
-</div>
-
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/manu-halvagal.jpeg"/>
-    <div id="person" class="card-title"> <!----Title---> Manu Srinath Halvagal PhD</div>
-    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
-    <div id="person" class="card-body"> <!--Description--> Manu received his PhD in Neurobiology from the Friedrich Miescher Institute in Basel, MS in Microengineering from EPFL and B.Tech in Electrical Engineering from IIT Madras. He is currently a Postdoctoral Fellow in the Department of Physics at Harvard University. He is broadly interested in questions at the intersection of machine learning and neuroscience, with a focus on predictive self-supervised representation learning.</div>
 </div>
 
 <div id="profile" class="card">
