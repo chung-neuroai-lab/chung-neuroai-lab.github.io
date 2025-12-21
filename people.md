@@ -65,13 +65,6 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/jenelle-feather.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> <a href="https://www.jenellefeather.com/">Jenelle Feather PhD</a></div>
-    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral (Co-advised) </div> 
-    <div id="person" class="card-body"> <!--Description--> Jenelle received her PhD from MIT in Brain and Cognitive Sciences, and S.B. from MIT in Physics and Brain and Cognitive Sciences. She is currently a research fellow at Flatiron Institute Center for Computational Neuroscience.</div>
-</div>
-
-<div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/sonica-saraf.jpg"/>
     <div id="person" class="card-title"> <!----Title---> Sonica Saraf</div>
     <div id="person" class="card-subtitle"> <!----Title---> PhD Student (Co-advised)</div> 
@@ -91,13 +84,6 @@ is_grid: true
     <div id="person" class="card-title"> <!----Title---> Jose Hurtado </div>
     <div id="person" class="card-subtitle"> <!----Title---> PhD Student (Co-advised)</div> 
     <div id="person" class="card-body"> <!--Description--> Jose is interested in how the hippocampus, a well characterized brain region involved in episodic memory, integrates information from different modalities (spatial,temporal,contextual) to paint a flexible picture of the present and past world. Currently, he is exploring how manifold representations may help differentiate contexts during spatial navigation.</div>
-</div>
-
-<div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/HangLe_photo.png"/>
-    <div id="person" class="card-title"> <!----Title--->  Hang Le </div>
-    <div id="person" class="card-subtitle"> <!----Title---> Research Analyst </div> 
-    <div id="person" class="card-body"> <!--Description--> Hang received her B.S. and M.Eng in Computation and Cognition from MIT. She formerly worked at MIT McGovern Brain Institute as a research assistant and then at C3.ai as a data scientist. She is interested in the intersection between neuroscience and artificial intelligence, especially biologically plausible learning algorithms. In her free time, she enjoys running, reading and playing badminton.</div>
 </div>
 
 </div>
