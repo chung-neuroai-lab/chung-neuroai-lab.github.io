@@ -26,7 +26,7 @@ Note: Due to high email volume, I am unable to reply to most emails from non-Har
 <b>Cambridge Main Campus:</b>
 <br>Center for Brain Science & Department of Physics, SueYeon Chung/Chung Lab
 <br>Harvard University
-<br>Northwest Building, 195.05
+<br>Northwest Building, Suite 195
 <br>52 Oxford St, Cambridge, MA 02138
 <br><i>Faculty assistant: Molly Neylan (<a href="molly_neylan@fas.harvard.edu">molly_neylan@fas.harvard.edu</a>)</i>
 </li>
@@ -35,7 +35,7 @@ Note: Due to high email volume, I am unable to reply to most emails from non-Har
 <b>Engineering Campus:</b>
 <br>Kempner Institute, SueYeon Chung/Chung Lab
 <br>Harvard University
-<br>Science & Engineering Complex, Rm 6.142 
+<br>Science & Engineering Complex
 <br>150 Western Ave, Allston, MA 02134-1037
 </li>
 
