@@ -6,10 +6,59 @@ layout: default
 
 <h1> News </h1>
 
+<h2>2026</h2>
+<ul>
+<li> 	
+February 2026, <a id="external-link" href="https://www.google.com/url?q=https://www.linkedin.com/in/alexandre-polo-0616b3209/&sa=D&source=editors&ust=1773942489189224&usg=AOvVaw2gL1HDVZwLunuELtHODZMi">Alexandre Polo</a>, a physics PhD student, has joined the group after a successful rotation. Welcome!
+</li>
+<li>
+February 2026, Congrats to Albert and Will on the publication of the new paper, “Neural population geometry and optimal coding of tasks with shared latent structure”, in <a id="external-link" href="https://www.google.com/url?q=https://www.nature.com/articles/s41593-025-02183-y&sa=D&source=editors&ust=1773942489190296&usg=AOvVaw11lwBFzk7Er7ieUSJwPoyd">Nature Neuroscience</a>!
+</li>
+<li>
+February 2026, Congrats to Chi-Ning, Chan Woo, and Abdul on their ICLR 2026 paper acceptances! Preprints forthcoming. 
+</li>
+</ul>
+
 <h2> 2025 </h2>
 <ul>
 <li>
+December 2025, Manu has been awarded an SNSF Mobility Fellowship. Congratulations!
+</li>
+<li>
+December 2025, Keynote talk at the <a id="external-link" href="https://www.google.com/url?q=https://www.main2025.org&sa=D&source=editors&ust=1773942489191884&usg=AOvVaw1M5qOo-degCg4YOXiHrogu">Montreal AI & Neuroscience Meeting (MAIN 2025).</a>
+</li>
+<li>
+December 2025, We’ve created a sign-up form for email updates on future code releases, including work on manifold capacity, GLUE, and related methods. <a id="external-link" href="https://www.google.com/url?q=https://forms.gle/Dr1UssR9FEydErkx7&sa=D&source=editors&ust=1773942489192760&usg=AOvVaw3j-OFI-lsXt9yj0T3N48rv">Link: Chung Lab Code Release Notification</a>
+</li>
+<li>
+December 2025, SueYeon gave a keynote talk at the NeurIPS workshop <a id="external-link" href="https://www.google.com/url?q=https://www.neurreps.org&sa=D&source=editors&ust=1773942489193405&usg=AOvVaw0oPzOsxeItYIIChzIu2LUO">"Symmetry and Geometry in Neural Representations".</a>
+</li>
+<li>	
+December 2025, The Harvard Physics 2025 Newsletter highlights our group on its cover; the full newsletter can be viewed <a id="external-link" href="https://www.google.com/url?q=https://indd.adobe.com/view/b97cb17c-d50e-41cf-8bd5-4f58b769a12b&sa=D&source=editors&ust=1773942489194115&usg=AOvVaw3EP06JXZzhXABJzwoQjgju">here.</a>
+</li>
+<li>
+November 2025, Our lab’s work has been recognized by the “Rising stars in Neuroscience” award by the Transmitter. See the press releases by <a id="external-link" href="https://www.google.com/url?q=https://kempnerinstitute.harvard.edu/news/sueyeon-chung-named-a-2025-rising-star-of-neuroscience-by-the-transmitter/&sa=D&source=editors&ust=1773942489194930&usg=AOvVaw2ML5IOPzvc6ZKQ0rZS1-Vq">Harvard</a> and <a id="external-link" href="https://www.google.com/url?q=https://www.simonsfoundation.org/2025/11/15/ccn-sueyeon-chung-named-a-rising-star-in-neuroscience/&sa=D&source=editors&ust=1773942489195145&usg=AOvVaw1LFzshXedXyC4yJnWoZpJP">Simons Foundation</a>.
+</li>
+<li>
+November 2025, SueYeon gave a talk at the <a id="external-link" href="https://www.google.com/url?q=https://www.humansingleneuron.org&sa=D&source=editors&ust=1773942489195823&usg=AOvVaw0v8ts9R2pTnt2mIE3z_faO">Human Single Neuron Meeting 2025 at CalTech</a>.
+</li>
+<li>
+July-August 2025, SueYeon presented multiple talks at KAIST’s Stochastic Analysis & Applications Research Center, the AI Graduate School, and Korea Institute for Advanced Study’s Neuro-AI Lecture Series.
+</li>
+<li>
+July 2025, SueYeon gave a seminar at the <a id="external-link" href="https://www.google.com/url?q=https://www.ucl.ac.uk/gatsby/news-and-events&sa=D&source=editors&ust=1773942489197062&usg=AOvVaw1gXhGPqVlkYtjHM7CY-lb-">Gatsby Computational Neuroscience Unit</a>.
+</li>
+<li>
+July 2025, <a id="external-link" href="https://www.google.com/url?q=https://scholar.google.com/citations?user%3Dz6yQv2UAAAAJ%26hl%3Den&sa=D&source=editors&ust=1773942489198552&usg=AOvVaw0ZKiZeWEY5Nji4fUd5YPsu">Manu Srinath Halvagal</a> joined the group as a postdoc fellow. Welcome!
+</li>
+<li>
+June 2025, SueYeon gave a talk at the  <a id="external-link" href="https://www.google.com/url?q=https://kempnerinstitute.harvard.edu/frontiers-in-neuroai/&sa=D&source=editors&ust=1773942489199287&usg=AOvVaw2UN_y3i-xF8rjwwj63H5Gw">Frontiers in Neuro-AI Symposium at Harvard</a>. [<a id="external-link" href="https://www.google.com/url?q=https://youtu.be/5OycfT4WqAI?si%3DIcgajx5i1lozAjvU&sa=D&source=editors&ust=1773942489199418&usg=AOvVaw1tGiKKkEff1P38nVcgYPoy">video</a>]
+</li>
+<li>
 May 2025, SueYeon gave a talk at the <a id="external-link" href="https://math.rutgers.edu/news-events/list-all-events/icalrepeat.detail/2025/05/18/22745/-/128th-statistical-mechanics-conference-may-18-20-2025">128th Statistical Mechanics Conference at Rutgers University</a>.
+</li>
+<li>
+May 2025, <a id="external-link" href="https://www.google.com/url?q=https://kempnerinstitute.harvard.edu/people/our-people/chanwoo-chun/&sa=D&source=editors&ust=1773942489200797&usg=AOvVaw2PW77-IcnKonEoaVpZ7DUG">Chan-Woo Chun</a>, previously a student collaborator, officially joined our group as a postdoc fellow. Welcome!
 </li>
 <li>
 May 2025, Our <a id="external-link" href="https://arxiv.org/pdf/2502.15104?">new paper</a> was accepted to <a id="external-link" href="https://2025.ccneuro.org/">CogCompNeuro 2025</a>—congrats to Abdul and Chan-Woo!
