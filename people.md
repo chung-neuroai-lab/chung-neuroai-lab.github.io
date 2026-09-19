@@ -44,13 +44,6 @@ is_grid: true
 </div>
 
 <div id="profile" class="card">
-    <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/sebastian-lee.jpg"/>
-    <div id="person" class="card-title"> <!----Title---> <a href="https://seblee97.github.io/">Sebastian Lee PhD</a></div>
-    <div id="person" class="card-subtitle"> <!----Title---> Post Doctoral</div> 
-    <div id="person" class="card-body"> <!--Description--> I am a Flatiron Research Fellow in the Center for Computational Neuroscience. I am interested in the intersection of machine learning and theoretical neuroscience, especially in non-stationary and multi-task learning paradigms such as lifelong reinforcement learning and continual learning. Prior to coming to New York, I completed my PhD under the supervision of Andrew Saxe and Claudia Clopath in London. </div>
-</div>
-
-<div id="profile" class="card">
     <img id="profile-img" class="card-img" src="{{site.baseurl | prepend:site.url}}assets/img/will-slatton.jpg"/>
     <div id="person" class="card-title"> <!----Title--->  Will Slatton </div>
     <div id="person" class="card-subtitle"> <!----Title---> PhD Student </div> 
